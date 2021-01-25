@@ -1,0 +1,8 @@
+{
+  "name": "Hitchguide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "046d530c"
+}
