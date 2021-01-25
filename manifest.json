@@ -2,7 +2,7 @@
   "short_name": "Hitchguide",
   "name": "Hitchguide",
   "scope": "./",
-  "start_url": ".",
+  "start_url": "./",
   "icons": [
     {
       "src": "assets/icon/favicon.ico",
