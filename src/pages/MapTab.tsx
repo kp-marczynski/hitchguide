@@ -65,6 +65,7 @@ const MapTab: React.FC = () => {
         //     positionChanged = true;
         viewFromLonLat.setCenter(coordinates);
         viewFromLonLat.setZoom(12);
+        viewFromLonLat.setRotation(0);
         // }
     }
 
@@ -81,7 +82,7 @@ const MapTab: React.FC = () => {
                             />
                             <VectorLayer
                                 source={new VectorSource({
-                                    url: '/assets/kml/countries/Poland.kml',
+                                    url: process.env.PUBLIC_URL + '/assets/kml/countries/Poland.kml',
                                     format: new KML({showPointNames: false})
                                 })}
                             />

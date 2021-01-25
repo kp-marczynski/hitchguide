@@ -1,5 +1,8 @@
 import React from 'react';
-import {IonApp} from '@ionic/react';
+import {Redirect, Route} from 'react-router-dom';
+import {IonApp, IonIcon, IonLabel, IonRouterOutlet, IonTabBar, IonTabButton, IonTabs} from '@ionic/react';
+import {IonReactRouter} from '@ionic/react-router';
+import {business, earth, language} from 'ionicons/icons';
 import MapTab from './pages/MapTab';
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -24,8 +27,8 @@ const App: React.FC = () => (
         {/*    <IonTabs>*/}
         {/*        <IonRouterOutlet>*/}
         {/*            <Route path="/map" component={MapTab} exact={true}/>*/}
-        {/*            <Route path="/countries" component={CountriesTab} exact={true}/>*/}
-        {/*            <Route path="/phrasebook" component={PhrasebookTab}/>*/}
+        {/*            /!*<Route path="/countries" component={CountriesTab} exact={true}/>*!/*/}
+        {/*            /!*<Route path="/phrasebook" component={PhrasebookTab}/>*!/*/}
         {/*            <Route path="/" render={() => <Redirect to="/map"/>} exact={true}/>*/}
         {/*        </IonRouterOutlet>*/}
         {/*        <IonTabBar slot="bottom">*/}
