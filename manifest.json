@@ -1,8 +1,6 @@
 {
   "short_name": "Hitchguide",
   "name": "Hitchguide",
-  "scope": "./",
-  "start_url": "./",
   "icons": [
     {
       "src": "assets/icon/favicon.ico",
@@ -16,6 +14,7 @@
       "purpose": "maskable"
     }
   ],
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
