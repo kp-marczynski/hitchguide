@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Pakistan</name>
+	<visibility>1</visibility>
+	<Style id="placemark-blue">
+		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+		<LabelStyle><scale>0.5</scale></LabelStyle>
+	</Style>
+	<Style id="placemark-green">
+  		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+  		<LabelStyle><scale>0.5</scale></LabelStyle>
+  	</Style>
+  	<Style id="placemark-yellow">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+	<Folder>
+		<Folder id="placemark-root">
+		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="2252">
+<name>a Hitchhiking spot in Quetta, Pakistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>66.9996124505997,30.1699886260412</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5884">
+<name>a Hitchhiking spot in H?r?n?b?d, Pakistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>73.125,29.5352295629485</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18428">
+<name>a Hitchhiking spot in Muzaffarabad, Pakistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Beautiful landscape with eye catching views and superb weather..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 14 May 14 11:42:50 +0000">Description written 14.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18428">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>73.4700908660891,34.37392619180272</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24457">
+<name>a Hitchhiking spot in Pakistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>74.56842327117863,31.604184048082555</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24458">
+<name>a Hitchhiking spot in Pakistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>74.53670883178413,36.252134219769665</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark></Folder>
+	</Folder>
+</Document>
+</kml>

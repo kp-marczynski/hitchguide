@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Gibraltar</name>
+	<visibility>1</visibility>
+	<Style id="placemark-blue">
+		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+		<LabelStyle><scale>0.5</scale></LabelStyle>
+	</Style>
+	<Style id="placemark-green">
+  		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+  		<LabelStyle><scale>0.5</scale></LabelStyle>
+  	</Style>
+  	<Style id="placemark-yellow">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+	<Folder>
+		<Folder id="placemark-root">
+		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="3088">
+<name>a Hitchhiking spot in Gibraltar, Gibraltar</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>SPAIN / MOROCCO FRONTIER
+HARD CROSSING DUE TO THE CROWD
+DIRECTION TETOUAN / ALGECIRAS
+Sign : Ask direcly to drivers, a lot are dissatisfied about the frontier system and because there is too much people screaming, crying, waiting hours for visas... It's a very hard point to hitchhike. 
+Position : For the south, maybe walk a little after the taxi parking and put your sign... it will be more quiet</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=3088">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.34469842910767,35.8697862512909</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6515">
+<name>a Hitchhiking spot in Gibraltar, Gibraltar</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Europa point. Tourists come here with cars, park, look around and drive back. Easy targets. Had a lift all the way to Tarifa from here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6515">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.34620046615601,36.109987048361</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9476">
+<name>a Hitchhiking spot in Gibraltar, Gibraltar</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-5.3482410907859,36.154530983609</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Folder>
+	</Folder>
+</Document>
+</kml>

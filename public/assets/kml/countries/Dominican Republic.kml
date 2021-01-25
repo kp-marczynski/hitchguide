@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Dominican Republic</name>
+	<visibility>1</visibility>
+	<Style id="placemark-blue">
+		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+		<LabelStyle><scale>0.5</scale></LabelStyle>
+	</Style>
+	<Style id="placemark-green">
+  		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+  		<LabelStyle><scale>0.5</scale></LabelStyle>
+  	</Style>
+  	<Style id="placemark-yellow">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon><scale>0.5</scale></IconStyle>
+        <LabelStyle><scale>0.5</scale></LabelStyle>
+    </Style>
+	<Folder>
+		<Folder id="placemark-root">
+		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="20459">
+<name>a Hitchhiking spot in El Seibo, Dominican Republic</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-69.03932189942614,18.768194933641915</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25769">
+<name>a Hitchhiking spot in Dominican Republic</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you look like a tourist it's very easy to stop cars. Most will ask for money but some won't care.Easiest place to hitchhike in DR</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 18 May 16 02:07:48 +0000">Description written 18.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25769">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-68.38668680191363,18.55900664122731</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25770">
+<name>a Hitchhiking spot in San Pedro de MacorÃ­s, Dominican Republic</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Many people will stop but most will ask for money</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 18 May 16 02:09:06 +0000">Description written 18.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25770">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-69.28469038010152,18.45930278003794</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Folder>
+	</Folder>
+</Document>
+</kml>
