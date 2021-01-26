@@ -21,7 +21,7 @@ const Map = ({children, view}: MapProps) => {
             layers: [],
             controls: [],
             overlays: [],
-            interactions: [new DragPan()]
+            // interactions: [new DragPan()]
         };
 
         let mapObject: any = new ol.Map(options);

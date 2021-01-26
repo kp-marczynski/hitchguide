@@ -2,8 +2,8 @@
 // http://a.tiles.mapbox.com/v4/mapbox.mapbox-streets-v6.json
 
 export const createMapboxStreetsV6Style = (Style: any, Fill: any, Stroke: any, Icon: any, Text: any) => {
-  var fill = new Fill({color: ''});
-  var stroke = new Stroke({color: '', width: 1});
+  var fill = new Fill({color: '#fff'});
+  var stroke = new Stroke({color: '#fff', width: 1});
   var polygon = new Style({fill: fill});
   var strokedPolygon = new Style({fill: fill, stroke: stroke});
   var line = new Style({stroke: stroke});
@@ -36,7 +36,11 @@ export const createMapboxStreetsV6Style = (Style: any, Fill: any, Stroke: any, I
     var disputed = feature.get('disputed');
     var maki = feature.get('maki');
     var geom = feature.getGeometry().getType();
-    if (layer == 'landuse' && cls == 'park') {
+    if(true){
+      fill.setColor('#d8e8c8');
+      styles[length++] = polygon;
+    }
+    else if (layer == 'landuse' && cls == 'park') {
       fill.setColor('#d8e8c8');
       styles[length++] = polygon;
     } else if (layer == 'landuse' && cls == 'cemetery') {
