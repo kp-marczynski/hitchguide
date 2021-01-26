@@ -2,6 +2,9 @@ import React, {useEffect, useRef, useState} from "react";
 import "./Map.css";
 import MapContext from "./MapContext";
 import * as ol from "ol";
+import {
+    DragPan
+} from 'ol/interaction';
 
 type MapProps = {
     children: any;
@@ -17,7 +20,8 @@ const Map = ({children, view}: MapProps) => {
             view: view,
             layers: [],
             controls: [],
-            overlays: []
+            overlays: [],
+            interactions: [new DragPan()]
         };
 
         let mapObject: any = new ol.Map(options);

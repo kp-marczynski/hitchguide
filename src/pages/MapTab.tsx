@@ -5,17 +5,19 @@ import {Layers, TileLayer, VectorLayer} from "../components/Layers";
 
 import {fromLonLat} from 'ol/proj';
 import {Controls, FullScreenControl} from "../components/Controls";
-import {KML} from 'ol/format';
-import {Vector as VectorSource} from 'ol/source';
+import {KML, MVT} from 'ol/format';
+import {Vector as VectorSource, VectorTile as VectorTileSource} from 'ol/source';
 import Feature from 'ol/Feature';
 import Point from 'ol/geom/Point';
-import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
+import {Circle as CircleStyle, Fill, Stroke, Style, Icon, Text} from 'ol/style';
 import Geolocation from 'ol/Geolocation';
 import View from 'ol/View';
 import './MapTab.css';
 import osm from "../components/Source/osm";
 import {locate} from "ionicons/icons";
+import {createMapboxStreetsV6Style} from "../components/Layers/mapbox-streets-v6-style";
 
+const zoom = 0;
 const MapTab: React.FC = () => {
     const [loadMap, setLoadMap] = useState(false)
     useEffect(() => {
@@ -23,8 +25,8 @@ const MapTab: React.FC = () => {
     }, [])
 
     const viewFromLonLat = new View({
-        center: fromLonLat([17, 51]),
-        zoom: 12
+        center: fromLonLat([20, 41]),
+        zoom: zoom
     });
 
     const geolocation = new Geolocation({
@@ -63,9 +65,9 @@ const MapTab: React.FC = () => {
             new Point(coordinates) : undefined);
         // if (!positionChanged) {
         //     positionChanged = true;
-        viewFromLonLat.setCenter(coordinates);
-        viewFromLonLat.setZoom(12);
-        viewFromLonLat.setRotation(0);
+        // viewFromLonLat.setCenter(coordinates);
+        // viewFromLonLat.setZoom(zoom);
+        // viewFromLonLat.setRotation(0);
         // }
     }
 
@@ -77,20 +79,34 @@ const MapTab: React.FC = () => {
                     <Map view={viewFromLonLat}>
                         <Layers>
                             <TileLayer
-                                source={osm()}
-                                zIndex={0}
+                                source={
+                                    new VectorTileSource({
+                                        url: process.env.PUBLIC_URL + '/assets/pbf/{z}/{x}/{y}.pbf',
+                                        format: new MVT()
+                                    })
+                                }
+                                style={createMapboxStreetsV6Style(Style, Fill, Stroke, Icon, Text)}
                             />
-                            <VectorLayer
-                                source={new VectorSource({
-                                    url: process.env.PUBLIC_URL + '/assets/kml/countries/Poland.kml',
-                                    format: new KML({showPointNames: false})
-                                })}
-                            />
-                            <VectorLayer
-                                source={new VectorSource({
-                                    features: [accuracyFeature, positionFeature]
-                                })}
-                            />
+                            {/*<VectorLayer*/}
+                            {/*    source={new VectorSource({*/}
+                            {/*        url: process.env.PUBLIC_URL + '/assets/kml/countries/Poland.kml',*/}
+                            {/*        format: new KML({showPointNames: false})*/}
+                            {/*    })}*/}
+                            {/*/>*/}
+                            {/*<VectorLayer*/}
+                            {/*    source={*/}
+                            {/*        new VectorSource({*/}
+                            {/*            url: process.env.PUBLIC_URL + '/assets/pbf/{z}/{x}/{y}.pbf',*/}
+                            {/*            format: new MVT()*/}
+                            {/*        })*/}
+                            {/*    }*/}
+                            {/*    style={createMapboxStreetsV6Style(Style, Fill, Stroke, Icon, Text)}*/}
+                            {/*/>*/}
+                            {/*<VectorLayer*/}
+                            {/*    source={new VectorSource({*/}
+                            {/*        features: [accuracyFeature, positionFeature]*/}
+                            {/*    })}*/}
+                            {/*/>*/}
                         </Layers>
                         <Controls>
                             <FullScreenControl/>
