@@ -1,5 +1,15 @@
 import React, {useEffect, useState} from 'react';
-import {IonContent, IonFab, IonFabButton, IonIcon, IonPage} from '@ionic/react';
+import {
+    IonContent,
+    IonFab,
+    IonFabButton,
+    IonHeader,
+    IonIcon, IonItem,
+    IonLabel,
+    IonPage, IonSelect, IonSelectOption,
+    IonTitle,
+    IonToolbar
+} from '@ionic/react';
 import Map from "../components/Map/Map";
 import {Layers, TileLayer, VectorLayer} from "../components/Layers";
 
@@ -14,10 +24,12 @@ import Geolocation from 'ol/Geolocation';
 import View from 'ol/View';
 import './MapTab.css';
 import {locate} from "ionicons/icons";
+import KmlLayer from "../components/Layers/KmlLayer";
 
 const zoom = 12;
 const MapTab: React.FC = () => {
     const [loadMap, setLoadMap] = useState(false)
+    const [country, setCountry] = useState<string | null>("Poland")
     useEffect(() => {
         setTimeout(() => setLoadMap(true), 1000)
     }, [])
@@ -25,7 +37,8 @@ const MapTab: React.FC = () => {
     const viewFromLonLat = new View({
         center: fromLonLat([17, 51]),
         zoom: zoom,
-        maxZoom: 14
+        maxZoom: 14,
+        minZoom: 9
     });
 
     const geolocation = new Geolocation({
@@ -56,13 +69,13 @@ const MapTab: React.FC = () => {
         })
     }));
     let positionChanged = false;
-    geolocation.on('change:position', () => navigateToCurrentPosition());
+    // geolocation.on('change:position', () => navigateToCurrentPosition());
 
     const navigateToCurrentPosition = () => {
         const coordinates = geolocation.getPosition();
         positionFeature.setGeometry(coordinates ?
             new Point(coordinates) : undefined);
-        if (!positionChanged && coordinates) {
+        if (coordinates) {
             positionChanged = true;
             viewFromLonLat.setCenter(coordinates);
             viewFromLonLat.setZoom(zoom);
@@ -72,6 +85,22 @@ const MapTab: React.FC = () => {
 
     return (
         <IonPage>
+            <IonHeader>
+                <IonToolbar>
+                    <IonItem>
+                        <IonLabel>Country</IonLabel>
+                        <IonSelect value={country} onIonChange={e => {
+                            setCountry(null); //todo fix!!!
+                            setCountry(e.detail.value)
+                        }}
+                                   placeholder="Select Country">
+                            <IonSelectOption value={null}/>
+                            <IonSelectOption value="Poland">Poland</IonSelectOption>
+                            <IonSelectOption value="Germany">Germany</IonSelectOption>
+                        </IonSelect>
+                    </IonItem>
+                </IonToolbar>
+            </IonHeader>
             <IonContent>
                 {loadMap &&
                 <div style={{width: "100%", height: "100%", position: "static"}} id="map-container">
@@ -80,32 +109,28 @@ const MapTab: React.FC = () => {
                             <TileLayer
                                 source={
                                     new TileWMS({
-                                        url: 'https://ows.mundialis.de/services/service?',
+                                        url: 'https://ows.terrestris.de/osm/service?',
                                         params: {
                                             LAYERS: 'OSM-Overlay-WMS',
-                                            TILED: true
+                                            TILED: true,
+                                            FORMAT: 'image/png',
+                                            TRANSPARENT: true
                                         },
-                                        serverType: 'geoserver',
                                         transition: 0,
                                     })
                                 }
                                 zIndex={0}
                             />
-                            <VectorLayer
-                                source={new VectorSource({
-                                    url: process.env.PUBLIC_URL + '/assets/kml/countries/Poland.kml',
-                                    format: new KML({showPointNames: false})
-                                })}
-                            />
+                            {country && <KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}/>}
                             <VectorLayer
                                 source={new VectorSource({
                                     features: [accuracyFeature, positionFeature]
                                 })}
                             />
                         </Layers>
-                        <Controls>
-                            <FullScreenControl/>
-                        </Controls>
+                        {/*<Controls>*/}
+                        {/*    <FullScreenControl/>*/}
+                        {/*</Controls>*/}
                     </Map>
                     <IonFab vertical="bottom" horizontal="end" slot="fixed">
                         <IonFabButton onClick={navigateToCurrentPosition}>
