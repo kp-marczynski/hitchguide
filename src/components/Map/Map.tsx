@@ -3,7 +3,7 @@ import "./Map.css";
 import MapContext from "./MapContext";
 import * as ol from "ol";
 import {
-    DragPan
+    DragPan, MouseWheelZoom, PinchZoom
 } from 'ol/interaction';
 
 type MapProps = {
@@ -21,7 +21,7 @@ const Map = ({children, view}: MapProps) => {
             layers: [],
             controls: [],
             overlays: [],
-            // interactions: [new DragPan()]
+            interactions: [new DragPan(), new MouseWheelZoom(), new PinchZoom()]
         };
 
         let mapObject: any = new ol.Map(options);

@@ -38,7 +38,7 @@ const MapTab: React.FC = () => {
         center: fromLonLat([17, 51]),
         zoom: zoom,
         maxZoom: 14,
-        minZoom: 8
+        minZoom: 7
     });
 
     const [geolocation] = useState(new Geolocation({
