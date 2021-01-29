@@ -2,9 +2,7 @@ import React, {useEffect, useRef, useState} from "react";
 import "./Map.css";
 import MapContext from "./MapContext";
 import * as ol from "ol";
-import {
-    DragPan, MouseWheelZoom, PinchZoom
-} from 'ol/interaction';
+import {DoubleClickZoom, DragPan, MouseWheelZoom, PinchZoom} from 'ol/interaction';
 
 type MapProps = {
     children: any;
@@ -21,7 +19,7 @@ const Map = ({children, view}: MapProps) => {
             layers: [],
             controls: [],
             overlays: [],
-            interactions: [new DragPan(), new MouseWheelZoom(), new PinchZoom()]
+            interactions: [new DragPan(), new MouseWheelZoom(), new PinchZoom(), new DoubleClickZoom()]
         };
 
         let mapObject: any = new ol.Map(options);
