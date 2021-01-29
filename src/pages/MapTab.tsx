@@ -80,7 +80,7 @@ const MapTab: React.FC = () => {
                             <TileLayer
                                 source={
                                     new TileWMS({
-                                        url: 'http://ows.mundialis.de/services/service?',
+                                        url: 'https://ows.mundialis.de/services/service?',
                                         params: {
                                             LAYERS: 'OSM-Overlay-WMS',
                                             TILED: true
