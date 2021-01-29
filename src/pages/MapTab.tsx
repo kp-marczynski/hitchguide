@@ -4,18 +4,18 @@ import {
     IonFab,
     IonFabButton,
     IonHeader,
-    IonIcon, IonItem,
+    IonIcon,
+    IonItem,
     IonLabel,
-    IonPage, IonSelect, IonSelectOption,
-    IonTitle,
+    IonPage,
+    IonSelect,
+    IonSelectOption,
     IonToolbar
 } from '@ionic/react';
 import Map from "../components/Map/Map";
 import {Layers, TileLayer, VectorLayer} from "../components/Layers";
 
 import {fromLonLat} from 'ol/proj';
-import {Controls, FullScreenControl} from "../components/Controls";
-import {KML} from 'ol/format';
 import {TileWMS, Vector as VectorSource} from 'ol/source';
 import Feature from 'ol/Feature';
 import Point from 'ol/geom/Point';
@@ -89,10 +89,7 @@ const MapTab: React.FC = () => {
                 <IonToolbar>
                     <IonItem>
                         <IonLabel>Country</IonLabel>
-                        <IonSelect value={country} onIonChange={e => {
-                            setCountry(null); //todo fix!!!
-                            setCountry(e.detail.value)
-                        }}
+                        <IonSelect value={country} onIonChange={e => setCountry(e.detail.value)}
                                    placeholder="Select Country">
                             <IonSelectOption value={null}/>
                             <IonSelectOption value="Poland">Poland</IonSelectOption>
@@ -121,7 +118,9 @@ const MapTab: React.FC = () => {
                                 }
                                 zIndex={0}
                             />
-                            {country && <KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}/>}
+                            {country &&
+                            <KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}
+                                      key={country}/>}
                             <VectorLayer
                                 source={new VectorSource({
                                     features: [accuracyFeature, positionFeature]
