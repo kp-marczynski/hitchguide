@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf038068151386aec7d36a2211bbfd61",
+    "revision": "e8186931bd1d63f2208d34f3eea796c1",
     "url": "/hitchguide/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hitchguide/static/css/4.21302a68.chunk.css"
   },
   {
-    "revision": "c10007b011a97b865f0b",
+    "revision": "41a6ca20e1414097e8a3",
     "url": "/hitchguide/static/css/main.52853137.chunk.css"
   },
   {
@@ -248,8 +248,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hitchguide/static/js/9.7fdd65b8.chunk.js"
   },
   {
-    "revision": "c10007b011a97b865f0b",
-    "url": "/hitchguide/static/js/main.39804e27.chunk.js"
+    "revision": "41a6ca20e1414097e8a3",
+    "url": "/hitchguide/static/js/main.f538da80.chunk.js"
   },
   {
     "revision": "2522b01a53ae62c4a177",
