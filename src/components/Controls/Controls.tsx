@@ -1,6 +1,6 @@
 import React from "react";
 
-const Controls = ({children}) => {
+const Controls = ({children}: any) => {
     return <div>{children}</div>;
 };
 
