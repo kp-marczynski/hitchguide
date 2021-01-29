@@ -15,7 +15,7 @@ import View from 'ol/View';
 import './MapTab.css';
 import {locate} from "ionicons/icons";
 
-const zoom = 10;
+const zoom = 12;
 const MapTab: React.FC = () => {
     const [loadMap, setLoadMap] = useState(false)
     useEffect(() => {
@@ -56,7 +56,7 @@ const MapTab: React.FC = () => {
         })
     }));
     let positionChanged = false;
-    // geolocation.on('change:position', () => navigateToCurrentPosition());
+    geolocation.on('change:position', () => navigateToCurrentPosition());
 
     const navigateToCurrentPosition = () => {
         const coordinates = geolocation.getPosition();
@@ -64,9 +64,9 @@ const MapTab: React.FC = () => {
             new Point(coordinates) : undefined);
         if (!positionChanged && coordinates) {
             positionChanged = true;
-        viewFromLonLat.setCenter(coordinates);
-        viewFromLonLat.setZoom(zoom);
-        viewFromLonLat.setRotation(0);
+            viewFromLonLat.setCenter(coordinates);
+            viewFromLonLat.setZoom(zoom);
+            viewFromLonLat.setRotation(0);
         }
     }
 
@@ -81,7 +81,12 @@ const MapTab: React.FC = () => {
                                 source={
                                     new TileWMS({
                                         url: 'http://ows.mundialis.de/services/service?',
-                                        params: {layers: 'OSM-Overlay-WMS'}
+                                        params: {
+                                            LAYERS: 'OSM-Overlay-WMS',
+                                            TILED: true
+                                        },
+                                        serverType: 'geoserver',
+                                        transition: 0,
                                     })
                                 }
                                 zIndex={0}
