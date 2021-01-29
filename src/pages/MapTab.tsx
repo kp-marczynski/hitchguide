@@ -41,13 +41,13 @@ const MapTab: React.FC = () => {
         minZoom: 9
     });
 
-    const geolocation = new Geolocation({
+    const [geolocation] = useState(new Geolocation({
         // enableHighAccuracy must be set to true to have the heading value.
         trackingOptions: {
             enableHighAccuracy: true
         },
         projection: viewFromLonLat.getProjection()
-    });
+    }))
     geolocation.setTracking(true);
 
     const accuracyFeature = new Feature();
