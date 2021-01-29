@@ -5,17 +5,15 @@ import {Layers, TileLayer, VectorLayer} from "../components/Layers";
 
 import {fromLonLat} from 'ol/proj';
 import {Controls, FullScreenControl} from "../components/Controls";
-import {KML, MVT} from 'ol/format';
-import {Vector as VectorSource, VectorTile as VectorTileSource} from 'ol/source';
+import {KML} from 'ol/format';
+import {TileWMS, Vector as VectorSource} from 'ol/source';
 import Feature from 'ol/Feature';
 import Point from 'ol/geom/Point';
-import {Circle as CircleStyle, Fill, Stroke, Style, Icon, Text} from 'ol/style';
+import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
 import Geolocation from 'ol/Geolocation';
 import View from 'ol/View';
 import './MapTab.css';
-import osm from "../components/Source/osm";
 import {locate} from "ionicons/icons";
-import {createMapboxStreetsV6Style} from "../components/Layers/mapbox-streets-v6-style";
 
 const zoom = 10;
 const MapTab: React.FC = () => {
@@ -25,8 +23,9 @@ const MapTab: React.FC = () => {
     }, [])
 
     const viewFromLonLat = new View({
-        center: fromLonLat([20, 41]),
-        zoom: zoom
+        center: fromLonLat([17, 51]),
+        zoom: zoom,
+        maxZoom: 14
     });
 
     const geolocation = new Geolocation({
@@ -63,71 +62,13 @@ const MapTab: React.FC = () => {
         const coordinates = geolocation.getPosition();
         positionFeature.setGeometry(coordinates ?
             new Point(coordinates) : undefined);
-        // if (!positionChanged) {
-        //     positionChanged = true;
-        // viewFromLonLat.setCenter(coordinates);
-        // viewFromLonLat.setZoom(zoom);
-        // viewFromLonLat.setRotation(0);
-        // }
-    }
-
-    var country = new Style({
-        stroke: new Stroke({
-            color: 'gray',
-            width: 1,
-        }),
-        fill: new Fill({
-            color: 'rgba(20,20,20,0.9)',
-        }),
-    });
-
-    var roadStyleCache: any = {};
-    var roadColor = {
-        'major_road': '#776',
-        'minor_road': '#ccb',
-        'highway': '#f39',
-    };
-    var buildingStyle = new Style({
-        fill: new Fill({
-            color: '#666',
-            // opacity: 0.4,
-        }),
-        stroke: new Stroke({
-            color: '#444',
-            width: 1,
-        }),
-    });
-    var waterStyle = new Style({
-        fill: new Fill({
-            color: '#9db9e8',
-        }),
-    });
-    var roadStyle = function (feature: any) {
-        var kind = feature.get('kind');
-        var railway = feature.get('railway');
-        var sort_key = feature.get('sort_key');
-        var styleKey = kind + '/' + railway + '/' + sort_key;
-        var style = roadStyleCache[styleKey];
-        if (!style) {
-            var color, width;
-            if (railway) {
-                color = '#7de';
-                width = 1;
-            } else {
-                color = (roadColor as any)[kind];
-                width = kind == 'highway' ? 1.5 : 1;
-            }
-            style = new Style({
-                stroke: new Stroke({
-                    color: color,
-                    width: width,
-                }),
-                zIndex: sort_key,
-            });
-            roadStyleCache[styleKey] = style;
+        if (!positionChanged && coordinates) {
+            positionChanged = true;
+        viewFromLonLat.setCenter(coordinates);
+        viewFromLonLat.setZoom(zoom);
+        viewFromLonLat.setRotation(0);
         }
-        return style;
-    };
+    }
 
     return (
         <IonPage>
@@ -138,48 +79,24 @@ const MapTab: React.FC = () => {
                         <Layers>
                             <TileLayer
                                 source={
-                                    new VectorTileSource({
-                                        url: 'http://localhost:8080/data/v3/{z}/{x}/{y}.pbf',
-                                        format: new MVT()
+                                    new TileWMS({
+                                        url: 'http://ows.mundialis.de/services/service?',
+                                        params: {layers: 'OSM-Overlay-WMS'}
                                     })
                                 }
-                                // style={function (feature: any, resolution: any) {
-                                //     console.log("feature", feature.get('layer'))
-                                //     switch (feature.get('layer')) {
-                                //         case 'water':
-                                //             return waterStyle;
-                                //         case 'roads':
-                                //             return roadStyle(feature);
-                                //         case 'buildings':
-                                //             return resolution < 10 ? buildingStyle : null;
-                                //         default:
-                                //             console.log("default")
-                                //             return country;
-                                //     }
-                                // }}
-                                // style={country}
-                                // style={createMapboxStreetsV6Style(Style, Fill, Stroke, Icon, Text)}
+                                zIndex={0}
                             />
-                            {/*<VectorLayer*/}
-                            {/*    source={new VectorSource({*/}
-                            {/*        url: process.env.PUBLIC_URL + '/assets/kml/countries/Poland.kml',*/}
-                            {/*        format: new KML({showPointNames: false})*/}
-                            {/*    })}*/}
-                            {/*/>*/}
-                            {/*<VectorLayer*/}
-                            {/*    source={*/}
-                            {/*        new VectorSource({*/}
-                            {/*            url: process.env.PUBLIC_URL + '/assets/pbf/{z}/{x}/{y}.pbf',*/}
-                            {/*            format: new MVT()*/}
-                            {/*        })*/}
-                            {/*    }*/}
-                            {/*    style={createMapboxStreetsV6Style(Style, Fill, Stroke, Icon, Text)}*/}
-                            {/*/>*/}
-                            {/*<VectorLayer*/}
-                            {/*    source={new VectorSource({*/}
-                            {/*        features: [accuracyFeature, positionFeature]*/}
-                            {/*    })}*/}
-                            {/*/>*/}
+                            <VectorLayer
+                                source={new VectorSource({
+                                    url: process.env.PUBLIC_URL + '/assets/kml/countries/Poland.kml',
+                                    format: new KML({showPointNames: false})
+                                })}
+                            />
+                            <VectorLayer
+                                source={new VectorSource({
+                                    features: [accuracyFeature, positionFeature]
+                                })}
+                            />
                         </Layers>
                         <Controls>
                             <FullScreenControl/>

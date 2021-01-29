@@ -1,8 +1,8 @@
 import {useContext, useEffect} from "react";
 import MapContext from "../Map/MapContext";
-import OLTileLayer from "ol/layer/VectorTile";
+import OLTileLayer from "ol/layer/Tile";
 
-const TileLayer = ({source, style = undefined, zIndex = 0}: any) => {
+const TileLayer = ({source, zIndex = 0}: any) => {
     const {map} = useContext(MapContext);
 
     useEffect(() => {
@@ -10,8 +10,7 @@ const TileLayer = ({source, style = undefined, zIndex = 0}: any) => {
 
         let tileLayer = new OLTileLayer({
             source,
-            zIndex,
-            style
+            zIndex
         });
 
         map.addLayer(tileLayer);
