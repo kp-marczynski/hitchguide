@@ -10,8 +10,10 @@ const VectorLayer = ({source, style = undefined, zIndex = 0}: any) => {
 
         let vectorLayer = new OLVectorLayer({
             source,
-            style
+            style,
         });
+
+        vectorLayer.on("featureclick",evt=>console.log(evt))
 
         map.addLayer(vectorLayer);
         vectorLayer.setZIndex(zIndex);
