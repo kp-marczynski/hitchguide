@@ -16,7 +16,7 @@ import Map from "../components/Map/Map";
 import {Layers, TileLayer, VectorLayer} from "../components/Layers";
 
 import {fromLonLat} from 'ol/proj';
-import {TileWMS, Vector as VectorSource} from 'ol/source';
+import {TileDebug, TileWMS, Vector as VectorSource} from 'ol/source';
 import Feature from 'ol/Feature';
 import Point from 'ol/geom/Point';
 import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
@@ -30,6 +30,7 @@ const zoom = 12;
 const MapTab: React.FC = () => {
     const [loadMap, setLoadMap] = useState(false)
     const [country, setCountry] = useState<string | null>("Poland")
+    const [userPositionInitialized, setUserPositionInitialized] = useState(false)
     useEffect(() => {
         setTimeout(() => setLoadMap(true), 1000)
     }, [])
@@ -37,9 +38,9 @@ const MapTab: React.FC = () => {
     const viewFromLonLat = new View({
         projection: 'EPSG:3857',
         center: fromLonLat([17, 51]),
-        zoom: zoom,
+        zoom: 4,
         maxZoom: 14,
-        minZoom: 8
+        // minZoom: 8
     });
 
     const [geolocation] = useState(new Geolocation({
@@ -49,7 +50,6 @@ const MapTab: React.FC = () => {
         },
         projection: viewFromLonLat.getProjection()
     }))
-    geolocation.setTracking(true);
 
     const accuracyFeature = new Feature();
     geolocation.on('change:accuracyGeometry', () => {
@@ -69,18 +69,36 @@ const MapTab: React.FC = () => {
             })
         })
     }));
-    let positionChanged = false;
-    // geolocation.on('change:position', () => navigateToCurrentPosition());
+
+    // geolocation.on('change:position', () => {
+    //     if (!userPositionInitialized && geolocation.getPosition() && loadMap) {
+    //         // setUserPositionInitialized(true)
+    //         navigateToCurrentPosition()
+    //     }
+    // });
+
+    geolocation.setTracking(true);
+
+    useEffect(() => {
+        document.addEventListener('visibilitychange', () => {
+            geolocation.setTracking(document.visibilityState !== 'hidden')
+        })
+    }, [geolocation])
 
     const navigateToCurrentPosition = () => {
         const coordinates = geolocation.getPosition();
         positionFeature.setGeometry(coordinates ?
             new Point(coordinates) : undefined);
         if (coordinates) {
-            positionChanged = true;
-            viewFromLonLat.setCenter(coordinates);
-            viewFromLonLat.setZoom(zoom);
-            viewFromLonLat.setRotation(0);
+            console.log(coordinates)
+            viewFromLonLat.animate({
+                center: coordinates,
+                zoom: zoom,
+                rotation: 0
+            })
+            // viewFromLonLat.setCenter(coordinates);
+            // viewFromLonLat.setZoom(zoom);
+            // viewFromLonLat.setRotation(0);
         }
     }
 
@@ -121,6 +139,7 @@ const MapTab: React.FC = () => {
                                 }
                                 zIndex={0}
                             />
+                            <TileLayer source={new TileDebug()}/>
                             {country &&
                             <KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}
                                       key={country}/>}
@@ -134,7 +153,9 @@ const MapTab: React.FC = () => {
                         {/*    <FullScreenControl/>*/}
                         {/*</Controls>*/}
                     </Map>
-                    <div className={"attribution"} id="attribution">© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors</div>
+                    <div className={"attribution"} id="attribution">© <a
+                        href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors
+                    </div>
                     {/*<div className={"versionNumber"}>v{process.env.REACT_APP_VERSION}</div>*/}
                     <IonFab vertical="bottom" horizontal="end" slot="fixed">
                         <IonFabButton onClick={navigateToCurrentPosition}>

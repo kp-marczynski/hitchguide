@@ -37,10 +37,10 @@
 	<Folder>
 		<Folder id="placemark-root">
 		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="4917">
-<name>a Hitchhiking spot in TÃ³rshavn, Faroe Islands</name>
+<name>a Hitchhiking spot in Tórshavn, Faroe Islands</name>
 <visibility>1</visibility>
 <description><![CDATA[<p>This island is great for hitching. Not much traffic, but very friendly people. Somehow everybody will ask you if you're Russian, as apparently only Russians hitch here (?). It's not unlikely that you'll find young people who have nothing to do and will just bring you to your destination, even if they're not going there.</p>
- 
+
 <div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4917">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
@@ -51,7 +51,7 @@
 <name>a Hitchhiking spot in Faroe Islands</name>
 <visibility>1</visibility>
 <description><![CDATA[<p>I hitched most of the Faroe Islands in 2005. Contender for the easiest hitching in the world! Often the first car would pull over, often just one ride would get you there as distances are short. Almost everyone speaks English.</p>
- 
+
 <div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1min (1 experience)<br /><span title="Fri, 15 Apr 11 16:52:16 +0000">Description written 15.4.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7624">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
@@ -87,7 +87,7 @@
 </Point>
 <styleUrl>#placemark-blue</styleUrl>
 </Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26279">
-<name>a Hitchhiking spot in TÃ³rshavn, Faroe Islands</name>
+<name>a Hitchhiking spot in Tórshavn, Faroe Islands</name>
 <visibility>1</visibility>
 <Point>
 	<coordinates>-6.794155597686772,62.00064550683309</coordinates>
