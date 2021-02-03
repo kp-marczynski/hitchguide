@@ -93,6 +93,7 @@ const MapTab: React.FC = () => {
                                    placeholder="Select Country">
                             <IonSelectOption value={null}/>
                             <IonSelectOption value="Poland">Poland</IonSelectOption>
+                            <IonSelectOption value="Poland2">Poland2</IonSelectOption>
                             <IonSelectOption value="Germany">Germany</IonSelectOption>
                         </IonSelect>
                     </IonItem>
@@ -108,11 +109,12 @@ const MapTab: React.FC = () => {
                                     new TileWMS({
                                         url: 'https://ows.terrestris.de/osm/service?',
                                         params: {
-                                            LAYERS: 'OSM-Overlay-WMS',
+                                            LAYERS: 'OSM-WMS',
                                             TILED: true,
                                             FORMAT: 'image/png',
-                                            TRANSPARENT: true
+                                            // TRANSPARENT: true
                                         },
+                                        attributions: [],
                                         transition: 0,
                                     })
                                 }
@@ -131,6 +133,7 @@ const MapTab: React.FC = () => {
                         {/*    <FullScreenControl/>*/}
                         {/*</Controls>*/}
                     </Map>
+                    <div className={"attribution"} id="attribution">© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors</div>
                     <IonFab vertical="bottom" horizontal="end" slot="fixed">
                         <IonFabButton onClick={navigateToCurrentPosition}>
                             <IonIcon icon={locate}/>

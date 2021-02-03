@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Zimbabwe</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Masvingo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good to go to Bulawayo or Harare. As usual in Zimbabwe the taxibuses as an alternative would not be far”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>30.828567981716635,-20.06987349247554</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Harare</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Took a minibus from town to the westgate shopping mall. From here you will get a lift to Zambia”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>30.978213787075685,-17.76212777658997</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Victoria Falls</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I used the taxibus station to hithchike and i didn´t have to wait long, but just like in Botswana people will expect you to pay. In case you don´t get a ride you can just take  a taxibus and pay about the same amount”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.818931102750373,-17.952070250290273</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bulawayo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The usual hitch-hiking spot from Botswana to Harare or Masvingo. If you don´t get a ride you can still take one of the Taxibuses which are starting from the other side of the street&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>28.590661525724013,-20.155044035085705</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Hwange</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Feb/2014: I tried to hitchhike from this spot to Hwange National Park. Not any cars drove by for over one hour, but then the first one picked us up and drove us to the entry of Hwange. I later found out that in this area lions and other animals are frequently seen, so perhaps it&#39;s not a good idea to stay there with nowhere to run. ”&lt;br&gt;
+&lt;em&gt;―Lukstier, 30 Jan 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:41Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>27.032791614535743,-18.57302081125974</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

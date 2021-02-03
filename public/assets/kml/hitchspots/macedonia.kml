@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Macedonia</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Bistrica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“almost no traffic at this border, but the police helped me with a lift to florina”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>21.4167308807373,40.9172744748613</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ohrid</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“getting a lift on local roads was no problem in albania.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.7206225395203,40.9030851603782</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Skopje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Excellent place to hitch to Tetovo, Ohrid etc.&lt;br&gt;Get there by bus, can&#39;t remember the number unfortunately.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Just take bus number 2 towards Capaj.”&lt;br&gt;
+&lt;em&gt;―Sam iam, 06 Feb 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Tried to hitchhike to Ohrid, had no luck getting any ride from here. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 14 Jun 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Great spot just after the traffic light, a lot of space to stop and high visibility as cars and trucks stop at the traffic light or at least slow down. We waited there 5 minutes.”&lt;br&gt;
+&lt;em&gt;―ZephJavier, 20 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Got a ride to Tetavu after 15min. Had a sign. Not too much space for cars to stop and after the bend they´re going quite fast...”&lt;br&gt;
+&lt;em&gt;―Ulrik, 18 Mar 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.3296341896057,42.007651948614</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ohrid</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Use this spot to hitch south along the lake. Getting out in one of the town on the way might mean you have to walk to the town&#39;s edge (never very far) to hitch on.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Maybe is better to walk a bit further.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 19 Nov 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Great place if you are going to Pogradec or st. Naum monastery.”&lt;br&gt;
+&lt;em&gt;―BigoszGulas, 13 Sep 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.8151972293854,41.1048619415499</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tetovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Enough space to pull over + people can see you coming. Traffic allright. Your place to go south along the highway.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.9612488746643,41.9977418314841</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ohrid</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 34min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gasstation and a wide street where people can stop. 2km out of town. Hitch directly to Skopje or if people go to Struga get out on the crossroads.”&lt;br&gt;
+&lt;em&gt;―Peymora, 19 May 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Took us 2 hours and 20 minutes to get to Skopje. (Monday morning)&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“lond waiting time.. after two hours i was taken by a small motorbike to the main road on gas station&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Junkiee, 03 Aug 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.786851956157,41.125906520128</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ohrid</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Wide onramp, good visibility.”&lt;br&gt;
+&lt;em&gt;―Peymora, 19 May 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I might be biased, I&#39;ve frist found a ring there, and then got a ride in a sweet-ass white hummer. Only in Macedonia.”&lt;br&gt;
+&lt;em&gt;―Mrgnd, 22 Feb 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.750556303768,41.163919751868</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7823</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot where cars turn onto the bigger road leaving the city. &lt;br&gt;&lt;br&gt;Hitched from here to the toll-booths at the start of the highway going south (didn&#39;t use a sign to maximise changes of getting out of town quickly).”&lt;br&gt;
+&lt;em&gt;―Peymora, 24 May 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Waited here on a sunny day of eastern. After 15 min with my thumb up, a guy that didn&#39;t speak almost any word in english took me to Veles. At the end he asked me for money. I just had euros and he didn&#39;t accept. He seemed very disappointed ”&lt;br&gt;
+&lt;em&gt;―Gustavobretz, 12 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.45167064669,41.999052824997</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7824</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Toll booths on the road going south, possibility to switch rides.”&lt;br&gt;
+&lt;em&gt;―Peymora, 24 May 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I always use this spot when going south, either stand right next to the toll boots or just a bit further down the road&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Milo, 02 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“take bus 53 from transportation center to Petrovez. ”&lt;br&gt;
+&lt;em&gt;―Fraughtwithsounds, 18 Nov 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.620285034202,41.941556066304</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7900</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 42min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“i was asked for money only to arrive till kyustendil and the driver got pretty nervous but anmyway pretty low traffic.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 05 Jun 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“After I crossed the border I was picked up even before I could raise my thumb”&lt;br&gt;
+&lt;em&gt;―Anonymous, 05 Jun 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I often hotchhike at this point and  i wait maximum 10-15 minutes for ride”&lt;br&gt;
+&lt;em&gt;―Anonymous, 10 Jun 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;“watch out who you get on the car with!!!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 27 Nov 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“i can&#39;t say its a bad spot because technically it&#39;s the best, but traffic was so bad. one car every 5 minutes&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Fahmiiharder, 27 Jul 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“the private taxis waiting past the border  lied to us saying dont bother, trucks wont pick us up because there was 2 more police checkpoints ahead. there was none.”&lt;br&gt;
+&lt;em&gt;―Fahmiiharder, 27 Jul 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Yes, one car every 3 mins, but the second car took us.”&lt;br&gt;
+&lt;em&gt;―Prochy, 18 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“We hitchhiked there in Skopje direction, on the macedonian side of the border. We waited one hour and a half, there was only one car every 10minutes&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―ZephJavier, 20 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.455864786633,42.220227142007</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kumanovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 38min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just came from Skopje with bus to Kumanovo for 10 dinars till these paytolls and took 10mins to get a ride to Nis. Nice place for cars to stop on a side”&lt;br&gt;
+&lt;em&gt;―Bohua, 11 Jun 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Direction: north&lt;br&gt;&lt;br&gt;Day, time: Sunday ca. 07:00&lt;br&gt;&lt;br&gt;Hitcher: 1 woman&lt;br&gt;&lt;br&gt;Took bus from Skopje, then used &amp;quot;Serbia&amp;quot; sign. Toll attendants friendly. Waited ca. 25 minutes, then Macedonian truck stopped.&lt;br&gt;&lt;br&gt;Practical note: I regretted having spent last MKDs in Skopje, as traffic was light and nearby gas station had coffee. ”&lt;br&gt;
+&lt;em&gt;―, 12 Jun 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;“We had bad luck so we waited for 1h 50 mins before being picked up by a truck that took us just 10km to the border. There are many cars and trucks but for some reason they didn&#39;t stop this time, but I think this paytoll is a very good hh spot.”&lt;br&gt;
+&lt;em&gt;―Chaba, 15 Aug 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“after 10minutes i got a lift to nis&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Anonymous, 10 Sep 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I took the bus to Kumanovo for 100 dinars and i dropp off in toll gates with a sign. I wait 15 min to got a ride directly to Belgrade. A lucky day&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Javier, 11 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.698503912036,42.107290813068</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 8752</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 48min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is enough space at the parking right after the border to stop. Cars are slowly and they still have an open window, so it&#39;s easy to talk to them. The biggest problem are the cars from greece going to the casino which is next to the border. You have to be patient.”&lt;br&gt;
+&lt;em&gt;―Oskarwald, 29 Sep 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“This place is just averagely hitchhikeable. I needed to head to the general direction of Skopje but it was still hard to find a ride. Don&#39;t bother with Greek cars as they&#39;re just going to the casino. It is possible to find a ride though, so don&#39;t give up!”&lt;br&gt;
+&lt;em&gt;―Emanuele19956, 14 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.548889160138,41.134052052813</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Struga</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just wait after the crossroads in any direction.”&lt;br&gt;
+&lt;em&gt;―Sam iam, 30 Jan 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Description is right. We&#39;ve got a ride from here straight to Tirana and I think in case you wanna get to Tirana you should have a direct ride from here...well at least to Elbasan”&lt;br&gt;
+&lt;em&gt;―Travelrebel, 24 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I just was here (6 April 2015). It was rainy, a lot of cars passed. One stoped but they were to Zagracan. I wait 5 or 10 minutes more and after the car passed me onece he returned and i got a car to Prrenjas. &lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Albaniaelb, 05 Apr 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Waited for a ride long here, then walked in the direction of Tirana and waited some time again.”&lt;br&gt;
+&lt;em&gt;―Niklavs, 18 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.675553762348,41.183963537202</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gostivar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.914267301566,41.794005865969</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Struga</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Worked north-bound. Lots of place to stop.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.729026436794,41.170263633201</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kichevo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We were stopped by the police on a petrol station and forced into a bus to Skopje.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.953044533716,41.520732437785</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Skopje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Got a ride to Kumanovo after the bridges.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.475581765168,42.003458769695</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10049</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just behind the toll booth. Check for the license plates on the cars to see where they are probably going.&lt;br&gt;Booth employees were very friendly.”&lt;br&gt;
+&lt;em&gt;―Sam iam, 15 May 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Just left one car and another one picked me up in less than 40 seconds. Got a ride Gostivar.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Ulrik, 18 Mar 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“It is good to hitch on the pay tolls in Macedonia”&lt;br&gt;
+&lt;em&gt;―Az-alcmar, 19 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.956758493556,41.976385661902</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10050</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Wait just behind the toll booth and check for the cars&#39; license plates.”&lt;br&gt;
+&lt;em&gt;―Sam iam, 15 May 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.077036048285,41.989939661569</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kichevo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 27min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Wait just after the crossroads on either direction.”&lt;br&gt;
+&lt;em&gt;―Sam iam, 15 May 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.952289111438,41.512646567589</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Skopje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 7min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“in case that you already crossed the border and you were droped off by a car immediatley behind it, u just can go straight ahead along the street and just stop the cars by thumb. Traffic is not that heavy (I think it depends on the day time) but  the 3rd or the 4th car at latest will give you lift. I just walked 5-10 minuts, then I got a lift to the city center of Skopje.  ”&lt;br&gt;
+&lt;em&gt;―Tommy90, 07 Jun 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.305660242213,42.139398083493</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11076</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gas station 20km from the border, there are many cars here and you can hh on the highway. Mostly MK and SRB tourists, very friendly and will stop to talk even if they don&#39;t have a place for you.”&lt;br&gt;
+&lt;em&gt;―Chaba, 15 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.416066169739747,41.36805314860799</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tetovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“towards Skopje”&lt;br&gt;
+&lt;em&gt;―BummitHitchhike, 19 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.981003037110053,42.00577676673632</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Skopje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“towards Pristina”&lt;br&gt;
+&lt;em&gt;―BummitHitchhike, 19 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>21.40905761718825,42.026109009001495</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kumanovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“petrol station in direction of Serbia. mostly local traffic, or buses to Skopje. buses to Belgrade didn&#39;t want to take us to the border, saying &#39;police problems&#39; (maybe temporary)”&lt;br&gt;
+&lt;em&gt;―Alan, 27 Sep 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“We were there about 10:00 am. But no many cars coming to petrol station. After 2-3 hours we found a car to the Serbian border. After we passed border by walking we tried to find a car towards Beograd. ”&lt;br&gt;
+&lt;em&gt;―Kralx15, 10 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“At the end of summer it is possible to find a ride to probably anywhere in central europe from here, but you have to filter out the cars full of luggage and families and find the odd car with space. But I got a ride going to Bratislava from there no problem.”&lt;br&gt;
+&lt;em&gt;―Rdoc101, 26 Aug 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>21.702974081039255,42.13328413624564</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Municipality of Gazi Baba</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 11min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Petrol station, direction: east. You can either ask drivers directly or stand near the read with a sign (KU for Kumanovo for Serbia and Bulgaria and VE for Veles for Greece). You can get here by autobus from Avtokomanda (2,3 stops, read Skopje page)”&lt;br&gt;
+&lt;em&gt;―Alan, 27 Sep 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“We tried to catch a ride to Veles but no one wanted to take us. We gave up after 2 hours.”&lt;br&gt;
+&lt;em&gt;―E1809, 03 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“We got picked up after 30 minutes until the the Bulgarian border.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I was standing there for about an hour before the gas station and asked the people in the gas station for 30-45minutes, either I was very unlucky or the spot is pretty bad if you&#39;re trying to get to the south - Thessaloniki, Athens, etc. I would suggest going half a kilometer further, where the road splits and all the traffic mostly goes south to Veles and HHing on the road there. I&#39;ve marked the spot.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 25 Jan 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Not a very good spot for Kumanovo, even though it seems like it should be. Asking at the gas station, it took me about 2 hours to find a ride.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 06 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.47863441332776,42.00392306525417</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11935</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“U can also go to staro nagoritzane monastery”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>21.813920974729733,42.171725537827626</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11936</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.534850597380117,41.51759553375526</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11937</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.760671138762056,41.704739587624026</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11938</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Matka canyon, lots of tourists, also locals, easily going to skopje, theres also a local bus but useless take it. perfect to camp also”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.307562828061386,41.96774325813246</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bitola</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.289323806764987,41.04614024434044</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12915</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 35min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Petrol Station, You have to take the bus, see it in the descrition. &lt;br&gt;you have to stand direct on the Highway, cause there are not so many cars going down for petrol. &lt;br&gt;sundays are hard ;) ”&lt;br&gt;
+&lt;em&gt;―TeeTramp, 26 Jan 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Here me and my mate waited almost 45 min to the south direction. It looks really good point to hitch-hike but there is not many cars coming to take petrol. We waited near the highway and one big truck stopped. Driver was going to Veles and he left us in paytolls before Veles. Paytolls also good places to hitch-hike.”&lt;br&gt;
+&lt;em&gt;―Kralx15, 17 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I was heading to the Serbian border and got a ride after about 30 mins. I stood at the has station. There aren&#39;t so many cars going through, but you can still ask everyone that stops for food or gas refilling.”&lt;br&gt;
+&lt;em&gt;―Emanuele19956, 24 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.654519438740657,41.90451094469821</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14774</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Not to much space to stop a car. But great yard full of grapes next to this place.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 19 Nov 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.954543828965114,41.56131772735065</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kriva Palanka</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Last gas station for about 20+ km all the way to the border.&lt;br&gt;good visibility but low traffic”&lt;br&gt;
+&lt;em&gt;―Fahmiiharder, 27 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.32835469763383,42.20058844637508</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15568</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.48276048048198,41.24729601167312</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bitola</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“4 People got 2 rides in direction Ochid pretty easy”&lt;br&gt;
+&lt;em&gt;―, 22 Oct 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“just anywhere at te bigger road no particular spot”&lt;br&gt;
+&lt;em&gt;―, 22 Oct 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.336006313564038,41.03272623055447</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16553</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Pretty easy to hike down here and back and further on”&lt;br&gt;
+&lt;em&gt;―, 22 Oct 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>21.11879029870128,40.87514287014249</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17759</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This the best spot for the Skokpje direction. We were 4 friends found a car in early morning until next gas station after Stip.”&lt;br&gt;
+&lt;em&gt;―Kralx15, 10 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.372935116291213,41.89966098448932</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17760</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here is you can find car for both Skopje and Kumanova directions.”&lt;br&gt;
+&lt;em&gt;―Kralx15, 10 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.14092135429549,41.77328324603295</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17818</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 3min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here are paytolls /peage (Macedonian: Patarina). Here is good place to hitch-hike towards south. There are many cars also going to Stip. Me and my mate were going to Bitola. We waited two hours because most cars going direct south instead of Bitola or Ohrid. ”&lt;br&gt;
+&lt;em&gt;―Kralx15, 17 Mar 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“My second trip was to Stip, so in 5 min we found a car until Kocani.”&lt;br&gt;
+&lt;em&gt;―Kralx15, 30 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.74477229776205,41.775473680281856</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17899</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here is Makpetrol. Most of cars are going to Airport and also south. ”&lt;br&gt;
+&lt;em&gt;―Kralx15, 30 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>21.57040476799183,41.96915807403256</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18444</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Place to hitchhike towards the border with Bulgaria. Visibility is okay, traffic is generally slow here. Place is at the end of a town, where road starts going uphill. Waiting time can be high but most vehicles definitely go to the border and further to Kyustendil”&lt;br&gt;
+&lt;em&gt;―Mpetrovic, 18 May 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Low traffic, but there are no alternatives. I waited approximately 30 minutes and a man took me directly to the border”&lt;br&gt;
+&lt;em&gt;―HHSardo, 15 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.34643065929464,42.2128374627108</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19243</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“All people who are crossing border has to stop for a while so it&#39;s good possibility to ask about lift. I had no problem with car to Bitola, maybe 5 minutes of waiting - there is only one main road.”&lt;br&gt;
+&lt;em&gt;―Argininaa, 17 Jul 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“not too much cars but nice sport after the border”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 10 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.417340278625684,40.918105768338435</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tetovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Somewhere here is the last petrol station before Tetovo. you can ask cars and staff from petrol station will help you”&lt;br&gt;
+&lt;em&gt;―ZephJavier, 20 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>21.013099193573183,41.998112886245785</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kumanovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.714486122134186,42.15545462236828</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gostivar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Toll booths on the A2 towards skopje.”&lt;br&gt;
+&lt;em&gt;―Koendev, 27 Aug 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Waited for 20min to get a ride to the junction to Mavrovo further south. A good spot were all cars has to stop. A lot of place for stopping as well!&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Ulrik, 18 Mar 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“great spot to mavrovo - 10 min”&lt;br&gt;
+&lt;em&gt;―Anonymous, 07 Aug 2018&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.917623968274892,41.819879443911056</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20169</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot directly on the road to Ohrid. Waited here for about 1 hour on a Friday August at noon, then I got a ride all the way to Skopje.”&lt;br&gt;
+&lt;em&gt;―HHSardo, 15 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.805839538573885,41.00758112260995</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kumanovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Petrol station on the road from Belgrade to Sofia. Cars going both directions stop there, as it&#39;s open 24/7. One of the workers found me a ride to Kratovo in the early morning. Also saw a local hitch-hiker using it.”&lt;br&gt;
+&lt;em&gt;―HHSardo, 15 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.750835418700568,42.16348721992672</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kumanovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“i was waiting for an hour, after that I started to walk to Serbian border for 3,5 hours and no body gave me a lift. ”&lt;br&gt;
+&lt;em&gt;―Cristian, 24 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>21.702598571775717,42.13752473273609</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20345</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Helpfull boarder guards. A lot of traffic, most to Skopje or Greece.&lt;br&gt;The boarder guard organized us a lift in a bus in the direction of Ohrid.”&lt;br&gt;
+&lt;em&gt;―Fahrfaraway, 26 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.70337104797552,42.234646443639384</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Radovish</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On an average day it takes from 15 to 30 minutes to get a ride, I have used this spot countless times. ”&lt;br&gt;
+&lt;em&gt;―Milo, 02 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.459153175355635,41.61940892452171</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21207</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To go north of Radovish, On an average day it takes from 15 to 30 minutes to get a ride, I have used this spot countless times. ”&lt;br&gt;
+&lt;em&gt;―Milo, 02 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.441938757899973,41.62782598403729</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21208</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Stand under the tree for shade :) It usualy takes more than  half an hour to get a ride,”&lt;br&gt;
+&lt;em&gt;―Milo, 02 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.277723193172033,41.61984604517854</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Strumica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.64967048168555,41.438214661091855</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Struga</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It really makes no difference at this point of Struga which road you choose, most of traffic is Ohrid bound anyway.”&lt;br&gt;
+&lt;em&gt;―Mrgnd, 22 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.70037660993782,41.17081086680347</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gostivar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Enough place to pull up, plenty of traffic to Skopje.”&lt;br&gt;
+&lt;em&gt;―Mrgnd, 22 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.887133459227595,41.79523857630121</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22414</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Entrance to the high way. No police passed by me. There&#39;s a good place to stay on the junction of the road with the high way, it&#39;s a safe place with a place for a car to park.”&lt;br&gt;
+&lt;em&gt;―Gustavobretz, 12 May 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“On an eastern holiday, got a ride half way to the greek border. The guy was asking very weird questions, at the end he said that he was bisexual (I&#39;m a guy). He didn&#39;t harassed me but I was feeling really uncomfortable. I thought that at any attempt of him, I would jump off the car and leave my backpack with him, fuck it! ”&lt;br&gt;
+&lt;em&gt;―Gustavobretz, 12 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.800155878068818,41.72644293721176</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kavadarci</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It takes from 15 to 30 minutes to get a ride”&lt;br&gt;
+&lt;em&gt;―Dodo, 23 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.021373748778988,41.44351885866479</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Negotino</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It takes more than 30 minutes to take a ride”&lt;br&gt;
+&lt;em&gt;―Dodo, 23 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.102376461029987,41.50054675459605</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22566</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can get very quickly a ride, it takes 10-15 minutes”&lt;br&gt;
+&lt;em&gt;―Dodo, 23 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.00540924072219,41.44092914539758</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kavadarci</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It takes 5-10 minutes.”&lt;br&gt;
+&lt;em&gt;―Dodo, 23 May 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I was heading to Bitola and found a direct ride after bare 15 mins. Locals told me many people work in Skopje and travel back home in the evening. It was 9.30 pm when I got my ride.”&lt;br&gt;
+&lt;em&gt;―Emanuele19956, 14 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.00355315208168,41.431590842896576</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bitola</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“but stop after the rondabout”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 13 Jun 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“wait 15minutes to go to Resen”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 13 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.31206893920953,41.033095478741636</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22801</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“at the end of Resen, direction Ohrid”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 13 Jun 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“we wait 10 minutes and a truck drove us to Ohrid”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 13 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.011682987213472,41.09986193527154</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22814</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“not so much traffic”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 14 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.787128448485827,40.95781914857455</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22928</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.312047481537714,41.99179770709727</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22930</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.801290512084798,41.048600009632786</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22931</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“almost no traffic to albania, 2 cars in 1 hour. we walked all the way to the border and took a taxi.”&lt;br&gt;
+&lt;em&gt;―Auswaerts, 25 Jun 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“We were lucky this time. After 5 minutes of waiting we took a car straight to Pogradec!”&lt;br&gt;
+&lt;em&gt;―BigoszGulas, 13 Sep 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.755574941635782,40.91458714653756</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kavadarci</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Small gas station by the road to Kavadartsi. Many cars passing by, but only a few stopping. I got a ride to Kavadartsi from a car stopping for filling gas. ”&lt;br&gt;
+&lt;em&gt;―Emanuele19956, 14 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.076906204221498,41.48307553612845</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kavadarci</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Really bad if you&#39;re going to Prilep/Bitola. I was told by locals to stand there, but people use this road to reach the local area. Use the other road to reach Prilep.”&lt;br&gt;
+&lt;em&gt;―Emanuele19956, 14 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>22.059568405149516,41.452718743232325</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bitola</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I was heading to Serbia, and got a ride to Skopje after 5 minutes. Early morning on working days.&lt;br&gt;&lt;br&gt;Stand immediately after the roundabout, cars are fairly slow and the lane is quite large.”&lt;br&gt;
+&lt;em&gt;―Emanuele19956, 24 Jul 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“this is a good spot, but try to go there early, because the traffic slows down after midday. if it&#39;s too hot, walk 200 meters from the roundabout, and you will find a tree with big shadow.”&lt;br&gt;
+&lt;em&gt;―Etter, 16 Aug 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.3469215631507,41.03869970379936</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kumanovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Kriva Palanka and Bulgaria, traffic is not very high, but the spot itself is fine.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 31 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.728036642071537,42.157514563902794</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23652</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.626080513000147,41.94010452374516</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23788</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“there is a parking place next to the gas station, if you going to Ohrid, or Albania..”&lt;br&gt;
+&lt;em&gt;―White eagle, 27 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.94501399994047,41.495098554546544</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24016</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Its on the highway but it works anyway. Got lifts for 3 people In both directions within 20 minutes. Bonus: bridge creates shade =)”&lt;br&gt;
+&lt;em&gt;―Fraughtwithsounds, 11 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.38209518584195,42.05292697020375</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24017</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Entrance to the National Park. There are different fees depending on how high into the mountains you want to go. We just bought the cheapest and went up all the way anyway. Hitchhiking into the NP might take a while but is totally possible. The view is fantastic. Getting back might be an issue as there is extremely little traffic in the evening (2 cars/h). That was after the end of the Macedonian school holidays. ”&lt;br&gt;
+&lt;em&gt;―Fraughtwithsounds, 11 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.789605943289057,40.944040946061556</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24018</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“most cars stop here for the view. You can ask people to go in either direction. ”&lt;br&gt;
+&lt;em&gt;―Fraughtwithsounds, 11 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.812544194784447,40.953991940202165</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ohrid</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Seems like a good spot to Skopje since it&#39;s petrol station after traffic lights on the main road.”&lt;br&gt;
+&lt;em&gt;―Paczix, 23 Sep 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Seems like a good spot, but we were standing here with SKOPJE board for 2 hours on sunday morning (11-13) and we left to the bus station at the end because no one even stopped.”&lt;br&gt;
+&lt;em&gt;―Paczix, 23 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Good spot for Skopje, got a ride there in about half an hour on a Wednesday morning”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 06 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.78934931754903,41.12457476845301</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Skopje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A good HHing spot if you are going to Veles and then to Greece, f.e. Thessaloniki. Good amount of cars, good visibility, lots of space for the people to stop and even a small market where drivers stop to shop for small things so you can go and talk straight to the drivers.&lt;br&gt;Take bus 65B from the Skopje central rail station and hop out somewhere close to this part of the city, after the gas station that you&#39;ll see on the left (it&#39;s marked as a HH spot 1km before this one).&lt;br&gt;Good luck!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 25 Jan 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.49312877655047,42.00137388870773</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26336</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 27min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot to get a ride at least to Struga or Ohrid, where there is more traffic. After walking across the border just walk past the row of lorries parked there and put out your thumb, no need for a sign.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 06 Jul 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Just putting out my thumb got me a ride to Ohrid within a few minutes, I think the third or fourth car.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 06 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.609807610512316,41.093167317551405</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ohrid</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 21min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“hitchhike in direction bitola this is the only road you can use. but i needed 90 minutes for a lift”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Day, time: Saturday, ca. 14:00&lt;br&gt;&lt;br&gt;Hitcher: 1 woman&lt;br&gt;&lt;br&gt;Traffic was light. Tried sign &amp;quot;PP&amp;quot; for Prilep, but ended up just thumbing over an empty delivery van returning to Bitola. ”&lt;br&gt;
+&lt;em&gt;―, 12 Jun 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I was putting out my thumb while walking up this street (past the bus station) in the direction of Bitola and a guy picked me up to Resen before I had reached the end of town.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 02 May 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Day: Wedensday, ca. 12:00&lt;br&gt;&lt;br&gt;Hitcher: couple, guy/girl&lt;br&gt;&lt;br&gt;Traffic was average, we wanted to get to Bitola, after some cars passed us, two stopped and offered a ride (other city), but third one took us all the way to Bitola.”&lt;br&gt;
+&lt;em&gt;―Zimmer hans, 28 Oct 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Its senseless. I wanted to go To Bitola from here but i waited 2 hours and 30 min. Only one car stoped (to Resne). ”&lt;br&gt;
+&lt;em&gt;―Albaniaelb, 05 Apr 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.8158946037292,41.1263544693631</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Prilep</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“main road goes by the town. walk to this junction, 10 mins from the centre. okay for both directions.”&lt;br&gt;
+&lt;em&gt;―Pite, 04 Jul 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>21.557480334949,41.330021566102</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Skopje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good stop on either side of the road, I use it a lot going to Kosovo. I think there is a bus that goes there but you can always just walk.”&lt;br&gt;
+&lt;em&gt;―Sam iam, 06 Feb 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.410414209589,42.018562709382</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9713</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Proved quite easy to hitchhike to Struga very late in the night.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“when i crossed the border there was now much traffic but i just asked a truck driver and he took me. that means that i had my ride very quickly&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Anonymous, 11 Sep 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.616244912137,41.107044953963</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kumanovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Got a ride to Preševo in 20 minutes at a petrol station. Cars are passing both from the left and from the right side of where is possible to hitchhike, so both of us hitchhiked on each side.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.702346444121,42.135730668879</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9956</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I was hitchhiking here in the direction of Bitola, after the road makes a left turn after a bridge and a gas station. This is a bit out of town (at the sign marking the end of Resen), so most cars are going fast and are seemingly reluctant to stop. Might be a better idea to stand a bit closer to town where cars go slowly. Got a ride to Gevgelia (I was going to Thessaloniki) in a bit more than an hour.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 02 May 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>21.021918296811,41.083215301157</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Skopje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A small road joins the highway here. The cars on the highway drive too fast to stop, but you can easily catch a ride from someone going from Negotino. My friend and I (two guys) waited for 20-30 mins.”&lt;br&gt;
+&lt;em&gt;―Chaba, 15 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.106045722961976,41.48235215504309</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11078</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gas station and toll booth near Gradsko. We slept near the gas station, there are showers and everything. The toll booth is 1km away where you can easily catch a ride to Greece or Ohrid.”&lt;br&gt;
+&lt;em&gt;―Chaba, 15 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.9398775100708,41.5710266345246</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Negotino</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 38min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“good place to get a lift down to greece, there is a petrol station near the highway, but stand direct with a sign on the highway thats better, i got a direct lift to greece border. there is enough space for trucks to stop for you on the safety line. love mazedonia. ”&lt;br&gt;
+&lt;em&gt;―TeeTramp, 29 Jan 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“a big big petrol truck stopped for me on the safety line! love mezedonia”&lt;br&gt;
+&lt;em&gt;―TeeTramp, 29 Jan 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I stood at the gas station pursuing a ride to Negotino center. It took me about 15 mins.”&lt;br&gt;
+&lt;em&gt;―Emanuele19956, 14 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I was stuck in Negotino for some hours without getting a lift to the south either on the highway or on the on ramp. if anybody is in the same situation, the bus to Gevgelia is only 210 Denars”&lt;br&gt;
+&lt;em&gt;―Fraughtwithsounds, 18 Nov 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.097886443134577,41.50041818878606</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17898</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here is a petrol station for both ways. Workers also so nice and helpful. We two guys hitch-hiked towards Kosova. In 30 hours we found a car until border. ”&lt;br&gt;
+&lt;em&gt;―Kralx15, 30 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>21.40376293659205,42.03238492204572</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18445</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“When you get a ride to Kriva Palanka and want to go further to Bulgaria, it&#39;s maybe smarter to get into the town, as it&#39;s not too big so you can walk to the exit of it. This place is in the begining of a town (coming from Skopje). Most drivers, except transit vehicles, go into the town, so you can experience high waiting times at this place.”&lt;br&gt;
+&lt;em&gt;―Mpetrovic, 18 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>22.309526145459763,42.19285716411021</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Skopje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“got a lift to ohrid from here.&lt;br&gt;you could also ask people at the petrolstation.&lt;br&gt;sign nieeded.&lt;br&gt;waiting time: 2h”&lt;br&gt;
+&lt;em&gt;―Keek, 08 Oct 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Get a lift to pay toll on the road to Ohrid.1 hour of waiting”&lt;br&gt;
+&lt;em&gt;―Az-alcmar, 19 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>21.33299016952354,42.006779289937626</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Strumica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.650464415554474,41.43880984662856</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21796</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the junction from the main road at towrads Mavrovo.&lt;br&gt;&lt;br&gt;Got a ride with a bus (for free) to Mavrovo after waiting less than 5min.”&lt;br&gt;
+&lt;em&gt;―Ulrik, 18 Mar 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“were dropped off here, got a lift to Ohrid within 15 minutes. ”&lt;br&gt;
+&lt;em&gt;―Fraughtwithsounds, 11 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.840965747832296,41.72727568725643</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tetovo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.992317438125543,42.002625622771035</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Skopje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>21.37668871879746,42.006165425305255</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ohrid</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can climb down here from the bridge. Not a lot of traffic, but at this point(assuming Skopje is your direction) you just want to get to the next crossing, were there is way more cars.”&lt;br&gt;
+&lt;em&gt;―Mrgnd, 22 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.784994939939025,41.12889039818481</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21797</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Tried to get a ride to the Ski-center of mavrovo but no cars were stopping (maybe 10 passing), even if most of them had space for me.&lt;br&gt;&lt;br&gt;Had to walk to the ski-center, about 1hour if youre a good walker. A flat walk.&lt;br&gt;&lt;br&gt;In the middle of the day in february.&lt;br&gt;&lt;br&gt;It should be a good place though, just bad luck for me a guess.”&lt;br&gt;
+&lt;em&gt;―Ulrik, 18 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>20.745500564575085,41.697305907442285</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Demir Kapija</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Entrance from the city Demir to the highway. Not so much place for a car to stop, a bit dangerous.”&lt;br&gt;
+&lt;em&gt;―Gustavobretz, 12 May 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Stayed right on the road on a cloudy day during the eastern. Almost no car passing by, but a truck took me to the greek border after less than one hour”&lt;br&gt;
+&lt;em&gt;―Gustavobretz, 12 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>22.230248093604335,41.41680043820233</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23988</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“border of Bulgaria and Macedonia.&lt;br&gt;100 meters after the macedonian side there is a wide area for cars to pull over. i was there on sunday and didnt got a ride. (people are suspicious because of the refugees crossing the border)”&lt;br&gt;
+&lt;em&gt;―Soand, 10 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.87491703033492,41.986725973233405</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Delchevo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“people where very nice and offer me food, also police was nice. nobody got me out of the city though.&lt;br&gt;behind the gas station there are toilets and nice grass area where you cant put your tent if needed.”&lt;br&gt;
+&lt;em&gt;―Soand, 10 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.771587610244758,41.973454619594214</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26337</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Kosovo, either ask people at the gas station (but it&#39;s quiet, so I wouldn&#39;t advise that), or hitch directly on the road with plenty of place to stop and good visibility. ”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 06 Jul 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Took me 20 minutes to find a ride to Prishtina here.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 06 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.376533150672962,42.058533864462326</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Prilep</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 38min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“there is no shadow, but the traffic was quite busy, so we got a ride pretty fast. there is also a gasstation nearby.”&lt;br&gt;
+&lt;em&gt;―Etter, 16 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>21.58222103118895,41.357278983719304</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27028</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we were lucky, because the first car stopped. if you go to the Bulgarian border, start hitchhiking before 7am, because the guys working there are taking the hh-ers, and their shift starts at 8am. enjoy the view! (o:”&lt;br&gt;
+&lt;em&gt;―Etter, 16 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.591375350950045,41.317129925169894</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

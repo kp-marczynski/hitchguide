@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Malaysia</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>George Town</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Easy to hitchhike in and out of Georgetown”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>100.314617156982,5.36343420493376</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ipoh</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>101.033020019531,4.68729820602766</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mersing</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just one road on this island, and everyone will try to be a taxi, offering a ride for an unfairly high price.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>104.160432815552,2.82045826067482</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kota Kinabalu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>116.05558776857,5.939743542898</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13707</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“HH from Bon Ton Resort. Very easy and fast. Working even after sunset.&lt;br&gt;The whole Langkawi Island is very easy and nice place for HH.”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>99.72443246843434,6.30811686067187</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13708</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Going out of Tanah Rata town; on the left hand side, under high rocks. Very good spot for HH to Kuala Lumpur. I was waiting less than 3 min for direct lift.”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>101.3741304874686,4.471284105584177</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Jerantut</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You have to walk few minutes away the town. You can easily get a free lift to the junction roads 64 and 98 (going to KL, Melaka, Singapore)”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>102.36750268938378,3.937111662113305</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13711</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“~200m after the mosque. It&#39;s good place for HH, with good visibility. Very easy to catch a direct lift to KL. Or step by step to Melaka and other destinations.”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>102.38129997254838,3.9293194659030326</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13712</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Traffic is very poor, but it&#39;s still possible to HH back from Taman Negara to Jerantut.”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>102.40167403221352,4.381548366962777</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13713</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very poor traffic. But HH is possible, even to the gates of Taman Negara National Park.”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>102.43568444251588,3.961301256483237</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Malacca City</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good spot. Few meters after the junction. Good visibility. You can easily find a lift to Singapore or to Kuala Lumpur,”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>102.30944359304009,2.297586892153686</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pekan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“surprisingly busy, ride back to Kuantan in half an hour”&lt;br&gt;
+&lt;em&gt;―Woolleywoolleywoolley, 12 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>103.42000150680911,3.3730471210461035</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21949</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 17min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From Border THai-Malay will go Malaysia part was so easy. Just walk bit from out border gate. All car go to next city for sure, Alor Setar. If lucky you can get ride until Kuala Lumpur, Penang. ”&lt;br&gt;
+&lt;em&gt;―Rizalhunter, 04 Apr 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Hitchhiked fast right to Sungai Petani!&lt;br&gt;&lt;br&gt;July 2015&lt;br&gt;Cheers! //Yriy ”&lt;br&gt;
+&lt;em&gt;―Ripys, 09 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>100.42133331298517,6.503943424467435</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kota Kinabalu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Place for heading south, plenty of room for people to stop and an easy walk out of KK.”&lt;br&gt;
+&lt;em&gt;―Thefries, 19 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>116.05850601196856,5.947240061340841</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kota Kinabalu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Was able to stop a car here as I walked out of KK head for Mount Kinabula”&lt;br&gt;
+&lt;em&gt;―Thefries, 19 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>116.11462855342423,5.993278549556498</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23986</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Waiting time: 0 minutes. First car stop to Kualal Lumpur! :) Awesome ride!&lt;br&gt;&lt;br&gt;July 2015&lt;br&gt;Cheers! //Yriy”&lt;br&gt;
+&lt;em&gt;―Ripys, 09 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>101.07931702732158,4.664048336793176</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bayan Lepas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It is an industrial area near the airport so, this bridge is mainly used by trucks and cars that come from the airport.&lt;br&gt;&lt;br&gt;The road is relatively new so the traffic flow is not that much. But you can easily stop a car.&lt;br&gt;&lt;br&gt;If you come from the airport it is about 15 to 20 min walking. If you come from Georgetown you can take a local bus (about 1usd) and get out right before the river and then walk 10 to 15 min.”&lt;br&gt;
+&lt;em&gt;―Joaoguilhermeln, 07 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>100.29318694573779,5.2952195728221625</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bandar Baru Salak Tinggi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the airport of Kuala Lumpur to finde a ride to Tahiland borders”&lt;br&gt;
+&lt;em&gt;―Potents, 17 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>101.70468898840045,2.7951058214740825</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Johor Bahru</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitch spot on the freeway entrance ramp.”&lt;br&gt;
+&lt;em&gt;―Falcor, 23 Jul 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“If you take the bus over to Malaysia from Singapore you can walk east out of the Bus Station and find the road that leads to the freeway towards KL.  I have hitched here twice in recent years and both times i got a lift very fast - like most places in Malaysia ;)”&lt;br&gt;
+&lt;em&gt;―Falcor, 23 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>103.76847966390416,1.4676043569540864</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bukit Tengah</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“R&amp;amp;R&#39;s are perfect hitchspots. The first person I asked brought me to Ipoh”&lt;br&gt;
+&lt;em&gt;―Crazy abla, 04 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>100.42104506493645,5.35260709983073</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kampung Baru Subang</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Kuala Lumpur is very easy city to hitchhike in, there is not so many spots where people can pull over but you can use the bus stops in the city. ”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Hi there!&lt;br&gt;&lt;br&gt;Could you please give more detailed info of where the bus stop is to hitchhike north from KL?&lt;br&gt;&lt;br&gt;Thank you!”&lt;br&gt;
+&lt;em&gt;―Vaporlze, 29 Apr 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>101.602935791016,3.18096656023646</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Seri Kembangan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a big toll gate south of the city which is an excellent hitchhiking place, but not too easy to reach.&lt;br&gt;&lt;br&gt;You can easily find a direct lift to Singapore.”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>101.7059626579529,3.0402460037188264</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Malacca City</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not the best spot for HH. Mostly local traffic. Most drivers stops b&#39;cos of the shopping mall, those who want to help are offering lift to the bus station. It took me &amp;gt;half an hour to stop a car which took me to the toll gates.”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>102.24792981149872,2.213500471995943</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Malacca City</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Mostly local traffic or drivers offering giving a lift to the bus station. Hard but not impossible to HH.”&lt;br&gt;
+&lt;em&gt;―Greg Pelka, 19 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>102.24710369111892,2.2019433715618137</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>George Town</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take a bus from Georgetown and come up here! I get fast ride to Ipoh! :) &lt;br&gt;&lt;br&gt;July 2015&lt;br&gt;Cheers! //Yriy”&lt;br&gt;
+&lt;em&gt;―Ripys, 09 Sep 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“The cars exiting here are not going to Ipoh, they remain in Penang, thus in order to find a ride over the bridge you must wait further back by the pedestrian bridge and the bus stop.”&lt;br&gt;
+&lt;em&gt;―Crazy abla, 04 Aug 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>100.31439929606837,5.364247387533066</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tambun</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Behind the caltex gas station is the art castle! A place for travellers and hitchhikers to stay, create art and meet other travellers and the lovely local people supporting the castle! Drop by if you have a chance, i definitely recommend it! ^^”&lt;br&gt;
+&lt;em&gt;―Vaporlze, 20 May 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>101.13020103584896,4.606369506638468</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25992</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It is a good place to reach south toll gates. Cars drives quite slow and they have a lot of space to stop. There was a little renovation there so it can a bit change. From toll gates you can easily have a ride to Melaka or Singapore.&lt;br&gt;&lt;br&gt;Using bus 400 you can get off on leisure mall or one bus stop earlier (should be even better).”&lt;br&gt;
+&lt;em&gt;―Anonymous, 07 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>101.73617506027799,3.098280737916933</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>George Town</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you want to go towards Butterworth/ over the bridge you ust wait back here as the cars will be merging into the far right lane. Nevertheless I found a ride within about 15 mins when standing by the bus stop.”&lt;br&gt;
+&lt;em&gt;―Crazy abla, 04 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>100.3141214847724,5.368739456784379</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Tanzania, United Republic of</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Spot 12913</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“thats a good spot to Hike to the North, or Dar Es Salaam, behind the Roundabout is normally a police controle, so the cars have to stop for Police Check and after this you can easy ask them if they give you a lift. Truck drivers normally want some Schillings but its more comfotable then the bus. ”&lt;br&gt;
+&lt;em&gt;―TeeTramp, 26 Jan 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:47Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>39.34590339660405,-8.79705645267013</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12914</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This Spot is good to Hike to the southwest off Tansania. The Road is good and on the Day there are a &amp;quot;lot&amp;quot; off Cars, also in the night (7pm) when there is no busservice its easy to get i ride to the Town Iringa. &lt;br&gt;i waited in the night 30 minutes thats okay for tansania  ”&lt;br&gt;
+&lt;em&gt;―TeeTramp, 26 Jan 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:47Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>35.905804038043684,-7.723964866175624</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

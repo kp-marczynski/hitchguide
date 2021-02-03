@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Paraguay</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Spot 18009</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The only road to go to Paraguay (even if you are already inside!)&lt;br&gt;the road is off-track, few cars ride to the main road between Pedro Juan and Conception.&lt;br&gt;If you found a bus (2 a day) jump in!”&lt;br&gt;
+&lt;em&gt;―Ensmelle, 13 Apr 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:08Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-56.50351845223796,-22.115525450242234</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ciudad del Este</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje en Minga Guazu, spot for hitching to Asunción. To get here take bus from Ciudad del Este that says Minga Guazu Km 24. Km 24 is a name of a settlement next to the peaje.”&lt;br&gt;
+&lt;em&gt;―Paluch, 17 Aug 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Esperei mais de 3 horas”&lt;br&gt;
+&lt;em&gt;―Tata1848, 04 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Tuvo un día de lluvia entonces no muy bueno por hacer dedo, no obstante este  quiero decir que demorei 6 horas.&lt;br&gt;Tal vez una muller con día de sol espera meno...&lt;br&gt;Parece que el dedo en Paraguay funciona mucho mejor en área rural...&lt;br&gt;Suerte a todos!&lt;br&gt;Roberto mx”&lt;br&gt;
+&lt;em&gt;―Anonymous, 16 Feb 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-54.85456926386777,-25.486654178197426</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Falcón</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:16:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.72263145446786,-25.262894409148984</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22569</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Can´t remember if it was at this precise point exactly. The spot was just next to the immigration center. All of the truck drivers that go through this road, park next to it to do the paperwork. There is a Petrobras gas station close by also and hitching with a thomb is good also.”&lt;br&gt;
+&lt;em&gt;―Planetenom, 24 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-60.578722715376394,-22.040313550036736</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

@@ -17,3 +17,10 @@
     top: .5em;
     right: .5em;
 }
+
+.attribution {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.75);
+    padding: 5px 10px;
+}

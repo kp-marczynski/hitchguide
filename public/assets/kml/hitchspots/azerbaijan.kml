@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Azerbaijan</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>??ki</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>47.0736211538315,41.1144936303778</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Timiryazevskiy</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>84.9260544776917,56.4423553679896</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Stepanakert</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“after the cross enough space to hitch. to askeran or van.”&lt;br&gt;
+&lt;em&gt;―Pite, 27 Jan 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.76676624869,39.829374549575</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Shusha</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“way to armenia. roads from shusha and stepanakert are joining here.”&lt;br&gt;
+&lt;em&gt;―Pite, 27 Jan 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.728995381345,39.752133378831</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ordubad</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“90% of cars are Taxi&#39;s or people wanting money. Roads are very twisty and mountainous, not great for trucks. Expect to hear taxi&#39;s shouting &amp;quot;Yeravan? Yeravan?&amp;quot; everywhere. Even when walking across the Iran Border!&lt;br&gt;Can sometimes be long waits (30-60 mins) due to little traffic.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>46.2651443481445,38.8883605530271</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Baku</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good spot to go to Ganja and Astara.”&lt;br&gt;
+&lt;em&gt;―Rozwal, 20 Apr 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>49.794677999268,40.365245698517</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tovuz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.61743164062533,40.97946503747212</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14964</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The main road from Stepanakert to Armenia starts here. A policecar might stand here to check the speed of the cars passing, but this won&#39;t stop them from stopping”&lt;br&gt;
+&lt;em&gt;―Podz, 13 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.767520634025196,39.797061316284484</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15968</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“dir: Shamakhi, Georgia. take the metro till 20 yanvar. there is a bus from that place till this point (ask people for the bus to Atyali).”&lt;br&gt;
+&lt;em&gt;―Pite, 14 Sep 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“its the bsu 151 tht brings you there”&lt;br&gt;
+&lt;em&gt;―Anonymous, 25 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“very good spot”&lt;br&gt;
+&lt;em&gt;―Anonymous, 01 Mar 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“It&#39;s the bus 114 and it&#39;s a very bad spot if you want to go to Georgia, very few people use this road to go to Georgia nowadays, M2 highway is the best option.”&lt;br&gt;
+&lt;em&gt;―Nadjib, 02 Sep 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>49.63566303253261,40.4657098654555</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Şəki</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“from Sheki to Zaqatala or to the Georgian border take the old (but recently renovated) road. you can hitch right after the rondabout, before the bridge.”&lt;br&gt;
+&lt;em&gt;―Pite, 14 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>47.16506958007943,41.207333557728504</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16025</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The border crossing between Armenia and Karabakh. Cars have to stop for passport control so they drive slowly and will take you if they have space”&lt;br&gt;
+&lt;em&gt;―Podz, 16 Sep 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Almost no traffic, but the second car picked me up. ”&lt;br&gt;
+&lt;em&gt;―Niklavs, 28 Mar 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.502670446580886,39.58373425329379</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19360</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s along walk (45 minutes) out of the city center too get to the edge of town. Direct lift to Seki within 20 minutes though.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.65613317489684,41.59242201678698</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19361</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Long walk (45 minutes) to get here from the city center, but good spot at the edge of town. Expect many shorter rides.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>47.19987058639497,41.151810949994704</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19362</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Little traffic to Lahic, but possible. Be prepared to wait.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>48.283053874970264,40.73389734666013</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19363</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Little traffic, so simply start walking. The first car or truck will stop for you.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>48.37530040740994,40.84312026197361</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20593</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Simple spot on roadside. Towards Baku there&#39;s not much but enough traffic here. Be prepared to wait a little.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 19 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>48.283032417294855,40.732011215969685</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21436</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“DONT GO THERE!!!!!! Local people are really unfriendly and wild!”&lt;br&gt;
+&lt;em&gt;―Roman ua, 31 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>48.01150035857622,40.61157446674964</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21437</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“No cars, people looks like animals. After visiting this place we became to hate Azerbaijanians. ”&lt;br&gt;
+&lt;em&gt;―Roman ua, 31 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>47.973091125483016,40.553771081698166</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21438</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Visiting this village is really dangerous for your LIFE!!! Espesially if you are woman!”&lt;br&gt;
+&lt;em&gt;―Roman ua, 31 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>48.03083372115687,40.74871211272945</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21645</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Yeni Ceyranbatan (New Ceyranbatan)- reasonable spot to HH north (ex. Quba). Go to 20th January metro station and ask locals for buses to this village, it is on the road to Sumgait. It costs aproximately 50 kapik (2015). About 100m before junction with express road there is not very bad place to stop cars. No point walking and looking for bus stop. Waiting time very good but what decreases &amp;quot;hitchability&amp;quot; is not perfect place to stop cars. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 01 Mar 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>49.66452026367297,40.542459672695664</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Astara</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Cross the border on foot and walk for a few minutes to avoid the area where taxis wait. Here is a nice road going towards Baku. If you are lucky, you may find a direct ride. Try to explain beforehand that you are hitchhiking and not going to pay for the ride.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 31 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>48.87938404083509,38.45436618917307</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18049</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you are going to take a ship from Baku to Turkmenistan or to Kazakhstan, you can go to the port early and try to talk to one of the Turkish, Georgian or Azeri truck drivers. They can show you as a driver on paper and you can save 100$.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 18 Apr 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>49.990204811112854,40.34677746456188</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Qusar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not much traffic (cars) in the direction of Laza. A couple of kilometers before Laza there&#39;s a big construction side (2012), so some trucks shuttle between Qusar and there. To get out of Qusar it&#39;s a long and sweaty walk (45 minutes).”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>48.41392421722491,41.415766552646</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>İsmayıllı</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not enough cars. If you will stop someone - BE CAREFUL!!!! There are a lot of dangerous people in this area!”&lt;br&gt;
+&lt;em&gt;―Roman ua, 31 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>48.15556716918367,40.77946115480939</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27344</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Can be a good place to get a ride to Gandja and even Baku, many trucks going to those cities pass through this road, I had to wait for 2 hours to get a ride to Baku. expect lot of taxis, ask if it&#39;s free before getting in the car.”&lt;br&gt;
+&lt;em&gt;―Nadjib, 02 Sep 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:41Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>45.08223438263093,41.32518749937485</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

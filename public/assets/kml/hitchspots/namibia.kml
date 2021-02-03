@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Namibia</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Spot 17896</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min</description>
+    <TimeStamp><when>2021-02-03T10:15:23Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>16.278678894042773,-26.663702563186394</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23047</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Easy lift to Oshakati or Ondangwa.”&lt;br&gt;
+&lt;em&gt;―Xavier, 09 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:23Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>17.261283820472563,-18.76830951521814</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17334</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“East To Okongo&lt;br&gt;From Eenhana you can pick up a ride at the hike point across from the open market, near the Regional Education. Office Eenhana to Okongo is N$50. Eenhana to Oshikunde N$25. &lt;br&gt;&lt;br&gt;South to Ondangwa: &lt;br&gt;This hike point is on the south end of town past the grocerery stores and the Shell station. There is a single tree in an open area. Many people will be standing around and there will be some vehicles parked on the side of the road. NOTE: This hike point travels the gravel road--though it is cheaper is is bumpier and more prone to stopping. &lt;br&gt;&lt;br&gt;West to Onuno (Transfer to Ondangwa, Oshikongo):&lt;br&gt;&lt;br&gt;This route doesn&#39;t have a designated hike point. Rather, linger around the Shell station on the north side of town. Look for a sedan--they are much more likely to take the paved route. This is a longer and more expensive ride to Ondangwa and you will switch cars at Onuno but it can ultimately be faster than stopping along the gravel. Your driver will find you a car at Onuno. ”&lt;br&gt;
+&lt;em&gt;―12henryj, 26 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:23Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>16.294921875000252,-17.497281582267128</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

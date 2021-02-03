@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Montenegro</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Tivat</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The whole coast line of Montenegro is a nice place for hitch-hiking. Not a problem at all...Even if nobody stops for a long time, there are buses passing by and you can try to negotiate for the price :)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I got picked up in this spot within seconds by an adorable couple. It&#39;s a safe idea to head to the wonderful islands in the bay and then continue on to where you want to go. Plus a neat irish pub in perast too.”&lt;br&gt;
+&lt;em&gt;―Nix831, 25 Apr 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.6994171142578,42.4872892856591</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ulcinj</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 38min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction to Albania. Great HH point. You can get there by bus pendling form the town to Great beach. Just tell him to stop by tankstation and then walk a bit to the north-east”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“mid august 2011 ; was expecting better ; after waiting over 2 hours, a guy that looked like robert de niro stopped and asked 5 €, i said hell yeah as i wanted to reach albania”&lt;br&gt;
+&lt;em&gt;―Anonymous, 09 Oct 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Apparently, I met the same Robert De Niro but I refused, as it was all dark, I went to Shkodër by bus, but unfortunately the fee was 5 EUR as well.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“We had a free ride from here to Shkoder. We didn&#39;t make a sign, but I had a pretty girl with me :). Waited for around 1h and rejected some propositions for a paid ride.”&lt;br&gt;
+&lt;em&gt;―Hobbes, 10 Dec 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“we took a &amp;quot;taxi&amp;quot; here after 45 mins, (which was also 5e), as we didn&#39;t expect to find an easy ride here: in summer, people know how to get money out of travellers ;) ”&lt;br&gt;
+&lt;em&gt;―Mrw.witteveen, 22 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“It was incredibly hard to leave this place without paying five euros. All the Albanian cars who stopped asked for a fee, it took us more than two hours to find an international car which went to Albania and took us for free.”&lt;br&gt;
+&lt;em&gt;―Palihitcher, 06 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.2317819595337,41.9278568539732</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kotor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 17min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Best place to go to Budva. A lot of local hitchhicker use this place too.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Quite popular place. But I got there ride to Kotor very quickly (17.03.12 with one guy).”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“best sport to go to Budva, local people but good spot”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 03 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.9302587509155,42.3865472941271</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tivat</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Perfect for going around the bay. Try to get to Kamenari at least, there is a ferry which is free for pedestrians.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Ditto on this place. Might be better a little further away from the roundabout though.”&lt;br&gt;
+&lt;em&gt;―Nix831, 25 Apr 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Took 30min to get a car to Kotor from this spot. Close to the round about there is plenty of space for cars to stop comfortably”&lt;br&gt;
+&lt;em&gt;―Aranp, 06 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.5591053962708,42.4551277296007</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 8348</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 31min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Depending on where your driver is from the Albanian border guards may cause problems. Traffic toward Albania is fairly heavy during summer, in the other direction is less so. &lt;br&gt;I hitch hiked to albania for a day trip.&lt;br&gt;ended up having to walk 5km from the border to near Vladimir before getting a ride.”&lt;br&gt;
+&lt;em&gt;―Anicic, 06 Aug 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Started 6:20 am, after one hour stopped a car to Ulcinj, after 1h45 a car to Budva.”&lt;br&gt;
+&lt;em&gt;―Prochy, 18 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.358841418765,42.011984943205</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A very long wait on the way south out of bar. Traffic was very heavy was offered 3 separate rides to ulcinj for 5-10euros. &lt;br&gt;Waited two hours until I got a ride. However locals were help in advising me.&lt;br&gt;In the opposite direction i got a ride from a trucker in 10minutes, who offered to take me to Bijelo Polje”&lt;br&gt;
+&lt;em&gt;―Anicic, 06 Aug 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“early august 2011 ; direction Ulcinj ; good spot, though some tried to ask money ; i refused”&lt;br&gt;
+&lt;em&gt;―Anonymous, 09 Oct 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I got car directly for Ulcinj thanks to Russian family living in Montenegro ! 15 min waiting time MAXI”&lt;br&gt;
+&lt;em&gt;―Jerome25, 11 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.098624228957,42.094341716238</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 8458</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A very busy junction. Gas station and supermarkets, make it a decent place to wait. Easy to get a ride direct to budva or further.”&lt;br&gt;
+&lt;em&gt;―Anicic, 21 Aug 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.798352718345,42.342649600294</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cetinje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This place is very good, lot of space to stop, it is still in the city and the cars go still slow and there is a big tree where you can hide in its shadow. BUT I was wondering about to give it SENSELESS because almost noone ride this way. But this way is most beautiful way to Kotor. If you hava a  lot of time I will recommend you.”&lt;br&gt;
+&lt;em&gt;―Misa85, 03 Sep 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“This way to Kotor is wonderfull, If you are here, go on this way. BUT NEVER GO BY CAR WHICH IS NOT SAFE. THIS ROAD IS HORROR. NEVER!!”&lt;br&gt;
+&lt;em&gt;―Davidkuski, 17 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.90927765075,42.397982994199</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mojkovac</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good place, lots of cars, place to stop. Two boys have been wating about 15 minuts.”&lt;br&gt;
+&lt;em&gt;―Misa85, 03 Sep 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.575967523473,42.955607606862</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 8558</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This road is the only one to Mojkovac. There is not many cars. Two boys have been waiting for a 1  hour. Lot&#39;s of tourists with full cars because of the bridge Tara.”&lt;br&gt;
+&lt;em&gt;―Misa85, 03 Sep 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“walk further for more chances. after an hour I found a lift right to belgrade.”&lt;br&gt;
+&lt;em&gt;―Ohz, 03 Sep 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.128317567704,43.159114104864</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From this place you can easily hitchhike to Skadarsko Jezero and south seaside of Montenegro (Sutomore, Bar, Ulcinj, Petrovac).”&lt;br&gt;
+&lt;em&gt;―Anonymous, 09 Oct 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I was hitchhiking from this place to the seaside.&lt;br&gt;03.03.12 Sutomore with one guy, 5min&lt;br&gt;13.03.12 Bar with one guy, we gave up after 1,5h of waiting, everyone who stopped was only going to airport&lt;br&gt;18.03.12 Ulcinj with one guy, 15 min, we got ride to Bar from there to Ulcinj”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Alternatively you can take a train. Train station is not so far from this place and trains in Montenegro are cheap (1,40€ to Virpazar; 2,00€ to Sutomore; 2,40€ to Bar; student discount 30%).”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.253934860228,42.4187245491</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9574</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From this place you can get to north seaside of Montenegro (Budva, Kotor, Tivat, Herceg Novi).”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“A lot of locals hitchhike here as well, which can be a bit annoying.”&lt;br&gt;
+&lt;em&gt;―Palihitcher, 06 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“We started to hitchhike around 3pm and we waited just 5 minutes.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 11 Feb 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“not easy, lot of people, wait 40min to go to Cetinje”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 25 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.226597785953,42.434563351402</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 32min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From here you can get to Niksic or Ostrog.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“10.03.12 - hitchhiking to Ostrog. After 1h of waiting we gave up and wanted to take a bus. But a truck, which was going in front of the bus we wanted to take, stopped.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“A guy was already using this spot when I arrived, so I moved up the road. After he got a ride (about 5 mins after I arrived), 2 cars parked in the bus stop! But a few minutes later, a taxi with one more free spot stopped for me...&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Kidp3, 03 Nov 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.227799415592,42.435608571577</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 21min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can get from here to Ulcinj.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“18.03.12 around 25 min of waiting with one guy, also another car stopped but was going somewhere close from Bar ”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Many Albanians would offer you a ride to Ulcinj for like 5 EUR (varied from 10 EUR to 2 EUR after a small bargain), but we ended up getting a free ride from a Montenegrin.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.111895799647,42.09138802427</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kotor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place to go somewhere close to the seaside (like Budva, Petrovac or Bar) but also Podgorica.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“17.03.12 - hitchhiking to Podgorica. We got a ride to Sutomore. Waiting time around 20min. But cars were going quite fast there.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Nice place with plenty space for cars to stop, quite uphill though. We also got stops standing right before the crossroad.”&lt;br&gt;
+&lt;em&gt;―Rarade, 20 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Get a ride to Budva/ Godd place for cars to stop ”&lt;br&gt;
+&lt;em&gt;―Az-alcmar, 19 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Toke me just a little above 15 min to get a ride to Budva, good place for cars to stop.”&lt;br&gt;
+&lt;em&gt;―Lill Lenin, 29 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.7653758526,42.4156275956</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place towards Podgorica.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“03.03.12 - hitchhiking back to Podgorica. Probably we were just lucky, but we were waiting less than 5min and a very nice couple stopped.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.045527219792,42.142767404119</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9579</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great palce for hitchiking to Bar and somewhere further like Podgorica.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“18.03.12 - hitchhiking back to Podgorica. It&#39;s hard to say about waiting time. We just took out a paper with PG and first car gave us a ride (like 30sec of waiting). It was so easy because they are repairing road there and in this place now are traffic lights and cars have to stop there. So we just stood next to a car with registration plate PG and they took us.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.217489004154,41.938272954477</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9580</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place towards Podgorica. Almost all cars are heading there.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“09.03.12 - hitchhiking to Podgorica. There weren&#39;t many cars going and some of them very really speeding. But we didn&#39;t wait long there - around 15min.”&lt;br&gt;
+&lt;em&gt;―Kamila (PL), 21 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“A train ticket back to Podgorica is also very cheap, not more than 1 Euro I think”&lt;br&gt;
+&lt;em&gt;―Palihitcher, 06 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.132087469116,42.278904633441</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9707</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Took us a while to get a lift to Herceg Novi (it was a taxi and the driver was nice enough to offer us a free ride).”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>18.446461200691,42.482949840488</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9708</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Ask for a lift to Kamenari (if not going to Kotor), the ferry is free for pedestrians.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.580126404736,42.443736147208</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9709</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Stay between the circle and the shops if heading to Budva.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 08 Apr 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“very good spot, easy to get a ride to Budva”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 03 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“good place, but hitchability at the end of the market area is also really good.”&lt;br&gt;
+&lt;em&gt;―Jfk, 01 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.738913178423,42.390319518679</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9710</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.881735444047,42.281508256359</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7185</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 50min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“nice spot just at the exit of Sutomore, under Haj Nehaj fortress. The road here goes two ways, up the coast or north to Podgorica via the tunnel. Visibility is a bit less than excellent, but cars slow down as they approach crossroad near tunnel tolls.”&lt;br&gt;
+&lt;em&gt;―Mpetrovic, 10 Jan 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.036160945563,42.15252764076</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bijelo Polje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A fairly busy road north of Bijelo Polje. Easy place to hitch from. This is the main road from montenegro to serbia, easy to get a longer ride. The border is no problem to cross. Though as of summer 2011, the border is closed at certain times of the day due to construction.”&lt;br&gt;
+&lt;em&gt;―Anicic, 06 Aug 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.75149536087,43.038364106906</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10056</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a petrol station there with cars going in both directions. I got an easy ride to Kotor.”&lt;br&gt;
+&lt;em&gt;―Sam iam, 15 May 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.807135070213,42.29318038814</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10973</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just after the brige. Got a car to Zabljak. Posible to Niksic, Podgorica.”&lt;br&gt;
+&lt;em&gt;―Oscypek, 09 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.292816162110302,43.14842503280647</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nikšić</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 29min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After road junction. Traffic goes to seashore (Kotor, Herceg-Novi) and Bosnia.”&lt;br&gt;
+&lt;em&gt;―Oscypek, 09 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Shady area, speeding drivers. If you&#39;re heading to Podgorica better take the train. It&#39;s less than 2 euros, and the views are incredible.”&lt;br&gt;
+&lt;em&gt;―Mrgnd, 22 Feb 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.93962287902848,42.76307132862632</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kotor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is traffic light and right lane for driver to stop. After 15 minutes we got a hike all the way to Sarajevo. We are lucky.”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 30 Jun 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good spot, but are need to make you visible because of the trees. We started to hitchhike under the rain and in 10 minutes we got a ride up to Dubrovnik.”&lt;br&gt;
+&lt;em&gt;―Libertad Viajera, 15 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.76929187774721,42.42833521982591</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14686</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we want to go to Kotor, but waited for half an hour and still not successful, there is another guy rushing for work in Kotor so we share a taxi (1.5 euro each x 3) to go to Kotor”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 30 Jun 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“got a ride to the Kotor Bay ferry quite fast after the roundabout”&lt;br&gt;
+&lt;em&gt;―Niklavs, 18 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Got a ride in 15min to Kotor, around 3pm many cars passing by. A local woman picked me up and took to all the way to the old town”&lt;br&gt;
+&lt;em&gt;―Aranp, 06 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.73845720291159,42.39192410583976</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Budva</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“it is the only spot (maybe more if we are near Budva town) for Kotor because further on the hill side and narrow road give no space for driver to go aside or stop for you.”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 30 Jun 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“You can choose if stay in fonrt of a hotel or 20 meter up, where there is a bakery called &amp;quot;Good Food&amp;quot;. Is the only way to go to Kotor, no so much space to stop, but they don&#39;t really care :-)”&lt;br&gt;
+&lt;em&gt;―Libertad Viajera, 14 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“very difficult, wit 30min to go to Kotor”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 03 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.83306407928532,42.278868912259256</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14784</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.958677291873705,42.2034282762888</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15532</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we (two guys) started on the 9.July (saturday), at 8:40 and Ive got a lift at 8:50 to Bar.”&lt;br&gt;
+&lt;em&gt;―Juanto, 10 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.222982168197966,41.93373570339824</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Šušanj</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we (two guys) started on the 9.July (saturday), at 11 in the morning and Ive got a lift to Tivat. It took seconds by asking a couple of germans with a trailer.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Juanto, 10 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.09411811828386,42.107086392254075</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Тиват</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I dont remember the place exactly. it was at a bus station, just in front of the ferry leaving to the other side. we (two guys) started on the 9.July (saturday), at 13:00 and Ive got a lift to Kotor. It took 15 min. A couple from Belgium with VW T4 picked us up.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Juanto, 10 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.69601392745741,42.43844720658377</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15537</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“ the place exactly was at a bus station, just in front of the ferry leaving to the other side. we (two guys) started on the 9.July (saturday), at 13:00 and Ive got a lift to Kotor. It took 15 min. A couple from Belgium with VW T4 picked us up.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Juanto, 10 Aug 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good spot, got a ride after the third ferry.”&lt;br&gt;
+&lt;em&gt;―NickBe, 26 Aug 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.686506709313438,42.46614022844353</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sutorina</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“ we (two guys) started on the 22th of July (saturday), at 13:00 and Ive got a lift to dubrovnik. It took 40 min.  A guy from Serbia picked us up.”&lt;br&gt;
+&lt;em&gt;―Juanto, 10 Aug 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“No one stopped for me for more than an hour so I started to walk to the border. After a few kilometers police stopped me to check my passport and took me to the border :)”&lt;br&gt;
+&lt;em&gt;―Niklavs, 18 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.49105950281721,42.458458822547406</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15686</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a bus station, and crossroad so the car not so fast. BUT many cars tuorist, so use sign. We went from here to Bar and Petrovac too.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Davidkuski, 17 Aug 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“On Bus station on main road direction Bar, cars do not drive fast, lot of Taxis asking you for ride. I got car just after 10-15 min !”&lt;br&gt;
+&lt;em&gt;―Jerome25, 11 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.86331939697199,42.283544246270075</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15687</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you would like to go to Lake Skadar or Podgorica not use this road, from Sutomore is a new road and tunel, everybody going on that way.”&lt;br&gt;
+&lt;em&gt;―Davidkuski, 17 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>18.937520027159824,42.210270737524496</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15738</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Kotor.”&lt;br&gt;
+&lt;em&gt;―Prochy, 18 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>18.81510841847934,42.285262722951664</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Herceg Novi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 33min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“No space to pull over.”&lt;br&gt;
+&lt;em&gt;―Prochy, 18 Aug 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“We were lucky. An empty Polish bus stopped and went to Makarska.”&lt;br&gt;
+&lt;em&gt;―Prochy, 18 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“There was a taxi driver offering 32 euros to Dubrovnik for the car. Bus ticket costs 15 euro per person.”&lt;br&gt;
+&lt;em&gt;―Prochy, 01 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.532328486457015,42.45392484970605</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 14min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitchhiking to Shkodra (male and female). An ethnic serb from Vraka (Shkoder Albania) who lived in Podgoirica took us in Shkoder with his Mercedez. :))) ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 30 Sep 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Hitchhiking to Shkodra (male and female). An ethnic serb from Vraka (Shkoder Albania) who lived in Podgoirica took us in Shkoder with his Mercedez. :))) ”&lt;br&gt;
+&lt;em&gt;―Albaniaelb, 07 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“A truly unique place to hitch from. We hh ed right at the Albanian customs booth. Officers couldn&#39;t care less about us asking cars even before they went through customs. Excessively hot in summer, but awesome atmosphere.”&lt;br&gt;
+&lt;em&gt;―Mrw.witteveen, 14 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.419470071794866,42.32987399393985</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>19.22756338119523,42.365461008432874</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16682</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A big spot to pull over, but people don&#39;t seem to stop. I had a &#39;PG&#39; sign for Podgorica, and in that time a taxi (who wanted me to pay) and a motorcycle (who didn&#39;t have a spare helmet) stopped. After 2 hours, a nice man walked by and took me to the bus stop further up the road, where I got a ride in 5 minutes.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 03 Nov 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I think it is a good spot because local people use it, we wait just 15min to go to bar”&lt;br&gt;
+&lt;em&gt;―Yohan34110, 03 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.854237437249246,42.285857971699166</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nikšić</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Local people seemed to be using the parking area in front of the store on the corner, as well as the road up ahead. Just a 2 lane road, so they&#39;ll stop in the middle of the road. It isn&#39;t too busy, so it should be fine.&lt;br&gt;&lt;br&gt; Took me 30 mins to get a ride, but there were 2 people at the store corner, 2 girls on the stretch of road and then later a guy that went in front of me. My ride even picked up those same girls later.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 03 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.93511140346754,42.79432238103437</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16687</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“First car I asked with BiH plates took me to Foca. He even spoke a bit of English :)&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Kidp3, 03 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.84611570835269,43.15773524528144</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Berane</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Goof place to get to Gusinje siede( threre are beatiful mouintains) Local People very opened for hitch-hiking”&lt;br&gt;
+&lt;em&gt;―Andrii Krysko, 17 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.859711219968382,42.82118713853926</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We stayed here more then 1,5 hours. Here is a lot cars and traffic/ Also a lot of Taxi ”&lt;br&gt;
+&lt;em&gt;―Andrii Krysko, 17 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.30129676074046,42.47127493954171</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18944</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Road to Zabliak - but not so good. Here its good place for hitch - hiking, but there  are just few cars. In that road there are a lot of wild villages and colorite people”&lt;br&gt;
+&lt;em&gt;―Andrii Krysko, 17 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.39859657496457,42.821265832201064</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Around Podgorica its hiking its not very comfortable, because a lot of turists and taxi drivers. IDirection to Kolasin”&lt;br&gt;
+&lt;em&gt;―Andrii Krysko, 26 Jun 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It worked eventually... I can&#39;t even remember whether I was holding my &#39;Berane&#39; sign when I was picked up, but my driver was the bloke who puts up all of the billboard adverts in the country and he took me to the Serbian border on his shift. Not a great spot due to limited pullover space, but I was standing just after the last turning onto the road (from where my driver joined). Any further along would be &amp;quot;senseless&amp;quot;...”&lt;br&gt;
+&lt;em&gt;―DanEdwards, 15 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.30152797698858,42.4705817179094</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19042</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Death point. Here is just few cars per day. Very beautiful place - wild mouintains with snow and beautiful nature. You can enjoy that time of waiting car”&lt;br&gt;
+&lt;em&gt;―Andrii Krysko, 26 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.27534961700293,42.89871790077916</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Šavnik</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place to get Zabljak. A lot of serbian  cars - so you have chanse to get straight Serbia, especially Belgrad”&lt;br&gt;
+&lt;em&gt;―Andrii Krysko, 26 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.09390354156389,42.95959105673915</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19046</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place to get to Bosnia direction. Here we get car straight to Sarajevo.Here is also beautiful place around - enjoy nature when you wait your car)) ”&lt;br&gt;
+&lt;em&gt;―Andrii Krysko, 26 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.959235191345453,42.90203451892689</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19081</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Lot of space to pull over and cars riding slowly make this a good spot. Locals use it too, there is a gas station before the roundabout.  Just the distances covered are not that long (most of the cars heading to Bielo Polje or Prijepolje).”&lt;br&gt;
+&lt;em&gt;―MartinaXena, 29 Jun 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“2 female hitchhiker: we waited after the round about for 10 minutes and then a Serbian guy took us until Novi Sad! 6 hours :)”&lt;br&gt;
+&lt;em&gt;―Grisha, 15 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.745020508765908,42.99473714508294</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Budva</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gas station in the center of the city. The minus is that there is a lot of local traffic but it&#39;s still a good spot. Got a 40km ride in 40 minutes.”&lt;br&gt;
+&lt;em&gt;―Bakuch, 05 Aug 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Almost immediately got a ride here from an old Albanian man. Although he wanted money, we could quickly haggle down to 5€ a person all the way to Shköder. It was no problem to us since it was the same price as the bus from Ulcinj to Shköder which we were planning to take.&lt;br&gt;He was nice and we also realize people don&#39;t have as much money in Albania as we do.”&lt;br&gt;
+&lt;em&gt;―NickBe, 26 Aug 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.844136238096755,42.28839384416053</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After the roundabout there is some space to hitchhike further south. Actually it seems as an easy place, I dont know why, but it took me an eternity to proceed from here...”&lt;br&gt;
+&lt;em&gt;―Palihitcher, 06 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.226726531981768,42.3666817739664</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20205</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“2 female hitchhiker: we waited at the entrance to the village for about 20 minutes. they took us to the capital city. the cars cant stop there so easly.”&lt;br&gt;
+&lt;em&gt;―Grisha, 15 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.08952617645563,42.24680694137308</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mokrine</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Tried to hitch to Bosnia from Herzeg Novi, a first car dropped us here where we waited more then an hour to get a lift over the border, 9 cars out of 10 take the small road that turn right into the small village.”&lt;br&gt;
+&lt;em&gt;―Yvan67, 15 Apr 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>18.485599994657818,42.51727973020793</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20807</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.602651596074246,42.731682352899</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20915</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A short cut to Bar. A bit less of traffic but still works.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 26 Nov 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“The shortcut road is very narrow, so try not to get dropped on it, as I did. Hard to find a place for a car to stop. ”&lt;br&gt;
+&lt;em&gt;―Niklavs, 18 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.261676409415784,42.01391364660576</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20916</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Somewhere here you can find a shoulder, but not to big.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 26 Nov 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.081957676583656,42.114384580786925</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20917</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Maybe a bit further there is more space to stop a cars.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 26 Nov 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.93531594532217,42.799852384910736</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21583</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Well, it&#39;s a spot. Cars stop, no problem, the road is too crappy to speed. Just remember &amp;quot;ska lek&amp;quot;, and welcome to Albania.”&lt;br&gt;
+&lt;em&gt;―Mrgnd, 22 Feb 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“An ethnic albanian took us after Vuksanlekici. Aftert that we walk until the border maybe 7 km or less.”&lt;br&gt;
+&lt;em&gt;―Albaniaelb, 07 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.330481270925524,42.35652062790324</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23399</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Fine place at the end of the town of Rožaje.”&lt;br&gt;
+&lt;em&gt;―Prochy, 01 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>20.144137620925477,42.83082171436235</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Berane</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just a place on the road, people are mostly locals.”&lt;br&gt;
+&lt;em&gt;―Prochy, 01 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.864994764327868,42.84310266821218</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23401</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot towards Gusinje. A lot of traffic Plav-Gusinje.”&lt;br&gt;
+&lt;em&gt;―Prochy, 01 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.926149129867408,42.60824967380475</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tivat</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not that bad space, under street lamp.”&lt;br&gt;
+&lt;em&gt;―Jfk, 01 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.71599638461705,42.41949282334849</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23503</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Nice albanians who helped us. ”&lt;br&gt;
+&lt;em&gt;―Albaniaelb, 07 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.332226514812668,42.40994556565503</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26045</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Perast-Kotor: Open bus stop space as well as a parking lot. Enough space to be seen and for a car to stop. Waited 15 minutes (some of it in the rain) and got picked up by a Serb guy. Good spot. ”&lt;br&gt;
+&lt;em&gt;―Aperezvoyages, 11 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.707316756248748,42.48430876055542</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Šušanj</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bar-Podgorica: Wait time 10 minutes with a &amp;quot;PG&amp;quot; sign in the bus stop space. Tons of traffic. Caught a ride with an older Montenegrin guy. ”&lt;br&gt;
+&lt;em&gt;―Aperezvoyages, 18 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.087996363643786,42.11045129596143</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cetinje</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Popular hitchhiking spot for locals, buses going to Podgorica also stop here.”&lt;br&gt;
+&lt;em&gt;―Lill Lenin, 29 Jul 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I got dropped here going from Budva at around 11am. There where like 4-5 locals trying to hichhike, where of one was a little weird, so I waited for an hour for the road to clear. Once I was alone it toke me no more then 2 min to get a ride to Podgorica.”&lt;br&gt;
+&lt;em&gt;―Lill Lenin, 29 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.930760860442092,42.3867100381503</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Herceg Novi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place to get to Dubrovnik it took 30 minutes ”&lt;br&gt;
+&lt;em&gt;―Kasia9339, 01 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.5566624402999,42.45487867373309</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26780</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hhikin 4 hours with sign podgorica.. on the end taxi driver took me for free.. he drove prodigy last year from the festival so it was pretty cool... anyway... probably better to write petrovac.”&lt;br&gt;
+&lt;em&gt;―Junkiee, 03 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>18.898037910460477,42.255907909554004</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26918</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“just over the curve there is a big palm tree with shadow and a tiny parking lot right after for cars to pull down. perfect.”&lt;br&gt;
+&lt;em&gt;―Etter, 09 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.883832931520566,42.27658271432964</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“row of trees with shadows, good visibility, easy to pull down for cars.”&lt;br&gt;
+&lt;em&gt;―Etter, 09 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.125532150270235,42.073479817645875</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27059</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not many cars here, but almost everyone stops (;”&lt;br&gt;
+&lt;em&gt;―Tyyybu, 17 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.102658271790297,42.38174121504249</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kotor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 9min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Best place when going to Cetinje or Podgorica. All the local hitchhikers use that place too.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good place to Cetinje. But I think who going to Podgorica not use this road, because not so fast. So if you would like to go Podgorica go to Sutomore, there is a new tunel to the capital.”&lt;br&gt;
+&lt;em&gt;―Davidkuski, 17 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I thought it was fine for getting to Podgorica. Or maybe I was just lucky.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 03 Nov 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“All the locals use it here both for going to Cetinje and Podgorica (actually I tried to get to Podgorica from Sutomore but it didnt work so I came back here). It might be &amp;quot;overcrowded by hitchhikers&amp;quot; - like 10 people but I got a ride in 10 minutes.”&lt;br&gt;
+&lt;em&gt;―MartinaXena, 28 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I was trying to go to Podgorica, waited here for no more then like 3 min before a guy offerd me a ride to Cetinje which I toke. ”&lt;br&gt;
+&lt;em&gt;―Lill Lenin, 29 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.8583755493164,42.2828891097019</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7184</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“this is a marker for a ferry between Lepetane and Kamenari. The ferry charges cars but it\&#39;s free for passengers. You can load on the ferry while it\&#39;s waiting for the cars to load (usually 15minutes). Ferry ride is very short, few minutes. Ferry works both ways between this places. It is extremely easy once you are on the ferry, to ask any driver who\&#39;s in a car to give you a ride either towards the border with Croatia or backwards to Kotor/Budva. Recently, a new road up to Zabljak/Durmitor rises from Risan, and you can ask drivers around and find those too. Very good spot (the ferry board).”&lt;br&gt;
+&lt;em&gt;―Mpetrovic, 10 Jan 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s a great spot but if you have time, don&#39;t miss the bay area.”&lt;br&gt;
+&lt;em&gt;―Sam iam, 15 May 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Great place in both directions.”&lt;br&gt;
+&lt;em&gt;―Oscypek, 26 Aug 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.681015014317,42.46616563521</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Dead End road. Hitching toward ulcinj during summer is advisable to start very early, 6-7am any later and traffic is awful and rides and unlikely. &lt;br&gt;&lt;br&gt;In the even a minibus runs very often to ulcinj for 1 euro. Rooms can be very cheap found a bed for 4 euros per night.”&lt;br&gt;
+&lt;em&gt;―Anicic, 06 Aug 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.302515029426,41.902041769182</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The only motorway in montenegro. due to sidewalk it is difficult for cars to pullover. Hitched outside a military base (guards didnt pay attention). Best idea is to walk 2km further north until it is a single lane road and easier for cars to pullover. and there are fewer locals driving short distances.”&lt;br&gt;
+&lt;em&gt;―Anicic, 06 Aug 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.289640426044,42.45774414021</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kotor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a traffic light and an extra lane for those who are turning right. I waited there and got a ride almost to the border.”&lt;br&gt;
+&lt;em&gt;―Sam iam, 15 May 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.76912004407,42.428345405818</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Herceg Novi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We stayed at the petrol station going to Motor and coming back to Dubrovnik from this location. The men in the station got a laugh out of watching us and even let us spend the night in the station when we couldn&#39;t find a ride because it was to late. We had great luck the next morning though! ”&lt;br&gt;
+&lt;em&gt;―Chloechampon, 22 May 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.55766558647,42.454550165787</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we want to go north but drivers can speed through too easily. We walked to M18 to try better luck”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 30 Jun 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“2 female hitchhiker: we waited for about have an hour and then someone picked us up for bringing us to a better stop more north”&lt;br&gt;
+&lt;em&gt;―Grisha, 15 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.26728153228816,42.42066501746768</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After the round about the cars are slowed down but speed up again, kind of a way to buy time and get attention. We got a car going all the way to Budva, but at that time we wanted to go north.”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 30 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.2484416961674,42.42243118749027</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kotor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we (two guys) started on the 9.July (saturday), at 18h in the and Ive got a lift to Risan. It took us 20 min. A couple from Bosnia picked us up.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Juanto, 10 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.768519401547408,42.425987136734456</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15538</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I dont remember the place exactly. it was at a bus station, just in front of the ferry leaving to the other side. we (two guys) started on the 9.July (saturday), at 19:00 and Ive got a lift to Kotor. It took 30 min. A guy from slovenia picked us up.”&lt;br&gt;
+&lt;em&gt;―Juanto, 10 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.69326587603117,42.51589811738648</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Budva</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop. Should be a good place. Traffic jam is normal, you can walk and ask directly in the middle of the road.”&lt;br&gt;
+&lt;em&gt;―Prochy, 18 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.838990807548182,42.28719937919401</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16686</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“My ride dropped me off here, as I was headed for BiH. I only had a short amount of time here before the sun set. Not a lot of traffic, but that means your ride should stop in the middle of the road. I did have one van stop, but I wasn&#39;t going his way. I ended up walking back to the petrol station in town.&lt;br&gt;&lt;br&gt;Use a sign for your direction.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 03 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.85571801662711,43.164661217093055</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19044</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you already visited Durmitor and want to get see coast its good place to do that. Here not so many cars, but a lot of then go straight to see with serbian cars numbers. Girl and boy wait here 40 minutes - then we get car to Podgorica”&lt;br&gt;
+&lt;em&gt;―Andrii Krysko, 26 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.12248516082634,43.14703170540703</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19045</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here we catch straight car to zabljak. Good direction to Niksic. But here isn enaught place for stop the car - little bit dangerous”&lt;br&gt;
+&lt;em&gt;―Andrii Krysko, 26 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.650330543518365,42.49433458154813</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“2 female hitchhiker: In opposite of the gas station is little parking spot. we waited at the corner and asked a car driver you started just from that parking place. it didnt take more than 10 minutes!”&lt;br&gt;
+&lt;em&gt;―Grisha, 15 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.287365913394098,42.454736188567686</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ulcinj</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>19.231264829637194,41.92786113986657</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26062</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Kotor-Tivat: Good place to stand and be seen with TONS of traffic in front of a gas station. The spot in basically a merging lane into the traffic lane. Oddly waited a little over an hour before a local picked me up. (BE CAREFUL) Due to traffic going into town, a lot of people impatiently drive into oncoming traffic and even the spot where you stand in order to turn at the next road. ”&lt;br&gt;
+&lt;em&gt;―Aperezvoyages, 13 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.76526856422349,42.415112741955696</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26099</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Ulcinj-Podgorica: Wait time 20 minutes. Got a ride with a Swiss guy in a smart car to Bar, found another spot to continue the way. Good spot to hh”&lt;br&gt;
+&lt;em&gt;―Aperezvoyages, 18 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.22194051742783,41.93462429208329</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26671</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Tried to get a ride to Podgorica from here for half an hour. But drivers just waved at me and made gestures, I guess they didn&#39;t think there was enough room to stop. It&#39;s better to try from the roundabout.”&lt;br&gt;
+&lt;em&gt;―Lill Lenin, 29 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>18.933582544326068,42.387601531785116</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podi-Sasovići</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We were trying to get from there to Mostar via Trebinje but there is not so much cars to this direction”&lt;br&gt;
+&lt;em&gt;―Kasia9339, 01 Aug 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It was Sunday, probably cars were heading to Trebinje/Mostar but they didn&#39;t want to take us or had full cars. In addiction, there were locals who also did hitchike on this place and that&#39;s why no one stopped for 4 hours.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 05 Sep 2018&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>18.558427333831368,42.45538528501989</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Podgorica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Asking people in the rain for direction albania... Albanians dont stop here, better stand on the road.. On the end iI slept on toilet... Guys from servis station are very nice.. made me few coffees and talked all day and nite with me.”&lt;br&gt;
+&lt;em&gt;―Junkiee, 03 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.27462005615395,42.41869286748248</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ulcinj</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“really good spot! the cars are slow because of the roundabout, there is place to pull down, and you can find some trees too to wait in the shadow.”&lt;br&gt;
+&lt;em&gt;―Etter, 09 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.232090950013397,41.9278611398639</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

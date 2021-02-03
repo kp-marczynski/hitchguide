@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Turkmenistan</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Spot 21079</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitchhike a Truck back to Asgabat at morning after visit &amp;quot;gas crater&amp;quot;”&lt;br&gt;
+&lt;em&gt;―Csliao0817, 19 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:03Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>58.403629302979695,40.21092117668123</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24695</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On the Turkmen side, there&#39;s nothing coming through the border.  A bus takes you to the next checkpoint and costs 10 menat.  Very quiet crossing.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Nothing coming across the border at all.  Bus to the next checkpoint was filled with locals bringing goods from Iran.  Nightmare border crossing - it took 2-3 hours.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:03Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>58.40586090087745,37.63118049320501</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ashgabat</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot outside the city on the road towards the border. Bus No. 16 goes there from the big bus stand north of Tekke Basar (remember to get off the bus when the bus turns right from the main road). From here it&#39;s a five minute drive or maybe a 30 minute walk to the first border checkpoint, where you&#39;ll need to take the shuttle bus.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 28 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:03Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>58.376077651978854,37.850073932930826</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ashgabat</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After crossing the border into Iran most likely there will be no car or truck (no private cars and very few trucks are crossing this border it seems), so you best walk to the next city Bajgiran - an easy 30 minutes downhill walk - and start to hitch from there. Not much traffic though.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 19 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:03Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>58.40367221832064,37.62698296435746</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,2781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Argentina</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Rosario</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje  Gral Lagos o Arroyo Seco. Colectivo: Tirsa Y la M azul te traen desde Rosario o San Nicolas.~$4(2007)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“peaje rosario. find a ride in 1,30 min.&lt;br&gt;to get here take a bus from rosario`s bus station to general lagos,the bus it s call M verdeyou can get it just outside the bus station, ask to the driver because they have  2 kind of M verde, ask for the one which go to general lagos going to hightway,just get off when the bus turn left leaving the hightway to general lagos,then just walk something like 1,5 km until the boot toll;)&lt;br&gt;bus price 16 pesos (09-15)&lt;br&gt;good luck!&lt;br&gt;roberto gh”&lt;br&gt;
+&lt;em&gt;―Anonymous, 21 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-60.5779910087585,-33.1288812959744</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Posadas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“La Garita,(dsde Posadas en bus). Empalme RN12 (para ir a Iguazu) y RN105 (para Corrientes).”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“90% of the cars are not going far, we were stuck there for quite a while until someone gave us a lift past the 105 turning. After that we got a ride very easily half way to Iguazu.”&lt;br&gt;
+&lt;em&gt;―TheStupidForeigner, 18 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-55.8651673793793,-27.452579927433</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Buenos Aires</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje Autopista del Sol - Pacheco. Se llega desde Cap. Fed. con colectivos de línea (60, 15, 21)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“i put me at the side before the cars payed, it&#39;s better. but be carefull, you have to fine someone which bring you a bit far because someone left me 3kms after, where there wasn&#39;t so many cars.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Pierrebeler, 27 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.6910033226013,-34.4592028710367</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Concepción del Uruguay</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“R.N. 14 ”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.3104944229126,-32.4874294215358</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Concepción del Uruguay</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“R.N. 14 to the North”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.3096790313721,-32.4867280536387</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Concepción del Uruguay</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Leave space behind you for a truck ;-)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-58.3140134811401,-32.4868502277946</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Paraná</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Be careful, many times the end of the lift is the the middle of nothing.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-60.4595500230789,-31.7821284000436</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Gallegos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Control de cargas policial en Güer Aike. TODOS los camiones que van en ambas direcciones deben parar, es excelente! Pedirle a la policía que te consiga viaje.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.6038818359375,-51.5715217910808</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Santiago del Estero</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Desde aquí se pude viajar a Catamarca se llega en colectivo de la linea 12 (Bº Autonomia). Justo antes hay una lomada por lo que los vehículos circulan despacio.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-64.3055534362793,-27.8154126642258</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Santiago del Estero</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Desde aquí se puede llegar hasta Termas de Rio Hondo o Tucuman Por Ruta 9. No hay linea urbana para llegar hasta este lugar”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-64.3455505371094,-27.7720384660205</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Zárate</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 28min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a peaje station, where you can stop cars are talk to the drivers and there is a petrol station very close by.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“i think the best way to go to the north is to take a bus until here from buenos aires. its quiet cheap.”&lt;br&gt;
+&lt;em&gt;―Pierrebeler, 27 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-59.0104812383652,-34.1180711981671</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Salta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a petrol station which cars have to pass, which are going out of the city. You can find a ride to the South and to the North as well.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.4004311561584,-24.7939666059639</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Salvador de Jujuy</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a petrol station situated, where you can find rides to Chile as well as to the north of Argentina and Bolivia.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Hitchhiked from Jujuy towards Tilcara, it took a while to walk out of the city on the motorway and then about an hour to get a ride, but once I got going it was fine.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.285085439682,-24.2124574265259</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Gallegos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“very slow going on a rainy sunday morning in Dec09 - got a ride up north after 3-4 hrs, but that's mainly because there wasn't much traffic on the road and even less using this petrol station (except people from Puerto San Julian going back there)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Gas station YPF”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 19 Jan 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-67.78455,-49.296178</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Gallegos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Guer Aike could be your spot if you need to go north from Rio Gallegos or if you came from the west (El Calafate, Rio Turbio). I'd recommend you wait at the police station; those guys actually tried to help me. I, stubbornly, walked through a huge construction site (Dec 09) and got lost in a maze of intersections, before I stumbled upon the right road by sheer luck and finally managed to thumb a ride on the roadside after an ordeal of several hours. Again, stay at the police post, you might also be able to talk to queing drivers.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-69.637178,-51.623075</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Santa Fe</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“dedo por ruta 70 hacia esperanza”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-60.756379365921,-31.4965763315636</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Santa Fe</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“peaje santa fe - rosario&lt;br&gt;buen lugar para hacer dedo, se llega desde santo tome caminando por camino al costado de la ruta”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-60.8257895708084,-31.7086914105876</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rosario</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“apenas pasan la rotonda hay un cartel de ruta, ahi pueden hacer dedo perfecto”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-60.7120370864868,-32.8801998658762</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Gallegos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great occacion to approach the people waiting for the boat. Many of them are people crossing the border and all the way to Ushaia. So if you want to go all the way its better not to be stuck in the chilean wateland, but that is also interesting experience.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.5613098144531,-52.4560093926408</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Gallegos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Waiting for the the ferry to to you over is a good time to   ask the drivers. Usaually most of them are going across the border and many all the way to Ushaia. So getting a driver that will take you there is simpler then being stranded out in the chilean wasteland, which is also fun if you want to get to know guanacos, sheep and oil workers”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.5606231689453,-52.4551725418331</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Gallegos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Waiting for the the ferry to to you over is a good time to   ask the drivers. Usaually most of them are going across the border and many all the way to Ushaia. So getting a driver that will take you there is simpler then being stranded out in the chilean wasteland, which is also fun if you want to get to know guanacos, sheep and oil workers”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.5571899414062,-52.4543356751218</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9161</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Way on the south. Gas station - YPF.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 25 Dec 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-64.282585144046,-36.669980511127</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9162</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gas station - YPF. Good place to go to south, north and west.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 25 Dec 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.288872241982,-37.307149170217</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9207</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Way on south (Rio Cuarto).&lt;br&gt;Salida al Sur (Rio Cuarto).&lt;br&gt;Выезд на юг (Рио Кварто).”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 04 Jan 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-64.207998275757,-31.490798744887</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9280</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Place to go to the south. In the middle of crossroad is some building (tourist office or something like this).”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 19 Jan 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.785078048689,-49.304093722358</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11143</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just start walking and hope you get lucky. It&#39;s not necessary to go to Tres Lagos, in fact probably better not to, expect a long ride. The road was in the process of being paved early 2012.”&lt;br&gt;
+&lt;em&gt;―Sark, 20 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-71.62352085113324,-49.63338223320658</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ushuaia</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The entrance and exit. You will eventually get hit. Jump around to keep warm and get pity points.”&lt;br&gt;
+&lt;em&gt;―Sark, 20 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I got a ride after 10 minutes standing outside the city gate after the &#39;control&#39; with a sign reading &amp;quot;Rio Grande por favor!&amp;quot;”&lt;br&gt;
+&lt;em&gt;―Therobohobo, 07 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Bus B has its last stop there”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.22517275810083,-54.78830810234992</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cañuelas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“If you are heading to Patagonia, it might be worth it to take the cheap train to Bahia Blanca and start hitching from there. It will save you the hassle of getting out of Bs As”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 22 Mar 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Ok spot lots of traffic a bit down after the crossing truckers are stopping to get food just try to ask. Took me one hour to get to azul .... Monday morning”&lt;br&gt;
+&lt;em&gt;―Anonymous, 10 Oct 2017&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.7337598800685,-35.033180662822566</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11542</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“hike for south on truck, some can even take two backpackers with big backpackers”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 10 Sep 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.12043380737347,-42.768074847037376</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11543</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“going south, it is hitchable on truck”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 10 Sep 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Going South. At least a lift until Comodoro Rivadavia it shouldn&#39;t be hard to get asking around.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 22 Apr 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.26445770263639,-43.28537350662463</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Capilla del Monte</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.53767395019176,-30.865591990208856</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gualeguaychú</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can hitchhike along this street. Local people said it&#39;s comun here. Then you can get a ride to Ruta 14, where&#39;s a better place to hitchhike to the city you want.”&lt;br&gt;
+&lt;em&gt;―Leoautostopista, 12 Jan 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-58.5382857920174,-33.02442145112936</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gualeguaychú</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place to hitch-hike to Uruguay direction.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 03 Feb 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.52017580198766,-32.98959120979373</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>El Calafate</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to go to Perito Moreno. Get out of the centre and there are speed bumps so people drive slowly. Coming back from Perito Moreno is also easy.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 02 Mar 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“many hitchhiker queued for a lift, many cars driving to the glaciar but only few of them with HH mind”&lt;br&gt;
+&lt;em&gt;―Apibiri, 21 Feb 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-72.28935128051835,-50.3402022078418</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13271</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h 9min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“after a police control station. cars slow down. some were maybe a bit reluctant to pull up when the police can see them.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 12 Mar 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“countless hitchhikers queued and bad HH mind of drivers, some of them were waiting for longer than a day”&lt;br&gt;
+&lt;em&gt;―Apibiri, 21 Feb 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;“started early that day - no problem. heard on sundays there are up to 10 hitchhikers on the road here.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-72.22732137559375,-50.33178988993481</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13272</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 16h 12min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“good place”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 12 Mar 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“gave up after 2 days waiting”&lt;br&gt;
+&lt;em&gt;―Apibiri, 21 Feb 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;“For me it was a great spot to get to the North, Calafate and Rio Gallegos. I&#39;ve heard it&#39;s tough on sundays.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-71.85388121284734,-50.3097839946919</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13344</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is the actual place of the Güer Aike police post. There are separate lanes for trucks and for cars. The policemen were super helpful. I talked to the truckers, they talked to the cars (very modestly and with style). In one hour they secured me a lift to Buenos Aires. These guys should get the Hitchhiker Friendliness Award when someone starts giving it.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 22 Mar 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Be nice to the police guys...they ask the drivers to give you a ride.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.57744484741181,-51.63261664772466</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Madryn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“RP1 to the east of here is actually closed (march 2013) and traffic goes around here, through the suburb to the south.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 24 Mar 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.04025291543589,-42.78867297825567</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13365</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is next to a sea lion colony (you have to pay to see them), 14 km from P Madryn. You can walk to here along the beach (very nice walk on a nice day), and you can easily hitch a ride back.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 24 Mar 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.89363264184622,-42.81777449432227</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Carlos de Bariloche</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-71.18827161285364,-41.10174969702034</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14190</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“service area cuatro bocas. to buenos aires or to misiones. its a big area with petrol station. 20min waiting”&lt;br&gt;
+&lt;em&gt;―Pierrebeler, 27 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.00218200683538,-30.077018025050368</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Salta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Got dropped off here on my way from Jujuy to Salta. Plenty of green space and tall grass to camp, big petrol station to wash and re-supply and lots of traffic to continue to Salta.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“The gas station is a good place to get a ride as well, as there are plenty trucks and cars”&lt;br&gt;
+&lt;em&gt;―Loberto, 21 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.0326301513667,-24.73958016546489</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14230</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Takes almost two hours to walk out of the city, but then there´s a wide road with plenty of space for cars to stop, and enough traffic, although it took almost an hour to get a ride.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.49474257812486,-25.16167583138189</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14232</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“less traffic here, but still some going to Cafayate, expect an hour or longer. Plenty of green space to camp.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Took some time, but eventually got picked up by a couple of French travellers in their rental car”&lt;br&gt;
+&lt;em&gt;―Brown.gordon, 03 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.48182658782923,-25.284654294483587</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14233</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“More traffic goes towards Santa Maria, so if you want to go to Amaicha del Valle, it´s harder. I walked in the direction for about 1 hr, then got a lift.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-66.00196055999665,-26.51319104334804</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14234</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There´s a petrol station with plenty of space for cars to stop, you can also ask drivers. ”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.91728858581456,-26.58887562914924</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14326</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.34764480590805,-31.34877596918455</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16178</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje Maipu... Very good. 60 km from Dolores.”&lt;br&gt;
+&lt;em&gt;―Sebasrazvan, 26 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.86330795288053,-36.843820769498464</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16179</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Estacion de servicios Eloy Guerrero. Genial para hacer dedo, conseguís para todos los destinos, incluyendo para Chile. Se llega desde Mendoza en colectivo (9 pesos) hasta San Martin y luego otro (4 pesos) y hay que caminar unas 10 calles por un camino de tierra.”&lt;br&gt;
+&lt;em&gt;―Sebasrazvan, 26 Sep 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“desde la terminal mendoza tomar bus con destino la paz y pedir al chofer de bajar por esta estacion de servicio que es muy conocida,despues que bajan del bus caminar como 1 km hacia el lugar precio bus 21 pesos”&lt;br&gt;
+&lt;em&gt;―Anonymous, 17 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.43823885917514,-33.076713251609284</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16584</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There are two buses from San Juan (uptown) that leave you in this place. The 109 Bus and the 19 Bus, both go for the main city street (Av.Libertador). Or you could take them in Bus Station. (Terminal). They are very cheap around US$1.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 25 Oct 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.2844302654278,-31.644800403467343</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17192</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.16736006736895,-26.84415089600389</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17348</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Easy to get in and hard to get out, because of high conpetition and few cars”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 30 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-72.88290938379248,-49.33504026169269</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Turbio</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“not 100% sure about the location... you&#39;ll find it :-)&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Anonymous, 14 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.33290290832518,-51.536068671358414</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Turbio</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“yet again, not 100% sure on the adress!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 14 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.34216189384425,-51.54297529268358</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17758</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Ideal para ir hasta Uspallata/ Chile.&lt;br&gt;Importante: no pararse a Potrerillos. Encontrar alguien que va directamente hasta Uspallata.”&lt;br&gt;
+&lt;em&gt;―Pedrolino, 10 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.87843763828671,-33.09425573545604</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17859</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.24946022033485,-33.0986374391412</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Esteban</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you need a ride in this zone, try this point. Cars reduce velocity here and it&#39;s also an entrance to the village.”&lt;br&gt;
+&lt;em&gt;―Filippigio, 07 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.52751207351592,-30.92448274336332</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Esteban</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you need a place to camp, just follow the river direction south. It´s quiet, clean water and woods.”&lt;br&gt;
+&lt;em&gt;―Filippigio, 07 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.53010845184268,-30.933593955028506</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Capilla del Monte</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Try this point. Just 3 blocks away from the main town square. Cars reduce velocity in this point and it&#39;s also one entrance from the route.”&lt;br&gt;
+&lt;em&gt;―Filippigio, 07 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.5298455953582,-30.856567693142786</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18749</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can swim here and also camp if you really need.”&lt;br&gt;
+&lt;em&gt;―Filippigio, 07 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.54692590236478,-30.85601507885397</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Capilla del Monte</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Are you starving? No money? We were very succesful asking for food in Capilla del Monte.”&lt;br&gt;
+&lt;em&gt;―Filippigio, 07 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.52611196040985,-30.856963731422216</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Marcos Sierra</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Full of hitchhikers in the summer.”&lt;br&gt;
+&lt;em&gt;―Filippigio, 07 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.64251983165649,-30.783346222360738</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18752</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We were very succesful in this point. 3 rides in just one day!”&lt;br&gt;
+&lt;em&gt;―Filippigio, 07 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.70204341411453,-30.704358984243704</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18753</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This road is not so busy, but people is very kind in this place. Not so hard to find a ride and a smile. Even a lumber truck gave us a ride. If you are here, don&#39;t miss the Champaquí Mountain.”&lt;br&gt;
+&lt;em&gt;―Filippigio, 07 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.5990680456161,-31.915200843264675</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18754</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is the base to  reach the Chamapquí Peak. It&#39;s a 8 house village.You can find other hitchihikers and try to get a ride to come back to Villa General Belgrano.”&lt;br&gt;
+&lt;em&gt;―Filippigio, 07 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.81486785411823,-31.956063859141494</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19742</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Checkpoint of Gendarmeria. Speak with the officials and they can stop a truck for you. Lots of trucks from Paraguay going to duty free zone in Iquique, Chile.”&lt;br&gt;
+&lt;em&gt;―Paluch, 17 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.73538470268325,-25.328777684995337</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12852</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From here you can hitchhike to Buenos Aires. But NEVER ever accept to go to Zarate if you&#39;re going to Buenos Aires. It&#39;s fucking hard to hitchhike from the Zarate junction to Campana (which is on the way to Buenos Aires), it&#39;s better to stay a little more here and keep trying to find someone who can take you a longer way.”&lt;br&gt;
+&lt;em&gt;―Leoautostopista, 12 Jan 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.61914151037194,-33.04068241059512</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14136</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I waited on this spot for about 1 hr, no luck, then kept walking in the direction for another hour and eventually got picked up.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 20 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.97648332275469,-26.08281789050951</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Las Flores</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-59.0833482742302,-36.02701484802841</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20511</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.56176280975342,-25.474248473101436</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20512</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-67.15777373313672,-27.719059229489805</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20513</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-66.88766455650004,-30.04957933616359</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20514</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.67235016822616,-30.205456002966365</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20515</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5h</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-68.5338435173014,-29.56595889298224</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20516</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.70956039428432,-30.303413786971166</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20517</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.43953704833582,-31.981419839119592</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Córdoba</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the YPF gas station, we got a ride south after 20min to Rio Cuarto.&lt;br&gt;&lt;br&gt;A la gasolinera YPF, un camion nos tomó despues de 20min hasta Rio Cuarto.”&lt;br&gt;
+&lt;em&gt;―John.bingham, 29 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.20600807666648,-31.488043219173864</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Madryn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Estacion de servicio El Cholo”&lt;br&gt;
+&lt;em&gt;―Everton Gaméla, 15 Nov 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.11445617675955,-42.74087792853027</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Grande</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18h 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s an incoming trucks control post at the exit of the city (coming from Ushuaia) and it&#39;s very difficult to get out to Río Gallegos.”&lt;br&gt;
+&lt;em&gt;―Everton Gaméla, 15 Nov 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“not so bad, but not so good either. direction Rio Gallegos, you will have to eventually go here or you wait on the connection road before Rio Grande. Do not get inside the city! Use that connection road going to the Airport and Laguna de los Cisnes.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-67.77864074706936,-53.735141173975386</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Veintiocho de Noviembre</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.2118601799013,-51.57360536296715</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto San Julián</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Though there are a lot of cars getting in and out from de town, it is not so easy to get a lift out. You better walk to Ruta Nacional 3, which is about 3 km straight.”&lt;br&gt;
+&lt;em&gt;―Nstoik, 30 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-67.75177574157746,-49.303212259334934</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21285</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“&lt;br&gt;Peaje por rio cuarto.&lt;br&gt;como 15 km desde el centro de Córdoba.&lt;br&gt;Lamentablemente no sé como llegar aquí desde el centro, yo tení suerte que me acerco un amigo con su auto.el bus urbano 36/50y51 deberían parar 3,5/4km antes el peaje...&lt;br&gt;supongo debería estar un servizio de bus entre la ciudad de Córdoba hacia la ciudad de bower. normalmente esta siempre una parada cerca al peaje(averiguar a la estación) .&lt;br&gt;me levantaron al toque... ;)”&lt;br&gt;
+&lt;em&gt;―Roberto mx, 15 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.2327365013764,-31.52505063159822</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Resistencia</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good Spot. It&#39;s a gas station that has a lot of traffic.&lt;br&gt;If you prefer, you can walk to the roundabout, and choose to go north to Formosa/Paraguay or West to Salta and Chile”&lt;br&gt;
+&lt;em&gt;―Loberto, 21 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-59.003780543805675,-27.416137875535732</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Presidencia de la Plaza</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great gas station! Overnight place for Trucks, and also a very used gas station for cars, for fuel and food.”&lt;br&gt;
+&lt;em&gt;―Loberto, 21 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-59.84993433952537,-27.00753875776655</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Presidencia Roque Sáenz Peña</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not a good spot going West. It&#39;s the entrance of the city, and most cars stay there. Looks good going any other direction.”&lt;br&gt;
+&lt;em&gt;―Loberto, 21 Jan 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Even with a sign, we had to walk to the traffic light and still waited a long time. Best maybe to walk accross to the other exit of the town, or ask to be left there.”&lt;br&gt;
+&lt;em&gt;―Loberto, 21 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-60.42244648933681,-26.810416547252157</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21339</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot, plenty of place to stop. If you are hungry, thirsty of to hot, you can get shelter in the gas station accross the road.”&lt;br&gt;
+&lt;em&gt;―Loberto, 21 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-60.749010801318526,-26.703196640686137</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21340</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Provincial Police Checkpoint. Just ask the police if they can help us, they got us the first car that stopped.”&lt;br&gt;
+&lt;em&gt;―Loberto, 21 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-61.661176443101816,-26.30678401323155</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21341</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot with plenty of space for cars to stop. The sun can be a problem, and maybe on the other side of town you can get help from the Police or Gendarmeria.”&lt;br&gt;
+&lt;em&gt;―Loberto, 21 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-62.8403184413924,-25.812737106214577</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21372</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-69.91496658324964,-32.83810760570814</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21373</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 33min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.91063213348411,-32.824657051782985</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Paso de los Libres</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.093535423280485,-29.742595216222607</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21402</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.67288939058906,-33.12709027448886</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>General Alvear</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Para ir al sur, hacer dedo en la ruta 143, pasando Granaderos, ya que se aprovechan tanto autos que van por la Ruta y camiones que doblan desde Granaderos.”&lt;br&gt;
+&lt;em&gt;―Poke.gallar, 30 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-67.68963432311904,-34.98329310181777</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Venado Tuerto</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great place. Right after the roundabaout. Lots of trucks.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 30 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-62.00240707397605,-33.72517366316727</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21407</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It is a gas station. Lots of trucks. You&#39;ll get a ride easily.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It took me less than 10 minutes to get a ride here. It was raining and I was just waitin there and a trucker stopped by and gave me a ride south.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-62.68993234634441,-34.283641801725736</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21409</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Best place in the valley. The gas station is huge, always full of truckers heading towards Bahía Blanca, or Madryn or Trelew or Neuquén or Bariloche.&lt;br&gt;You can camp there too. The best place to rest if you been travelling all day. You&#39;ll get a ride very easily because MANY truckers stop there.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“El mejor lugar en el valle para hacer dedo. Muchísimos camioneros paran acá. También podés armar la carpa y descansar. Es muy tranquilo. Una parada obligada en mis viajes a dedo al sur.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.84790611267269,-39.002351781910626</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cipoletti</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Worst place ever. Too near the cities.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Si te encontrás acá, mejor andá hacia Plottier o Allen en colectivo. Es imposible que te lleven a ningún lado acá.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-68.01229333877788,-38.94323023384376</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Dina Huapi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bad place. No one stops near the police control.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-71.14886856079372,-41.05637457840381</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21412</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Almost no trucks. It isn&#39;t hard to get a ride here, but I prefer trucks because they travel farther. If you are going to Neuquén it is the best place.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Si vas a Neuquén, te conviene venirte hasta este cruce así agarrás a los que vienen desde Chile/La Angostura, funciona rápido! NO hagas dedo a la salida de Bariloche, es más dificil!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 03 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.15289187431654,-41.03075796014492</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21451</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“border of san sebastian. i waited 2 days, border guards are nice though and let us sleep in the unused office. there is a small town a couple kms towards chile, don&#39;t walk there and hitch from there. drivers more likely to pick you up at the border, especially if you talk to them”&lt;br&gt;
+&lt;em&gt;―Panamaqj, 02 Feb 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“just wait in the heated waiting room, looking through the window to see when a car approches the border check point and ask to the driver. We got a lift at the first car at 6.30am towards north. Ferries starts at 8am”&lt;br&gt;
+&lt;em&gt;―Apibiri, 10 Feb 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;“mm...it&#39;s not the best spot, but two days? It took us maybe two hours - not a big deal. the chilean post is a bit better.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.6033020019529,-53.31973239880964</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21484</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“aduana de camionero, bastante bueno el lugar, con camionero normalmente se consigue hacia los andes en chile porque ellos tienen que parar en la aduana chilena que se encuentra aen los andes”&lt;br&gt;
+&lt;em&gt;―Anonymous, 17 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.37343394756377,-32.59622412017314</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21536</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We try go to Pasadas from Puerto Iguza. First stop - oil station at the end of city, second - near from enter to Iguzu park. After we walk to direction Pasadas and sudenly us pick up couple from Paragvay. By the way, first and second place not bad, simple we wait not long time.”&lt;br&gt;
+&lt;em&gt;―WorldForLove, 16 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-54.50546121597183,-25.663542863734488</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rio Grande</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The intersection where trucks bypassing the city come to, to go north as well as south.”&lt;br&gt;
+&lt;em&gt;―Victor-c, 05 Mar 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Great for Rio Grande and Ushuaia (it&#39;s the police post)... anything further north, ask drivers to bring you to the connection road bypassing Rio Grande.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.75762174185336,-53.8537507524188</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21681</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje de Nelson. Good place for hitchhiking North to Resistencia. How to get here: take a bus at the Station in Santa Fé to Nelson. It will cost around $ 40 pesos (U$ 4). Ask the driver you want to stop in the Peaje. Couple of meters North the Peaje there is a gas station, which is also a good place to ask for a ride.  ”&lt;br&gt;
+&lt;em&gt;―Chlange25, 06 Mar 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good point to travel direction to North.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 03 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-60.75858092307579,-31.282314498088468</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21729</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good confluence point to go either to Choele Choel and continue to Neuquen, or go to Buenos Aires the other road ,RN 251.”&lt;br&gt;
+&lt;em&gt;―Victor-c, 13 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.99386405944652,-40.70271181753302</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Km 12</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Go on north on RN 3, gas station here.&lt;br&gt;Take a bus from the main bus station going to Pallazo standard.&lt;br&gt;On the corner where you get off there is a great panaderia :)”&lt;br&gt;
+&lt;em&gt;―Victor-c, 13 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.4927440881704,-45.79347908656256</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21911</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I&#39;ve been waiting for 20 minutes here in january, a saturday. A bus picked us up :) ”&lt;br&gt;
+&lt;em&gt;―Isa kayo, 31 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.26584815979172,-35.053603195221434</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21912</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Two locals from Realico picked me and my friend up after 10 minutes waiting. Although there isn&#39;t too many cars here.”&lt;br&gt;
+&lt;em&gt;―Isa kayo, 31 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.69392871856851,-35.08426692740218</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21915</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Our destiny was San Rafael, and we didn&#39;t wait more than 15 minutes here! ”&lt;br&gt;
+&lt;em&gt;―Isa kayo, 31 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.71081304550205,-34.92796559357251</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Junín</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“En medio de la ciudad pero pasan todos los autos que sigan por la ruta 7 , no es necesario caminar hasta la salida de la ciudad ”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-60.969971179958804,-34.600922591725315</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22525</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“En toda la ruta 7 fuera de la ciudad preferentemente se pueden conseguir viajes muy facil , camiones , autos , etc”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.40075254439924,-33.93064425451897</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22534</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hay banquina para que paren los autos , pero hay muy poco trafico fuera de temporada”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-71.24512767791268,-40.124343869881386</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Junín de los Andes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A las afueras del pueblo , la ruta permite que frenen autos”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Estuve 1 dia y medio y no consegui que nadie me llevara , en julio . Tuve que tomar un bus a Neuquen . Es preferible ir por la ruta desde Bariloche a Neuquen &lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-71.07099866866581,-39.924584669396346</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22536</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“En las afueras del pueblo , muy dificil conseguir viajes largos”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-64.08105468749524,-30.964881688828243</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22537</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Pueblo pequeño , muy poco trafico , muy dificil , tramos muy cortos”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-63.71271228789647,-29.606693379124426</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22538</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“No hay nada cerca , todos los autos que van a Tafi del Valle pasan por aqui , pero es muy dificil”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.6801018714843,-26.92446584075032</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22539</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Salidas del pueblo ”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.70621585845447,-26.845653796239763</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22540</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Cruce de caminos , la gente q sale de Ruinas del Quilmes y todos aquellos que vayan hacia Cafayate pasan por aqui”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-66.00869393348286,-26.50205527397643</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Güemes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hay un Semaforo donde se puede hablar con los autos y van despacio”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.05247569083753,-24.666698405163306</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22542</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“a las afueras del pueblo tienes espacios para que frenen los autos”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.49495434760598,-23.747526616219123</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tilcara</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hay una estacion de servicio , los autos frenan aqui , pero igual es dificil , hacia Bolivia”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.39748287200644,-23.57226198665687</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22544</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“En medio de la ruta , no hay nada , pero los autos pueden parar”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.36192750930539,-23.18795784377749</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22545</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hay un control policial , pero pasan muy pocos autos y camiones  , de todos modos se puede”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.58901405334163,-22.921139104696124</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22546</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Muy dificil , pocos autos , muy cerca de la frontera , no consegui que nadie me lleve , el pasaje en bus es muy economico”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-65.69488620757674,-22.713761645598044</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22557</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Super facil hacer dedo acá hacia Bariloche... no llegué a esperar 5 minutos... y fue fuera de temporada.”&lt;br&gt;
+&lt;em&gt;―Isa kayo, 23 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.52884101867657,-41.923047155360024</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22570</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“An YPF gas station good for hitching both directions.”&lt;br&gt;
+&lt;em&gt;―Planetenom, 24 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.18998706340751,-54.50992397681225</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22571</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A crossroad of the 40 with a dirtroad to Cerro Castillo.”&lt;br&gt;
+&lt;em&gt;―Planetenom, 24 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-72.1858481168747,-51.285329346963586</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22573</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The spot seemed right - an exit road with a wide roadside comfortable for pulling over and a speedbumps slowing traffic but after 4 hours I was still there. Did I picked up a wrong day?”&lt;br&gt;
+&lt;em&gt;―Planetenom, 24 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-53.661584615707554,-26.268143303056753</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22780</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“YPF gas station 1 km away from the intersection with RP215”&lt;br&gt;
+&lt;em&gt;―, 10 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.09295043945399,-35.03986470845986</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22799</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“at the end of the town,&lt;br&gt;last stop of the bus route 720 which brings you here from Mar del Plata”&lt;br&gt;
+&lt;em&gt;―, 13 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.728770828247995,-38.00802681921488</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23014</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Picked up within 30 minutes”&lt;br&gt;
+&lt;em&gt;―Brown.gordon, 03 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.48863506317262,-25.083311404060687</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23288</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 36h</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-64.37322097683018,-30.377519160169175</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chos Malal</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.27803039552472,-37.36856665307052</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23527</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.66143608095047,-37.176752452199466</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>La Quiaca</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.59888458253577,-22.12171790549629</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23529</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.46908712388728,-23.745542877619858</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Metán</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.97706270219514,-25.51786039977384</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23577</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not the best place to try and grab a ride, but got picked up anyway by a guy who felt sorry for me.  ”&lt;br&gt;
+&lt;em&gt;―Brown.gordon, 11 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-68.80974626541055,-32.86141587047167</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23786</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitchhiked here to go to Chile and worked perfectly. The very first car was passing by stopped and they were going to Chile too. ”&lt;br&gt;
+&lt;em&gt;―Isa kayo, 26 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.15522003173884,-41.032277473875524</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Santa Rosa</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“good place to hitch to the south of Santa Rosa,&lt;br&gt;30 min by walking from a bus station”&lt;br&gt;
+&lt;em&gt;―, 05 Dec 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.28241884708297,-36.64844229016722</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24805</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great spot after the toll stations. It´s call &amp;quot;peaje LIMA Zárate. Comming from Bs As, get the train at Villa Ballester train station and a bus at the same train station to the toll station. &lt;br&gt;&lt;br&gt;Excelente lugar pasando la estación de peaje. Se llama peaje LIMA Zárate. Viniendo desde capital federal, tomar el tren en estación Villa Ballester hasta Zárate. En la misma estación de tren está la estación de colectivos. Tomar un colectivo hasta el peaje, sobre ruta 9.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―DavoVselko, 19 Dec 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-59.13855350017726,-34.105297264562594</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Gallegos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“it might look sensible place to El Calafate (there are trucks coming out petrol station on the near parallel road), but people running in that area are not used to hitchhiker and we got few unfriendly middle fingers in a couple of hours... ”&lt;br&gt;
+&lt;em&gt;―Apibiri, 10 Feb 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Let&#39;s be clear: anything on this road will be tricky. It&#39;s mostly local traffic. Only option: walk as far as you can, passing the big Carrefour and the bus terminal (maybe you can bribe the driver to bring you to the police post?). Took me four hours to get to the police post, but then no problem at all into any direction I wanted. You could try to write a big banner saying: bring me to the police post or so. ”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-69.25119250056626,-51.62566049622063</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25021</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“car coming back to Ushuaia can give you a lift, but some of them can be already full. Do not start hitchhinking too late, earlier than 7pm possibly”&lt;br&gt;
+&lt;em&gt;―Apibiri, 10 Feb 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.57674567935346,-54.85520212445764</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25027</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“arco lugar con control fijo de gendarmería. Los auto dajan velocidad y es un buon lugar en ambas direcciones norte por puerto iguazu y sur oeste por corrientes.desde la ciudad posadas puedes tomar un bus preguntando de parar al arco.precio 30 pesos 7/2/15.también la gendarmería mismo me ayudó. Encontré  un pasaje hasta corrientes capital en 30 min”&lt;br&gt;
+&lt;em&gt;―Anonymous, 13 Feb 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-56.04359992414116,-27.451128287980275</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25285</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good for both Ushuaia and Rio Gallegos (and Rio Grande center of course).”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.77897334099016,-53.80897581249733</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25286</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I&#39;ve heard it is tricky to get to El Chalten. Other directions should work. To the north there will be a 100 km of gravel - so not everyone goes there.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-71.8729684352893,-49.699479325581976</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Perito Moreno</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Easy - at least to Gregores and coast-bound (Puerto Santa Cruz, Rio Gallegos) - El Chalten and El Calafate will be tough due to the gravel road.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.92432475090153,-46.61090732606813</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25290</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Piedrabuena, Puerto Santa Cruz, Gallegos - easy.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.3037688732152,-48.76461544317416</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25709</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“All the cars going to the south cross this point, so it&#39;s easy to find one. You can sleep at the end of the av. maria auxiliadora, there is cheap camping with hot water.”&lt;br&gt;
+&lt;em&gt;―Clementlb, 07 May 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-62.67374789714768,-39.513882425973115</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25710</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“All the cars going to the south cross this point.”&lt;br&gt;
+&lt;em&gt;―Clementlb, 07 May 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.00614857673945,-40.71346352630995</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25921</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.50166320800444,-25.67299053484309</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25922</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Candelaria es un lugar muy bonito para ir a Iguazu”&lt;br&gt;
+&lt;em&gt;―Askofa, 31 May 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-55.733633995058895,-27.472080985952143</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Corrientes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 6h</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-58.75008916855069,-27.448071436582886</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mina Clavero</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.99995803832803,-31.74195888536628</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25954</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.45916032790662,-31.587633658181783</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Monte Cristo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-63.94344155267701,-31.34812313164366</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25956</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-61.52676854804982,-31.532740866371142</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mendoza</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Have a spots of trucks that will go to Chile or Brazil. In the Street Ridrigez Peña have a Petrol station that have a lot brazilians drivers.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Got picked up mostly through luck, and a very nice apple seller.”&lt;br&gt;
+&lt;em&gt;―Brown.gordon, 25 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-68.8451385498047,-32.9262838406899</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Buenos Aires</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje apenas pasando Cañuelas, sobre RN3. Excelente para viajar haciar el sur. Para llegar desde BsAs. tomar el 88 en Plaza Once que va a San Miguel del Monte y pedir bajar en el peaje de Cañuelas.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.7356567382812,-35.0552941886098</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Luis</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje de San Luis, un lugar muy bueno para hacer dedo en la ruta Mendoza-Buenos aires (o viceversa!). Hay muchisimo trafico de camiones. Incluso hay un gran parador donde los camioneros duermen por la noche.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-66.0648465156555,-33.3598717697759</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11145</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 53min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Should be near a truck stop called &amp;quot;El Choro&amp;quot;. There&#39;s a parilla called &amp;quot;El Gordo&amp;quot; here. Go and ask to buy bread, if you play your cards right the owner will come out and say &amp;quot;every mochilero who comes here eats for free&amp;quot; then you get a whole bunch of awesome Argentine BBQ. It was awesome.”&lt;br&gt;
+&lt;em&gt;―Sark, 20 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“This is the wost place to hitchhike I&#39;ve ever had. We spend there a WHOLE DAY with no luck at all. The truck drivers are totally sick of backpakers and dont even talk to you. The people from the station try to make you out (during a small time was raining like hell and we came in just like anyone else will do) and if you take the same day of the train from Buenos Aires arriving prepare yourself for being 20 hitchhikers on the road.&lt;br&gt;&lt;br&gt;As i said we spent a whole day, not joking we had to sleep there, there is no proper place to pitch a tent (if its the case cross the road and at the back of a &amp;quot;dead restaurant&amp;quot; there is a small nearly clean area. &lt;br&gt;&lt;br&gt;Never ever again,”&lt;br&gt;
+&lt;em&gt;―Quitoxic, 23 Sep 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-62.33970880508309,-38.705104122618</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Zárate</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Never ever EVER ask for rides here. There are 3 lines here, the cars and the trucks passes REALLY fast and there&#39;s NOTHING for the next kilometers. I&#39;ve been hitchhiking with a friend here (we&#39;re 2 boys) and we started to walk towards the road trying to find a best spot but THERE ISN&#39;T ANY! We walked (stopping and putting our thumbs up along many spots on the road) for like 3h30min until suddenly a man had to stop the car to change the wheel and we offered him help and asked for his help/ride.”&lt;br&gt;
+&lt;em&gt;―Leoautostopista, 12 Jan 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-59.01644022725243,-34.12418859166616</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13356</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to get to Punta Ninfas and see the elephant seals. Three cars passed in two hours. One of them was going only half way to an estancia. On a weekend some locals seem to drive there to have a bbq. It might be a better idea to share a rental car with other people. The gravel road is bad, but doable in a normal car, unless it has been raining very heavily.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 24 Mar 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.02945970635987,-42.89466184980014</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Carlos de Bariloche</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hay una rotunda acá donde se puede hacer dedo para El bolsón... lo hice en mayo, fue muy facil, no esperé nada!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 16 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.33693036529472,-41.17240376257639</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ciudad de Salta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Takes almost two hours to walk out of the city, but then there´s a wide road with plenty of space for cars to stop, and enough traffic, although it took almost an hour to get a ride.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.44925384155303,-24.85632330688458</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Miguel de Tucumán</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“DON¨T hitch to Buenos Aires. The train from here is much cheaper - 70 pesos (March 2013) to go all the way to Buenos in 25 hours. The tickets are usually sold out, but if you wait there half an hour before departure, you can usually get last minute space, or people selling tickets from friends who didn´t arrive. http://www.ferrocentralsa.com.ar/&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-65.21100954131506,-26.821115241246414</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Azul</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I dont remember exactly the spot but there is a small Gas station there, we actually slept on the back door, there is some green area and after asking the owner of the place wont have any problem”&lt;br&gt;
+&lt;em&gt;―Quitoxic, 22 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-59.84591102600166,-36.79709867886167</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rada Tilly</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Speed is low and enough place to stop a trucks.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 31 Jan 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Going South. A ride until Caleta Olivia shouldn&#39;t be hard to get if you don&#39;t give up!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 22 Apr 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.58185958862398,-45.90830201528206</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17755</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 12min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje de Espil: Hay que llegar a Luján, con tren desde Once, combinando en Moreno hasta Luján. &lt;br&gt;En Lujan, bus 276 hasta el peaje de Villa Espil.&lt;br&gt;Se demora 3/4 horas en llegar desde Buenos Aires, pero el lugar es muy bueno.&lt;br&gt;No mas de 20 min de espera.”&lt;br&gt;
+&lt;em&gt;―Pedrolino, 10 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-59.31373393535845,-34.51718055314835</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Autonomous City of Buenos Aires</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Una gran cantidad de camiones salen del puerto para ir en todo el país.&lt;br&gt;Ir a discutir con los camioneros directamente en los diferentes semáforos.&lt;br&gt;El problema: están apurados y no hay muchos lugares para que se paran.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Pedrolino, 10 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-58.36895799637082,-34.584119540012175</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17757</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Nunca pararse aquí si van en dirección de Usspallata/ Chile.&lt;br&gt;Los auto que salen de Potrerillos van todos en dirección de Mendoza. Y los que pasan por la autopista van demasiado rápido.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Pedrolino, 10 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-69.20044755935938,-32.96582443782893</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19741</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot for hitching south to Formosa. Many Paraguayan trucks, most going all the way to duty free zone in Iquique in Chile. If someone offers you a lift to the checkpoint of Gendarmeria go for it, they can help you finding a lift with truckers.”&lt;br&gt;
+&lt;em&gt;―Paluch, 17 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.72640466689962,-25.294049576213265</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19743</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Checkpoint of Gendarmeria, they may help you finding a lift either to San Salvador de Jujuy, Bolivian border or Formosa. There is a petrol station nearby with a free shower.”&lt;br&gt;
+&lt;em&gt;―Paluch, 17 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-63.90816688537513,-23.01918823875835</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21062</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“peaje autopista, desde rosario tomar bus desde plaza sarmiento con destino carcarana(mas o meno 1,5 hora)frequencia cada hora, precio 25 ars 17/12/14. el bus te deja en la ciudad, tiene varias paradas...si me acuerdo bien la mas cercana esta entre av. sarmiento y escalada, pedir al chofer...,luego puedes caminar hacia el peaje  como 2,5 km por una calle sin asfalto.&lt;br&gt;Suerte! ;)”&lt;br&gt;
+&lt;em&gt;―Roberto mx, 18 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-61.169634819031394,-32.876464744195225</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21408</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 38min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It is a gas station. Lots of trucks stop here. You&#39;ll get a ride to Neuquén or Bahía Blanca very easily. Also you can camp there.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Muy buen lugar. Conseguí que me lleven hasta Choele Choel esa misma noche y eso que era muy tarde.”&lt;br&gt;
+&lt;em&gt;―AbelAlejandro, 30 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.08122634887877,-38.96991944725029</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21913</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Into Nueva Galia&#39;s entrance there&#39;s a small plaza where you can go camping!  I&#39;ve sleep one night there, and the other day was sunday, which was kind of difficult to hitchhike, we&#39;ve waited 2 hours. Then a truck drove us for more than 300 km !”&lt;br&gt;
+&lt;em&gt;―Isa kayo, 31 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.25081968307673,-35.109618147313554</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Termas de Río Hondo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h 15min</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-64.85024785995533,-27.507752445783602</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21420</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Paying gate (peaje) of La Paz. Not only great for hitchhiking in both directions, but also there is a 24 hour shop, free toilets and shower. Big truck parking space, also possible to get a ride by asking around.”&lt;br&gt;
+&lt;em&gt;―Balazs, 31 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-67.5060424804695,-33.43765017615787</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21422</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Smaller petrol station. During lunchtime, big traffic in both directions (Santa Fe or Córdoba). Ask people where they are going. &lt;br&gt;In the afternoon, traffic is scarce, in the direction of Córdoba it is better to stand on the other side of the road with a sign (very important, use a sign) and wait for drivers coming from the road opposite from the station.”&lt;br&gt;
+&lt;em&gt;―Balazs, 31 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-60.956045150756104,-31.640333946171264</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21497</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“t the exit of the roundabout on Route 205 toward Bolivar , there is a restaurant , from there you can hitchhike . In the shoulder there is room for vehicles to stop. Taking a distance of 100-150 from the roundabout .”&lt;br&gt;
+&lt;em&gt;―Andrestarruella, 10 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-59.8416624069207,-35.65162507241562</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21498</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the toll on the 205 route is possible to hitchhike . It is recommended that the toll positioned on the shoulder and wait for a motorist . Or consult everyone who stops to use the public toilets of the place.”&lt;br&gt;
+&lt;em&gt;―Andrestarruella, 10 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.95151233673388,-35.102956315380325</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21499</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the entrance to the road to Laguna Esmeralda there is a parking lot. This point is good to agree with a motorist if he returns to the city of Ushuaia or continue to Tohluin . And of course to hitchhike on route 3”&lt;br&gt;
+&lt;em&gt;―Andrestarruella, 10 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.12964534759526,-54.72130808126238</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Garín</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great hitching spot if you are coming from Bs As and heading north towards Rosario. Bus 15 from the center (4.70 pesos in Feb 2015) will drop you off at this gas station, you may either talk to people or just thumb at the station exit, where there is plenty of space to pull over. We didn&#39;t have to wait for longer than 2 minutes, two other friends were also picked up immediately.&lt;br&gt;----- Bus 15 pasa por Palermo, Belgrano y te lleva hasta la estacion de servicio con 4.70 pesos (Feb 2015). Un buen lugar para hacer dedo es la salida de la estacion, no tuvimos que esperar mas que 2 minutos.”&lt;br&gt;
+&lt;em&gt;―Mass.a, 17 Feb 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Picked up immediately. In my opinion a much better place than the toll station a few hundred meters before this gas station.”&lt;br&gt;
+&lt;em&gt;―Mass.a, 17 Feb 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.70630640877028,-34.4389804665359</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Zárate</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place! There is a gas station one side of the road and a logistic company another side where a lot of trucks get in and get out, going to Ruta 9. We talked with some of them and we got a ride in 15 min until Rosário. ”&lt;br&gt;
+&lt;em&gt;―Chlange25, 06 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-59.020305633543764,-34.1229204264304</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21680</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The Peaje located in AutoPista 01. Considering stand after the peaje where cars go slow. The only problem is to get there from Rosário. There is a bus from Rosário but it drives you until Peaje San Lourenço, few KM before. ”&lt;br&gt;
+&lt;em&gt;―Chlange25, 06 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-60.79705452918893,-32.685479556843255</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Rafael</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 33min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Para viajar desde San Rafael a General Alvear, hacer dedo en la Avenida Alberdi. Esta es la ruta que la mayoría  toma para llegar a esa ciudad.”&lt;br&gt;
+&lt;em&gt;―Poke.gallar, 19 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.32239055633531,-34.63004563799417</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21914</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“nto Nueva Galia&#39;s entrance there&#39;s a small plaza where you can go camping!  I&#39;ve sleep one night there, and the other day was sunday, which was kind of difficult to hitchhike, we&#39;ve waited 2 hours. Then a truck drove us for more than 300 km !”&lt;br&gt;
+&lt;em&gt;―Isa kayo, 31 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-65.25886631012148,-35.103790171323816</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Distrito Sur</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“THE place to hitch if you&#39;re going south from Caleta Olivia. Food street vendors, space for truck stop... if you&#39;re lucky you can get a direct truck ride to Rio Grande or Ushuaia!”&lt;br&gt;
+&lt;em&gt;―Mino.ilmagico, 22 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-67.50479793548612,-46.48433932927667</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22234</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On the way south/north instead going to Rio Gallegos for a night stay in Camping PescazAike (close the stairs just after the parking). It&#39;s better than go into city and take a long walk next morning. On the roundabout cars need to slow down so it is easy to hike from there. But important thing there is no shops here.”&lt;br&gt;
+&lt;em&gt;―Phisic, 24 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.61058413982255,-51.628960985091155</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Villa Mercedes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Alejandose un poco de la ciudad se vuelve facil conseguir viaje”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Terrible for Buenos Aires trips. Lots of trucks going to Cordoba.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 07 Apr 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-65.4693017005884,-33.64320098638533</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Cuarto</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not bad, ended up waiting 2 hours and then walking out to the service station a little beyond town.  Picked up within 20 minutes of getting there by a trucker.  Truckers take this route very often to get to BA”&lt;br&gt;
+&lt;em&gt;―Brown.gordon, 25 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-64.31105947494538,-33.105252274379055</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Gallegos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“South to Ushuaia, in which police checkpoint was a good ride point, visitors go to the room after passport registration, on the roadside waiting for the bus, 3 minutes to wait for the car.”&lt;br&gt;
+&lt;em&gt;―Jasper Wang, 06 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.28685760498114,-51.70919774863162</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24806</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There´s a GNC gas station. If you want to avoid entering Rosario. It´s not easy but you´ll get a ride strait to Córdoba allong route 9.&lt;br&gt;&lt;br&gt;Hay una estación Petrobras donde se puede hacer dedo si quieren evitar entrar a Rosario. No es fácil y lleva tiempo pero se consigue viajar hasta Córdoba”&lt;br&gt;
+&lt;em&gt;―DavoVselko, 19 Dec 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-60.91132199764325,-32.92429777972374</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Perito Moreno</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a YPF service station with Wifi, Cafe, toilets (closes around 10 pm). Northwartds to Bariloche and westwards to Chile Chico should work easily.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“by the way, don&#39;t talk to the dogs here, unless you want to have a friend for life. they&#39;re cute though.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.92784380912902,-46.583070432450185</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25289</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 48h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Alright. We need to talk about this place, because you will eventually end up here, if you are heading North to South on the 40. One thing first: Most cars will head to the coast since they try to bypass the 100 km gravel road towards Tres Lagos. When I arrived I met another hitchhiker who already waited two days to get to Chalten and then decided to take the bus. I waited here from 12 pm til 8 pm, then headed to the free Municipal Camping. Next day from 5 am til 2pm no ride to Tres Lagos: Many cars stopped and told me they only went up to the estancia, but no way would continue on the 40. Eventually I gave up El Chalten and took a ride to Gallegos. It&#39;s a 400 km way, but you can get dropped of at the police post there and take the 5 towards El Calafate (another 300 km). That went incredibly quick. In Rio Gallegos I immediately got a car to Rio Turbio where I headed instead (El Calafate should be similarly easy). I know...it&#39;s 700 km, but better to drive for 6 or 7 hours than spending two days at this spot. If someone of you get&#39;s to this place...can you send me a picture of my nice poetry work on the Tres Lagos sign (obviously I almost went insane there :DDDD)”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-70.30763125419715,-48.76187852190034</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>
