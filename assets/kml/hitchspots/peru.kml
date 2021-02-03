@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Peru</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Spot 7138</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-77.027252947335,-12.117022703051</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Curahuasi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction at Cusco.&lt;br&gt;It is good place close to a bridge in the end of village.&lt;br&gt;&lt;br&gt;Direccion a Cusco.&lt;br&gt;Un buen lugar al final de pueblo cerca de un puente.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 20 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.69350453047447,-13.540551015257744</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Abancay</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction at Cusco.&lt;br&gt;Take a microbus #4 up to &amp;quot;Mirador&amp;quot;. Just go up to the last stop. At the entrance to &amp;quot;Mirador&amp;quot; it is the place for HH.&lt;br&gt;&lt;br&gt;Dirección a Cusco.&lt;br&gt;Toma un micro #4 hasta &amp;quot;Mirador&amp;quot;. Salga en la ultima parada. Es un lugar bueno para hacer dedo.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 20 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.86093494762044,-13.618776160227604</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Jerónimo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction at Cusco.&lt;br&gt;Take a colectivo up to &amp;quot;San Jeronimo&amp;quot;. You have to get out at &amp;quot;Bulevar&amp;quot;. And next go a little up to the hill by the road.&lt;br&gt;&lt;br&gt;Direccion a Cusco.&lt;br&gt;Toma un colectivo a &amp;quot;Sn Jeronimo&amp;quot;. Salgas en &amp;quot;Bulevar&amp;quot; y tienes que caminar un poco arriba por la carretera.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 20 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-73.36898304150455,-13.647176720944987</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Juan Bautista</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction at Cusco.&lt;br&gt;Take a bus #4 up to last stop.&lt;br&gt;&lt;br&gt;Direccion a Cusco.&lt;br&gt;Toma un micro #4 hasta la ultima parada.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 20 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-74.2218907950599,-13.203973550207618</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pampas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction at Cusco.&lt;br&gt;Take a bus &amp;quot;Huayucachi&amp;quot; (1 sol). You have to get out at the last stop. And next go up a little by the road (100m).&lt;br&gt;&lt;br&gt;Direccion a Cusco.&lt;br&gt;Toma un micro &amp;quot;Huayucachi&amp;quot; (1 sol) hasta la ultima parada y tienes que caminar un poco arriba por la carretera (100m). Alla hay un letrero grande &amp;quot;Claro&amp;quot;.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 20 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.2031624359234,-12.178003253929262</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>La Oroya</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction at Huancayo.&lt;br&gt;It is a parking area at the end of town.&lt;br&gt;&lt;br&gt;Direccion a Huancayo.&lt;br&gt;Es un lugar para estacionar en el fin de pueblo.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 20 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.89709156847044,-11.522209519971712</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Campoverde</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take a &amp;quot;colectivo&amp;quot; at km 11.&lt;br&gt;There is a police station.&lt;br&gt;&lt;br&gt;Toma un colectivo hasta km 11. Es un estacion de policia.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 20 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-74.62013024607748,-8.402000058708605</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Huanchaco</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Salida al norte.&lt;br&gt;Toma un micro &amp;quot;Nueva California &amp;quot;A&amp;quot; hasta la ultima parada. Alli esta &amp;quot;Sunat&amp;quot;, donde revisan los camiones. Cuando los camioneros salen es un momento bueno para preguntar a ellos directamente.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 20 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-79.07294479856333,-7.998411710472292</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Uchumayo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Two guys, obvious foreigners, with our backpacks:&lt;br&gt;This is basically the place which is in the description of Arequipa. Once you found the right bus to go to Uchumayo you have to hop off at the final stop. From the main square just go straight down to where the highway is, maybe not quite obvious from the first sight but you won&#39;t miss it. We put ourselves about a 100 metres after the toll collect, at the very end of all the little shops. It took as more than one hour until a veeeeery slow truck stopped for us. It works but you need patience. ”&lt;br&gt;
+&lt;em&gt;―Travelrebel, 23 Dec 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.6747746467573,-16.424960540582536</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Anta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Out of Cuzco, low speed and many trucks goes direction to Lima.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 31 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.1515498161277,-13.46509106982855</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tumbes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-80.46438431739753,-3.5743991726689135</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mancora</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot to start a way to Ecuador in the morning. There is a shadow from the road sign that helps to hide from the intensive sun. I walked there from the center of Mancora, but you can also take a taxi for few soles. The spot is in about 50 meters before the gas station and bridge.&lt;br&gt;There is a sleeping policeman before, so cars and trucks are passing by slowly. I get a ride to Tumbes after one hour (not bad as for the low morning traffic).”&lt;br&gt;
+&lt;em&gt;―Zdorovenki buly, 24 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-81.03333985805153,-4.103223338340189</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tacna</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-70.27146434783987,-18.00342189068387</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Ignacio</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Heading to Jaen.&lt;br&gt;There is a 24-hours gas station at the exit of town that can be reached walking from the town.&lt;br&gt;&lt;br&gt;Except taxis there is low local traffic. No trucks. Locals wants money (transportation is a popular business here), but it&#39;s possible to negotiate and even ask for a free ride.&lt;br&gt;My best was to get a ride for 3 soles (less than $1) to Jaen at 9pm. On the way driver took a lot of usual passengers, so part of a ride I spent in a trunk among huge luggage.”&lt;br&gt;
+&lt;em&gt;―Zdorovenki buly, 24 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-78.99865901470173,-5.142621668559394</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Jaén</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Heading to Chiclayo.&lt;br&gt;Trucks are going from East to the coast direction. During the afternoon there were not a lot of them. I suppose more trucks are passing during the evening and night time, because of the hot weather.&lt;br&gt;&lt;br&gt;The road side is good enough for cars to stop. There is a shadow from the hill. Be ready that a ride to Chiclayo will be long. Despite less than 300km of distance, trucks need up to 10 hours to make it by the mountain road. (+time for stops).”&lt;br&gt;
+&lt;em&gt;―Zdorovenki buly, 24 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-78.75810241699273,-5.838965105924134</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Huacho</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Heading to Lima.&lt;br&gt;Under the pedestrian bridge, where old Panamericana connects with new one. &lt;br&gt;&lt;br&gt;There is a turn of the main road before, but traffic goes pretty fast. There is still enough place for even for trucks to stop.&lt;br&gt;&lt;br&gt;After my conversation with policeman, he left me on the same spot without problems. It seems that he took care just about my security. There is a strange district of the town  In front of the place.”&lt;br&gt;
+&lt;em&gt;―Zdorovenki buly, 24 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-77.59430265426634,-11.119427550836583</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puno</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you want to hitchhike to Cuzco, first you need to go to Juliaca. It&#39;s unlikely that you&#39;ll get a ride direct to Cusco in Puno. Good news is, is not dificult to get to Juliaca. I got in this place by foot, it was a long way, if you can catch a mini van, i recommend, they only cost about 60 centimos (cents in peruvian money).&lt;br&gt;I got a ride to Juliaca in about 30 minutes in this place.”&lt;br&gt;
+&lt;em&gt;―Taiandir, 10 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.03109550475995,-15.822866322613423</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ancón</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here is a Peaje. All the cars have to drive very slowly, so it´s a very good spot to stop trucks for going north. We waited for 40 Min and got a direct ride to Chimbote.”&lt;br&gt;
+&lt;em&gt;―ManuelW, 16 May 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-77.14689946174705,-11.79214260206904</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marcavelica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A nice spot to wait for getting north here. You can from Piura get a ride here (or to Suillana) and then continue from here - for instance to Mancora. The Panamericana does not have a lot of traffic from here to the north at the coast, because there&#39;s another Panamericana more in the east - which is shorter if you directly want to get to ecuador.”&lt;br&gt;
+&lt;em&gt;―ManuelW, 27 Jun 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s nice waiting here, because you can enjoy a cold coconut and drink it :p”&lt;br&gt;
+&lt;em&gt;―ManuelW, 27 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-80.70479721642006,-4.8823570553065085</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Piura</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We waited here to get to Suillana”&lt;br&gt;
+&lt;em&gt;―ManuelW, 27 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-80.68701839447279,-5.171098284736868</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Aguas Verdes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“AS FOREIGNERS: DON&#39;T GO TO AGUAS VERDES! You have to cross the border more in the south, the street is caled &#39;frontera&#39;, I think. We had to take some motos to get there and they were dropping us in the wrong place - so if you take motos: make sure that they drop you at the entrance to Ecuador/exit of Peru and not at the entrance to Peru!!”&lt;br&gt;
+&lt;em&gt;―ManuelW, 27 Jun 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“So get off the bus/car earlier, so that you don&#39;t end in Aguas Verdes”&lt;br&gt;
+&lt;em&gt;―ManuelW, 27 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-80.2463314533249,-3.482182935794212</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Jaén</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Heading to south.&lt;br&gt;Traffic consists of mototaxis and local cars, just few trucks. You can ask the driver to lift you to the road 3N where more trucks pass. &lt;br&gt;BE CAREFUL. The sun is pretty intensive here and there are almost no shadow next to the road. Make sure to have a hat, sunscreen and fresh water.”&lt;br&gt;
+&lt;em&gt;―Zdorovenki buly, 24 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-78.79907584190092,-5.723747117315683</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23294</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Heading to south.&lt;br&gt;There is a lot of space to stop. Cars a passing by relatively slowly after the turn and can see you from the big distance. Traffic is good, both trucks and private cars.&lt;br&gt;&lt;br&gt;The sun is really intensive here, be careful.”&lt;br&gt;
+&lt;em&gt;―Zdorovenki buly, 24 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-79.82972538471128,-6.802608479668794</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Trujillo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Heading to south.&lt;br&gt;Right after the exit from the gas station. The traffic flow is high here.&lt;br&gt;&lt;br&gt;It&#39;s not really comfortable for trucks to stop in this place. But we had a good luck to stop one at night in less than 10 minutes.”&lt;br&gt;
+&lt;em&gt;―Zdorovenki buly, 24 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-79.02081942558453,-8.131500799198056</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Juliaca</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I&#39;m From Brazil, got a ride from here in 10 minutes with a trucker to cuzco.&lt;br&gt;The only thing that i think is good to point is that, while i was there, an old man was by my side. He was desperated because i was hitchhiking, saying that it wasn&#39;t safe.&lt;br&gt;On the other hand, trucker said that that it was common for him to take hitchhickers there.&lt;br&gt;Take your on conclusions.&lt;br&gt;Mine is, i would do that again&lt;br&gt;&lt;br&gt;To get in this place i asked a man on the street where was the road to cuzco and he indicated me a mini van that would take me here. it costs 0,60 cents.&lt;br&gt;Transportantion in Peru is extremely cheap.”&lt;br&gt;
+&lt;em&gt;―Taiandir, 10 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.13580894470076,-15.480828221281019</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mancora</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good to get north here - you&#39;ll find some shadow under the tree!&lt;br&gt;Though - all in all - it&#39;s difficult taking this road, because there are two Panamericanas parallel here - and this one is the one with less traffic ;-)”&lt;br&gt;
+&lt;em&gt;―ManuelW, 27 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-81.03828553056542,-4.104528705859384</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26239</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This was a good spot for getting north: Behind the &#39;grifo - nor oriente&#39; - it&#39;s in the direction of Lambayeque, you can easily take a bus. There are some &#39;peatonales&#39; here, so the trucks have to go slowly and you can just take them ;-)”&lt;br&gt;
+&lt;em&gt;―ManuelW, 27 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:10Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-79.86516273021779,-6.754181440479361</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

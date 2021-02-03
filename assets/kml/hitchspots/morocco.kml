@@ -1,0 +1,1703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Morocco</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Agadir</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“there must be a petrol station next to the highway, you can walk next to these highway, and I standed next to these petrol station with a plate, to Marakesh. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 09 Sep 2007&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.54102516174316,30.3897202697722</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Fès</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just walk next to the street with a plage with your destination on it, there will be a lot of people who wants to pick you up!&lt;br&gt;a little advise from me: use the plage also before on your way to this point next to the street, maybe you dont need so much time then.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 17 Sep 2007&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.0391948223114,34.0486325677779</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ejbei Uad el Aabd</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Emty road but first car will take you. No difficulties geting a lift to Laayoune or Dakhla. you have real possibilities to catch someone going  to Noukchott or further.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-12.870569229126,27.9108507678536</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tetouan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 55min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“DIRECTION CHEFCHAOUEN N 13&lt;br&gt;Nice place, just stop hitchhike when it&#39;s a taxi... We have to keep hitchhiking free brothers !&lt;br&gt;Sign : &amp;quot;Chefchaouen&amp;quot;&lt;br&gt;Waiting : 20-35 min&lt;br&gt;Traffic : 4 cars and 2 taxi / 1 min”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Yep!!! Very Good Spot to get Hitching directly into CHEFCHAOUEN!!! but be careful from white taxi! if u want free ride be little bit patience and wait about 3o Min!! But for good to not lose time just walk forward nad stick ur thumb.”&lt;br&gt;
+&lt;em&gt;―Khalilzip, 02 Nov 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“not so many cars but you will prevail :)”&lt;br&gt;
+&lt;em&gt;―Damaniacle, 31 Mar 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Not too many traffic, but had to wait only 15 minutes with a sign Chefchaouen”&lt;br&gt;
+&lt;em&gt;―LukasR, 20 Apr 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Lot of local people to wait. Trucks can ask for money.”&lt;br&gt;
+&lt;em&gt;―Garept, 15 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.4127299785614,35.5648779090343</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Martil</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“WELCOME TO MOROCCO !&lt;br&gt;DIRECTION TETOUAN &lt;br&gt;I think that&#39;s the less bad place of the frontier. Just stop hitchhike when there is taxi &lt;br&gt;Sign : &amp;quot;Tetouan / no taxi, shukran (Thanks)&amp;quot;&lt;br&gt;Waiting : 30-50 min&lt;br&gt;Speed : 40-50 Km/h&lt;br&gt;Traffic : 15 cars / min - High”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“HUGE TAXI PARKING - They very hard in business, don&#39;t go here, too boring propositions, too expensive price... If you really wan to do business, don&#39;t accept more than 30 dihrams for go to Tetouan.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 01 Dec 2010&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-5.34507930278778,35.8657172985584</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Essaouira</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a petrol station so there are many people who go to Marrakesh from here”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.75516200065613,31.49662207241</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Guercif</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“way to Nador. i did the trip with many cars. some of them asked money”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-3.33392143249512,34.2507960665582</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7128</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“after walking by the cemetery there\&#39;s a small centre. head for the petrol stations and after the cross you can hitch. direction is ourzazate.”&lt;br&gt;
+&lt;em&gt;―Pite, 02 Jan 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“We waited here 1,5 hours on the way to Ouarzazate. 4 cars stopped but only one went to Ouarzazate, and another half way. Not mentioning all of them required payment. Eventually, we took a bus which was considerably cheaper (60 MAD).”&lt;br&gt;
+&lt;em&gt;―Prochy, 12 Feb 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-7.9704978593716,31.622558902762</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marrakesh</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Right before the peage is a great spot for going towards Casablanca. How are you going to get there, though if you&#39;re not as lucky as me?”&lt;br&gt;
+&lt;em&gt;―Zenit, 16 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.9818441479503,31.776064944777</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rabat</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“The bus cost 20dh (2euros) for Casa and 70dh (7euros) for Tanger (january 2012). To move in Rabat take bus or white mercedes (same station) 4dh (40cents euros)”&lt;br&gt;
+&lt;em&gt;―Anonymous, 13 Jan 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Guy&#39;s It&#39;s Not The Right Spot For Hitchhiking!! it&#39;s the middle of city!! no one can get u a free ride from that spot !!”&lt;br&gt;
+&lt;em&gt;―Khalilzip, 02 Nov 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-6.8720126151763,33.957697500269</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tangier</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s no need to take a taxi. Take the Bus n°9 from the Gare Routiere. Get off the Bus before he goes to the Airport and get your thumb out on the N1”&lt;br&gt;
+&lt;em&gt;―Oskarwald, 20 Mar 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.8965167999263,35.72451843528</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marrakesh</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 24min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can get here with the Bus N°22. There&#39;s a big Supermarket. Get off there. After the Roundabout people pass slowly so it&#39;s easy to hitchhike. There&#39;s even a gas station.”&lt;br&gt;
+&lt;em&gt;―Oskarwald, 20 Mar 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Location is perfect. You can supply yourself and cars are passing by slowly. Expect other morrocean hitchhikers.&lt;br&gt;&lt;br&gt;Best hitchhike ever ! 2 sec of wataing, AC Bus, kind people and free food ;) ”&lt;br&gt;
+&lt;em&gt;―Galaxy class, 15 Jul 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-8.0782256126334,31.628267720017</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Fes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take the Bus N°16 to the Airport and get off here before he goes straight. Nice Spot to get to the South.”&lt;br&gt;
+&lt;em&gt;―Oskarwald, 20 Mar 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-4.9931058883648,33.947209669538</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tangier</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A toll booth that takes you to the highway A4. There is not too much traffic but if you just keep walking towards the highway on-ramp someone stops for sure because there are no local \&amp;quot;hitchhikers\&amp;quot; and a foreigner here sticks out like a sore thumb.”&lt;br&gt;
+&lt;em&gt;―Astikain, 24 Jan 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.7069275373355,35.67876022094</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tangier</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 9min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After a big flyover bridge there is a bus stop where you can hitch to highway A4 (also local \&amp;quot;hitchhikers\&amp;quot; here).”&lt;br&gt;
+&lt;em&gt;―Astikain, 24 Jan 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.7880008220355,35.750155040149</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tangier</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We hitched from here with a friend to join the motorway. It worked in less than 15 min for us ! you should try, and don&#39;t forget that european standard in terms of hitchhiking spots are not the same in Morrocco. You can hitch from everywhere !”&lt;br&gt;
+&lt;em&gt;―Ewan gweznou, 16 Apr 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I made a mistake with the map, it&#39;s the second exit on the right which is the spot !”&lt;br&gt;
+&lt;em&gt;―Ewan gweznou, 16 Apr 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.8044478208846,35.769380453629</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Essaouira الصويرة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We hitchhiked from here to join Marrakech. After only 2 minutes, two germans took us to the capital ! ”&lt;br&gt;
+&lt;em&gt;―Ewan gweznou, 16 Apr 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.7637107973096,31.505842588364</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Taza  تازة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The toll is ok, no lots of traffic but nice people and even with diarrhoea i could hitch with no problem till oujda”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-3.9858398437499343,34.23687650588882</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11943</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“very lowe traffic, ive been very lucky but almost desert, take the other motorway entrance also to go east!”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-4.705658912658539,34.00039802594968</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Oujda وجدة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“ok going north till saiydia”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-1.9293150901791916,34.7371032097901</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sidi Slimane Echcharaa  سيدي سليمان الشارة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-2.3450360298157413,34.91673262777623</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Selouane سلوان</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-2.926324367523243,35.0616221347593</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ait Kamra أيت قمرة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-3.923955917358445,35.19038633348001</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sidi Boutmim  سيدي بوتميم</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-4.315687179565451,34.94417618159457</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Larache العرائش</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“easy to get Rabat, motorway are less traffic but u will avoid annoying minibuws/taxi/illegal taxi drivers”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“i&#39;m Always Use that spot! it&#39;s easy to use hh to Rabat &amp;amp; Bouznika!! But Sometimes less traffic!! and i used to wait more than 2 hours to get ride !! plus lot&#39;s of cars and cargo truck going to north &#39; Tanger&#39; ...”&lt;br&gt;
+&lt;em&gt;―Khalilzip, 02 Nov 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“it&#39;s very good spot to get hh to Tanger !!!”&lt;br&gt;
+&lt;em&gt;―Khalilzip, 02 Nov 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.141971111297504,35.148095792195846</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ouarzazate</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Going east to tinghir desert and various gorges”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.8862304687497495,30.925885689837653</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Agdz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Got a ride from a guy driving a truck to Ouarzazate, he was pretty nice and stopped so me and my friends could take pictures of the mountains that we drove through.”&lt;br&gt;
+&lt;em&gt;―Bikerfreak16, 11 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.458536148070963,30.693841535946238</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11957</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“even if is very desert road, pretty easy to find a lift”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-8.446160316467083,30.704303029236872</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marrakesh</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“going south to atlas mountain, taking local bus for 6 Eurocent u can get out from the city and start to hitch calmly in the streets”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-8.017822265625238,31.564591431569472</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Beni Mellal بني ملال</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.540289878845546,32.2457145994295</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Azilal أزيلال</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“very desert road but easily doable”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.589964389801302,31.95420624524144</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rommani الرماني</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“people made me take the bus for free but anyway easy to go down till oued zem and qasbah tedla, u can avoid casablanca and enjoy real countryside!”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.620434284210549,33.52056129955579</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Meknès مكناس‎</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“alternative road to get fes (very close) u can visit also countryside and holy places like moulay idriss”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.558815956115829,33.91218934919509</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11964</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.465625286102444,34.14987279494045</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11965</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“lots of traffic and also tourists coming from the desert and going north to imperial cities like meknes and fes”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-4.23028564453132,31.47655375324159</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Salé سلا</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“it&#39;s pretty cool spot to get hh !! lot&#39;s of cars, u can just use u&#39;r hand and they can lift u !!! Direction To &#39;Tiflet&#39; &amp;amp; Sometimes To &#39;&#39;khemisset.”&lt;br&gt;
+&lt;em&gt;―Khalilzip, 02 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.784263610839042,34.03397726830393</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13049</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Place where the road from the airport meets the motorway.”&lt;br&gt;
+&lt;em&gt;―Prochy, 12 Feb 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Direction Marrakesh: we waited in the motorway for 5 minutes and a bus stopped. We took it for 50 dirhams each to Marrakesh.”&lt;br&gt;
+&lt;em&gt;―Prochy, 12 Feb 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-7.620437860488517,33.39173639191836</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Agadir</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.62796306610086,30.420853226936245</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Fes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“great spot. took a little while to hitch there, but there is plenty of space to stop and it is easy to get a ride to meknes, rabat, maybe even casa.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Damaniacle, 31 Mar 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Excelent point. After roundabout cars drive slow and there is plenty of space to stop. After 20 minutes directly to Casablanca. One minus is that, there is a lot of locals who seek for the ride to short distances. ”&lt;br&gt;
+&lt;em&gt;―M.chwedczuk, 22 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.019026756286456,34.016806915871015</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sidi Hmad Ou M&#39;Barek</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Works to Essaoira, Agadir and Imsouane.... ! ”&lt;br&gt;
+&lt;em&gt;―Tigerente, 02 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-9.76339581845504,30.84356713268421</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Agadir</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Got here with a cab from the city...(just ask the drivers) and hitchhiked to immsouane ! Worked quite good ”&lt;br&gt;
+&lt;em&gt;―Tigerente, 02 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.65594511483497,30.45100994021182</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Taouz الطاوس</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There are some cars from and to merzouga that can take you ! ;) ”&lt;br&gt;
+&lt;em&gt;―Tigerente, 03 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-4.034204015569383,31.10592975961448</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Casablanca</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To get this place use the bus number 59 from the Place des Nations Unies.  Bus stop called &amp;quot;Marjane Technopark&amp;quot;. ”&lt;br&gt;
+&lt;em&gt;―Bonifer, 22 Dec 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Perfect place to Marrakesh direction.”&lt;br&gt;
+&lt;em&gt;―Bonifer, 22 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“There&#39;s an ibis hotel that many cars turn into, as well as a bus stop that most of the locals stand around at. If you go up the road past the hotel turnoff, there&#39;s trees for shade.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 05 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.640360355377189,33.538752496334844</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bab Taza باب تازة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 31min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Right around here is the official end of Chefchaouen. There&#39;s room to pull over, but traffic isn&#39;t too high so they can just stop on the road. The 2nd vehicle picked me up, couple of Germans.&lt;br&gt;&lt;br&gt;You could probably hitch much earlier before this spot :)”&lt;br&gt;
+&lt;em&gt;―Kidp3, 04 Feb 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Took me over an hour to get picked up here on a weekend. I walked down the street for quite a while after here, trying to hitchhike whenever a car came (not so often). Finally someone took me to the roundabout down the road from where it was no problem to get to Fes.”&lt;br&gt;
+&lt;em&gt;―LukasR, 26 Apr 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.268907546997932,35.15238075832968</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bni Quolla</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s trees here if you need some shade. ”&lt;br&gt;
+&lt;em&gt;―Kidp3, 04 Feb 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.560141801835019,34.7966337441948</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nouaceur النواصر</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peage after the airport. The &#39;26&#39; on the right side of the license plates are cars from Marrakech.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 05 Feb 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.620518207550989,33.36859940543023</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rabat</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.882550477981754,33.96981300272151</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bab Taza باب تازة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-5.285659790040372,35.11045258347007</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ksar Sghir القصر الصغير</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.578511416912329,35.83654415531031</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21053</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.545436859131058,31.5351876988444</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rabat</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good place to hitchhike to Tanger or Fes.”&lt;br&gt;
+&lt;em&gt;―FernandoArmando, 06 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.869534492492633,33.947306307314975</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21958</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good place to hitchhike to Rabat.”&lt;br&gt;
+&lt;em&gt;―FernandoArmando, 06 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.33248376846307,33.71550859580538</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Asilah أصيلة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good place to hitchhike to Tanger.”&lt;br&gt;
+&lt;em&gt;―FernandoArmando, 06 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.025496959686056,35.4775287551637</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21960</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very bad place to hitchhike to Casablanca.&lt;br&gt;Very little traffic, it&#39;s a rural area.”&lt;br&gt;
+&lt;em&gt;―FernandoArmando, 06 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-9.544490814209688,31.53811256018892</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22252</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just after the police checkpoint and roundabout in direction Fes. Not too much traffic, but with a sign took me only 15 minutes to get a direct lift.”&lt;br&gt;
+&lt;em&gt;―LukasR, 26 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.2880415916443635,35.11055790342589</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rabat</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Tanger. Everybody stops. We were two females, very fast getting a ride.”&lt;br&gt;
+&lt;em&gt;―Masanfe, 09 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.788437128067013,33.98681493708323</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ouarzazate ورزازات</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just at the roundabout, got picked up by some guides returning from a tour. Good amount of traffic to get to Marrakesh”&lt;br&gt;
+&lt;em&gt;―Masanfe, 09 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.933335423470012,30.925200023081068</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22798</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There usually are a couple of hitchhikers at the wall next to the city, but I tried there for several hours without much success. There is not much traffic going south and most drivers don&#39;t take you if you are not willing to pay. So walking out further helped me as the driver couldn&#39;t hope for paying hitchhikers after me anymore. There is a roundabout with space to stop for cars afterwards here (but you can try hitchhiking all the way here). Be careful of a guy living in an improvised hut directly at the road who started touching me sexually but was harmless after I told him that I am not interested and walked away.”&lt;br&gt;
+&lt;em&gt;―LukasR, 12 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-13.411192059516019,27.066234409014335</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sidi Yahya Zaerسيدي يحيى زعير</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.794016967621614,33.738963094439356</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sidi Slimane سيدي سليمان</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Go to the street and put out your thumb.”&lt;br&gt;
+&lt;em&gt;―Auf Achse, 16 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.925956726073148,34.26752470711668</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ait Meloul أيت ملول</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you find yourself stranded in the hell of Agadir, do one thing and only one, take bus 12 to Ait Melloul (4dh), ask to be dropped at this roundabout, perfect spot to go east, lot of traffic, and plenty of space to pull off for the cars, we (3px) got a ride after 15 minutes to Oulad Teima (from there you can eventually catch a red bus to Taroudant, which costs just 8 dh). If you don&#39;t make it out of the city, there is this bus 361 going to Oulad Dahou, out of town, stopping at this roundabout.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.483027691079178,30.354939627245873</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Taroudant تارودانت</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Any spot along this road is good to get easy rides going north-east or south. To go to Ouarzazate, you know there are two roads, this one going north and the second one turning left at the main roundabout of Machraa El, but talking with people, they told us most people take this one road going north.&lt;br&gt;we (3px) got a ride after 20 minutes, it should be very easy, plus it&#39;s near the gare routiere (eventually you can bargain a bus ticket to Ouarzazate for about 100 dh)”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It was very easy finding a ride from here to direction Taliouine”&lt;br&gt;
+&lt;em&gt;―Anonymous, 04 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-8.871223861409346,30.470987252865417</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Beni Mellal</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“perfect spot to go north, we (2px) waited just for 5 minutes to get a ride to Kasba Tadla in the early morning.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.337888175677425,32.35046668194106</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>M&#39;rirt مريرت</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Maybe waiting longer we could have got a ride, but we waited for just one hour before a girl offered to pay the taxi to Azrous for the two of us.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-5.56563192052798,33.17110662658046</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tétouan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.415763854980285,35.565260635435095</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Asilah أصيلة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.0341739654538795,35.45291262221214</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24541</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“When we stood here there was very little traffic but got a ride in 5 minutes from the third car that passed us by all the way to Asni (our destination)”&lt;br&gt;
+&lt;em&gt;―Anonymous, 04 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-8.441654205322257,30.70755010513113</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24542</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-8.441654205322257,30.70755010513113</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Asni</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good place going to Imlil, had some problems with police on the way there though, they thought the driver was an illegal taxi driver because of us.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 04 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.984348029709995,31.245854898963078</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Asni</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good place going to Imlil, had some problems with police on the way there though, they thought the driver was an illegal taxi driver because of us.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 04 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.984348029709995,31.245854898963078</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24580</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is small lockal &#39;&#39;wild&#39;&#39; bus stop where somethimes trucks stop and little before there is small place like a store,but I personally didn&#39;t had andy luck there..”&lt;br&gt;
+&lt;em&gt;―SenadBG87, 10 Nov 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.6454324722289,34.028242347973055</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24581</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Got a ride here to Meknes Trans Atlantic hotel after 20 min. waiting and walking and holding a sign..”&lt;br&gt;
+&lt;em&gt;―SenadBG87, 10 Nov 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.5181751251217195,33.835716024146635</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Casablanca</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.6391158103943475,33.60390171121371</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25121</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On my way to Zagora, traffic is scarce but you might be able to get a ride pretty quick. Get lift in 20 min. to next Villiage Ouled Driss.”&lt;br&gt;
+&lt;em&gt;―Yarex, 05 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-5.708805084227553,29.82905253881313</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25122</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On my way to Zagora, traffic is scarce but you might be able to get a ride pretty quick. Get lift in 2 min. to Tagounite”&lt;br&gt;
+&lt;em&gt;―Yarex, 05 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.654860496520017,29.83009496312322</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25123</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is probably a spot for you to Zagora if you are to shy to ask for a ride in the nearby gas station. Low traffic and enough time for the driver to decide. ”&lt;br&gt;
+&lt;em&gt;―Yarex, 05 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.583706855773656,29.9909815755273</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25124</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Low traffic due to road end in Mhamid. After a struggling hike i got a ride directly to the desert. Dont waste your time. Better take a bus from Zagora, Morocco is cheap!!!”&lt;br&gt;
+&lt;em&gt;―Yarex, 05 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-5.637587070464661,30.242371456831734</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tarmigt ترميڭت</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After a great trekking arround the nearby dam. I got directly to Zagora by a nice truck driver. No communication if you dont speak french or arabic.”&lt;br&gt;
+&lt;em&gt;―Yarex, 05 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-6.874042510985835,30.8687698418251</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25127</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Right next roundabout. Hard gravel shoulder. You can choose previous exit to Agadir by national road but this one is much faster. ”&lt;br&gt;
+&lt;em&gt;―Yarex, 05 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-8.897050380706935,30.428124863811096</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Essaouira</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“As i saw the police bloc after the roundabout i decided to get a lift here. I was really lucky. Got ride to Casablanca after 5 min. Expect to wait more.”&lt;br&gt;
+&lt;em&gt;―Yarex, 05 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.752439022066753,31.497404575328364</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tanger طنجة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can ask cars as they buy tickets to board. The ferry director actually got us on for free after we waited for a few hours.”&lt;br&gt;
+&lt;em&gt;―Crazy abla, 04 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-5.803744554493256,35.78920223417448</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27509</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-15.672718048095694,23.892376231927482</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marrakech</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“you walk out of the city, then you find a petrol station, you can speak with the drivers their, but they want normaly money, dont pay more then 100 diram to Fes. Otherwise take a plate like me, with FES on it, I dont need more then 20 min.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 12 Sep 2007&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.98927068710327,31.6448966440097</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tangier</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you don&#39;t want to pay so much money for taxi from the airport walk here and hitchike. it is a very busy road to Tangier and to the South also.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Or take the bus 70dh (7euros) to Rabat (january 2012)...”&lt;br&gt;
+&lt;em&gt;―Anonymous, 13 Jan 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.89479267597198,35.7248795790268</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marrakech</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You have to walk so much getting out of the town then enjoy the trip to the Ocean”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“You can take Bus L22 for a few cent...”&lt;br&gt;
+&lt;em&gt;―Galaxy class, 15 Jul 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-8.05877208709717,31.6277695093643</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Casablanca</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Many locals use this spot. A lot of traffic and basically a sure thing, but it took a while for someone to pass by who picked up that foreigner. Maybe you want to check out the other highway ramps of the city.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 29 Nov 2010&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“btw: towards rabat and tanger”&lt;br&gt;
+&lt;em&gt;―Anonymous, 29 Nov 2010&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.5934346771239,33.559017717652</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7011</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“dec 2010, that a long walk from the center about 1h30 from the bus station. You can find roundabout before, but I slep in the building near by. You can find a bus to go there as well, but a bus ticket to Tetouan is 13.5 Dhs so ... worth it ?”&lt;br&gt;
+&lt;em&gt;―Anonymous, 03 Dec 2010&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.7566664213052,35.728263661298</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Saidia السعيدية</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Too close to algerian border. police investigated on me after having dropped me at the poilice station with a ridicoulous excuse taking me there 3 hrs and obliging me to take local minibus”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-2.216568946838348,35.06996453667511</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tazenakht تازناخت</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“u should go to ouarzazate cause the majority of traffic go that direction (and is very low anyway..) i could do it also going south till foum zguid but its too desert and was impossible reach the real desert at muhamid, take draa valley road”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-7.209619045257471,30.563799465708158</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11954</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Going to Tata u can do it, but the other direction, not either asphalt road is almost impossible, i stayed there 3 days waitng for some tourist but is everythin organized and they dont let u sleep4free/camop in the desert if u dont pay. come back till ouarzazate”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-6.871167182922225,30.083248229856785</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sidi Hmad Ou M&#39;Barek</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Tryed to get to the paradise valley..... ended up renting a car the other day.... :D  Two cars were passing by in one hour.... one of them wanted lots, lots of money, the other one had people sitting on the roof already.. &lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Tigerente, 02 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-9.766176075246888,30.81573130943721</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marrakesh</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“How to get this place: take a bus number 18 from Bab Doukkala (out of medina). Bus ticket costs 3 dirham (0,3 euro). Destinatin bus stop name is Marjane. Cross the road (Route de Casablanca) and walk hundred of metres. Voila!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 11 Nov 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Perfect place to Casablanca direction.”&lt;br&gt;
+&lt;em&gt;―Bonifer, 22 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-8.009657621383697,31.668933588709724</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Salé سلا</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good place to hitchhike to Tanger. Got a lift after 20min. There is 2 lines but people dont drive too fast here. A friend of mine brought me there, but I think you can take a bus to the airport to get this place”&lt;br&gt;
+&lt;em&gt;―Amede74, 15 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-6.7326364517215715,34.02878473688093</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marrakesh</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-8.035050868989483,31.627298079975855</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tan-Tan طانطان</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-11.114679336554177,28.45151080721351</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mechouar Kasbah</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I got a lift here to Asni after walking out of the old town and hitchhiking on the way at diffferent places for over 3 hours. From the old town you will pass about two roundabouts, after that there are not many more side streets, so you might as well stop there and hitchhike. There is some traffic light on the way as well after which is a better spot, as cars are not fast there. ”&lt;br&gt;
+&lt;em&gt;―LukasR, 07 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-8.012007236480502,31.58358555686492</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Lqliaa القليعة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is lots of traffic from the highway from Marrakech here. There is some space to stop and some local hitchhikers as well behind the roundabout. Direction south you can accept a ride to the airport and get out at the next intersection few minutes away.”&lt;br&gt;
+&lt;em&gt;―LukasR, 24 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.482898473738178,30.353162173642996</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Lqliaa القليعة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“South in direction Tizniz, Laayoune. There is a fair amount of traffic and enough space to stop, but be very careful when hitchhiking here, as there is a petrol station shortly after the roundabout and cars sometimes come back to the roundabout on the wrong side of the road (that is, the side you are standing at)”&lt;br&gt;
+&lt;em&gt;―LukasR, 24 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.478580117224496,30.338537749536222</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22644</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just walk out of the town following the Guelmin signs to get here. There are some trees providing shadow or protection from rain. Not much traffic, but from Guelmin there is more.”&lt;br&gt;
+&lt;em&gt;―LukasR, 30 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-10.16810631751882,29.38119847158454</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tan-Tan طانطان</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This spot is full of local hitchhikers, which are all willing to pay a bit for their ride. I tried for over 5 hours at all points between the police checkpoint and the small street joining later before some french picked me up. As everywhere along this road with some patience you can get very long rides to Mauritania.”&lt;br&gt;
+&lt;em&gt;―LukasR, 30 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-11.114217996596178,28.450859927253568</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22777</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gas station, not so much traffic through this road, but got a lift with some tourists and their private guide tour. Nevertheless you can meet some locals and get shown around and hosted just by chance. Wonderful Morocco :)”&lt;br&gt;
+&lt;em&gt;―Masanfe, 09 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.584468603134585,29.986363200553146</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22797</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There are two police checkpoints next to each other here in direction north. They are quite far to walk from the center of Laayoune but it is possibile and I saw a bus running there as well (I think it was number 3 and should cost around 2 Dirham, but better ask). The police didn&#39;t let me hitchhike because they thought it isn&#39;t save, but they quickly found a truck for me that was going all the way to Guelmim.”&lt;br&gt;
+&lt;em&gt;―LukasR, 12 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-13.171842455864052,27.198142747160787</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22825</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the end of the village Ouelad Jerrar, next to a round about.”&lt;br&gt;
+&lt;em&gt;―Garept, 15 Jun 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I got a lift from here, all the way down to Mauritania with a Malian driver. Here starts really the road of the desert uses by the Senegalese and the Malians, best tip, try to hitch with them.”&lt;br&gt;
+&lt;em&gt;―Garept, 15 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.697357177736002,29.575048361539253</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ameur</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just after the place where Road from Fes enters to highway to Tanger there is place to stop. Cars are run fast but someone will finally stop if you have big sign. For me it took 1,5 h but direct hitch to tanger med. even police saw me couple of times and do nothing. ”&lt;br&gt;
+&lt;em&gt;―M.chwedczuk, 22 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-6.710744591312106,34.02869164823797</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Essaouira الصويرة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Perfect spot to go south to Agadir, just about 3 km from the medina center, many cars driving by, stand in front of a small parking lot, we (3 pax) got a free ride after 5 minutes by a nice taxi-driver who took us all the way to Tamanar. ”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.763173693847506,31.49633871276141</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24124</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To go south: Find a good spot at the end of the village to catch all the cars going south, all the places are good enough, but not in the center of tamanar, f.e. in front of the police station. We (3px) found a ride after 25 minutes, father and little daughter going to Agadir.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.679365390966169,31.00106738761519</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24127</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Sidi Ouaaziz is not the best town to hitch rides from, we stood by the road at the end of the village, but at midday there wasn&#39;t much traffic, so I would say we (3px) were lucky to find this short ride after 30 minutes to get out of town, problem is that we got dropped in the middle of nowhere.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-8.339610034657872,30.7104164686721</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24128</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Dropped here by this couple of truck drivers afraid of finding police, we (3px) started walking towards Aoulouz, got picked up after 10 minutes by this old man driving a very old wreck who took us to town. From there we bargained a bus ticket to Ouarzazate for just 50 dh each (4 hours drive).”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-8.16357933921948,30.712102179796084</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marrakech ⵎⵕⵕⴰⴽⵯⵛ مراكش</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A lot of traffic going north to El Kalaa and Beni Mellal, we found a ride after 40 minutes, the guy drove us to El Kalaa and paid for the taxi to Beni Mellal for the two of us px, very nice guy. ”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-7.986564273070759,31.64475530621387</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Semguet</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not much traffic, but I don&#39;t see any better spot to go north-east, we waited for 40 minutes before a car stopped and took us to M&#39;Rirt. Eventually busses going north drive by here, easy to stop them.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-6.265535587500407,32.5826562474368</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Issaguen اساكن</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Ketama doesn&#39;t seem to be a good place to hitch hike in and from, we tried in the morning to get a lift to Chefchaouen, there wasn&#39;t much traffic, thought it was easier and better to take a 30 dh bus to Chefchaouen.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-4.571953946780801,34.91684909436502</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chefchaouen</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 6min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s a pretty long walk from the medina to this spot, but here you are sure any car is going out of town and north, got picked almost instantly by two nice men who took us to see Pont de Dieu.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.276648039054441,35.17263995272946</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>El Oued الواد</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to go to Teotuan you can go either left and right, the traffic comes from the cascades and i bet you can find a ride pretty easily, a couple gave us a ride to Oued Laou, no waiting. Once in the town-center of Oued Laou you can get a mini-bus to Tetouan for just 10 dh.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.23098611278479,35.265397316289054</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tetouan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From this spot in front of the petrol station we found a lift after 15 minutes that took us straight to Assilah. Lot of traffic and room for the cars to pull over, and a roundabout to slow them down. Cons: far from the center.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.381892556380411,35.56544105088156</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24139</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“FERRY LIFT: alright, this is the place where you wanna go if you&#39;re looking for a free lift on the ferry. Coming from Tangier, if you get dropped at the passenger terminal roundabout, don&#39;t go left, cause that&#39;s the passenger terminal and you don&#39;t need to do anything there, don&#39;t go right where you see the truck sign cause that&#39;s just a parking lot I guess, GO STRAIGHT, where it seems like you shouldn&#39;t go, but that&#39;s where you want to go, walk a couple of kms, you&#39;ll get to the place where trucks are scanned before boarding (on the right hand side). There you&#39;ll find all the trucks waiting, start asking all the drivers for a lift to Algeciras, remind them they are allowed to take one more passenger on the truck for free, the port staff is friendly, won&#39;t give you any trouble.&lt;br&gt;It took us just 15 minutes to find a ride for me and my girlfriend, it was a three drivers turkish company, they were happy to take us with them. &lt;br&gt;Alright, second step, getting your passport stamped, that&#39;s the hard part, before entering the scanning area, you need to pass through this toil boot-looking gates, where you&#39;ll need to go to the customs office on the left and get your passport stamped. there may be different officers, the one that was on shift got us into tight jams, he didn&#39;t want to stamp our passports, we told him we were trying to hitch hike a ride because we didn&#39;t have any money, and that what we were doing was totally legal, he said he didn&#39;t have the permission to do it, and told us to go to the main police office at the passenger terminal (that&#39;s a long walk), if it happened to you, DEMAND him to call his chief and INSIST ON IT, otherwise you&#39;ll have to go all the way back to the terminal. After half an hour we finally got our passports stamped and green light to go.&lt;br&gt;Third step, long wait for the truck to be scanned, and for the drivers to get all their papers, took us HOURS. Finally we could leave and go to the embarkation place, but be aware that tourists cars have the priority on boarding, so trucks will have to wait till there&#39;s room left on one of the ferries.&lt;br&gt;At the end of the day, it took us just 15 minutes to find a ride but 7 hours before  touching spanish land (the ferry is just one hour). &lt;br&gt;NB: trucks pay several hundreds of euros for the ferry (12 hundred my truck), so hitchhikers being passengers usually get one free meal on board.”&lt;br&gt;
+&lt;em&gt;―Ars Libera, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-5.5644705240246655,35.84015572164634</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Agadir</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place if you want to go to Essaouria or other places alongside Atlantic coast..&lt;br&gt;I waited only 15-30min for ride to Essaouria and there where also few local guys waiting..”&lt;br&gt;
+&lt;em&gt;―SenadBG87, 01 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.620357878453264,30.42712515869469</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Essaouira الصويرة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Tried to hitchhike from here to Marrakech,but was told to move away by police officers that didn&#39;t wanted me to see them taking bribe..&lt;br&gt;Better try your luck on a gas station towards the west..&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―SenadBG87, 01 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-9.751341867117995,31.497279710389233</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ternata ترناتة</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“With a sign Ouarzazate it took me 3h to get from Zagora. There is quite lot of local trafic. I was quite lucky, i got picked up by a cheese van. He was going to Marrakesh.”&lt;br&gt;
+&lt;em&gt;―Yarex, 05 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-5.8779988288872245,30.40969492891746</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Taghazout تغازوت</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Almost to Essaouira. Pretty hard to hitch a car here cause the road is narrow. Nice truck drivers shared food with me. But maybe this is better to get out of the busy Tagazout. ”&lt;br&gt;
+&lt;em&gt;―Yarex, 05 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:15:18Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-9.719147443773439,30.547160025064755</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

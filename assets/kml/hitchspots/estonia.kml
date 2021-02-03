@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Estonia</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Pärnu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 32min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“&amp;gt; Latvia, Riga&lt;br&gt;&lt;br&gt;all the cars going to Latvia and souther will pass from here. This is the last big town before the border, so better to take a lift to the border or furter. Many long distance trucks.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 16 Oct 2006&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There are 2 bus lines which take you to Raeküla from the city. then walk out to the road.”&lt;br&gt;
+&lt;em&gt;―Sipmester, 15 Oct 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Lot of mosquitos, bees and other crazy bugs!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 04 Jun 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.5744848251343,58.356643538332</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Saue</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 58min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“&amp;gt; Parnu, Latvia, Riga&lt;br&gt;&lt;br&gt;trucks and car heading south to Latvia will pass here. Two lanes and space available to stop. Take bus 10 or 18 from town.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 16 Oct 2006&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“If you walk back from bus stop  Viljaku (line18), which is one before the terminus,Laagri, you may find a nice place next to the exit lane of a petrol station and a traffic light, slowing down cars leaving town southwards.  ”&lt;br&gt;
+&lt;em&gt;―Kapbe, 31 Jul 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Good to go to Haapsalu as well, from the last stop of the bus 18”&lt;br&gt;
+&lt;em&gt;―Anonymous, 12 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“ALTERNATIVE way - take any bus to Laagri and walk for 10min to the place (after crossing the railway). &lt;br&gt;Waited around 30min to get to Parnu.”&lt;br&gt;
+&lt;em&gt;―Ramushka, 18 Sep 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Good spot at the bus stop. Got a ride from there after just 10 or 15 min”&lt;br&gt;
+&lt;em&gt;―Phoeni.x ger, 31 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I was hitchhiking right in the LAAGRI bus stop, and it was a good place because after 15 min. I got a ride towards Parnu by 2 estonian nice ladies! :]]”&lt;br&gt;
+&lt;em&gt;―AdrianB, 16 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.6265411376953,59.3497551671639</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Valga</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to Tartu. I usualy use this spot to hhike to Tartu. But maybe there is better one?:)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I should be a good one, but it was Sunday afternoon and there weren´t many cars. Anyway it is the right spot to Tartu.”&lt;br&gt;
+&lt;em&gt;―Noe noe, 10 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“After walking hours from Valka, passing next to a military exercise on the border, I ended up casualy on that spot and it worked directly !  ”&lt;br&gt;
+&lt;em&gt;―Couleurmate, 30 Aug 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.0512018203735,57.7903502886065</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rakvere</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Near traffic circle. Good if you are trying to get to Tallinn”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.3485407829285,59.326523649623</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rakvere</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 28min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Near traffic circle. Good if you are trying to get to Tartu”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.346116065979,59.3228892105896</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pärnu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good if you are in Northern part of Pärnu, trying to get to Riga, Latvia”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.4966793060303,58.4077149032239</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 14min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“For going to Tartu. Bus #2 takes you there from A. Laikmaa street.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.8121929168701,59.402986493651</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“For going to Rakvere, Narva, St. Petersburg (Russia).&lt;br&gt;Bus #54 takes you there from Bus Station. Or from centre trams #2 and #4 take you ~750m before the point.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.8431134223938,59.4304438915139</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Haapsalu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Going to Tallinn?&lt;br&gt;Bus #2 takes you to the point.&lt;br&gt;Or 2km walking from centre.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>23.5656309127808,58.9370346116501</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Limbaži</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Parnu, Tallinn. Standart spot for hhiking. Write down destination place on your hhiking plate and you will get a direct car:)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“good place to stand, right after the border, lot of space for cars to stop”&lt;br&gt;
+&lt;em&gt;―Podz, 15 Mar 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I got a ride in 5 minutes with a &amp;quot;Wherever&amp;quot; sign.”&lt;br&gt;
+&lt;em&gt;―Rytis9, 16 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.3855500221252,57.8778654669494</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pärnu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to Tallinn. I preffer not to walk through all Parnu and hhike on the city boarder. Its better to start here.:) A lot of locals, but if will write down your destination, you will not wait too long for the direct lift.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There a traffic light but i tried to write Tallinn, Gas station, or even Parnu and Marjamaa but nothing! It&#39;s better to walk and find a gas station in order to ask people directly!”&lt;br&gt;
+&lt;em&gt;―Soundhiker, 17 Oct 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>24.5569539070129,58.3827734174221</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Tartu. Bus-stop with stopping space on main road going to Tartu. Walkable distance from the centre of town.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“the spot seams perfect but i waited for over 3 hours and then gave up and took the bus, very weird maybe i was just very unlucky...”&lt;br&gt;
+&lt;em&gt;―Anonymous, 19 Aug 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.7915774583817,59.4197201424139</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 31min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Viljandi and Pärnu&lt;br&gt;Low speeds, very wide roadside”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.6767358779907,58.3671338244871</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 34min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Tallinn and Mäo crossroad in central Estonia&lt;br&gt;Low speeds, wide road (bus stop), close to city center”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Not that good. Head to the BIG roundabout!!!”&lt;br&gt;
+&lt;em&gt;―Ramushka, 18 Sep 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“No traffic at all. It makes more sense to walk directly to the roundabout on road 2. ”&lt;br&gt;
+&lt;em&gt;―Couleurmate, 30 Aug 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Too much local traffic, too many locals walking around. Stayed here for about half an hour before deciding to walk further down the road, where we were more successful.”&lt;br&gt;
+&lt;em&gt;―Hattivat, 13 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.6947764158249,58.3889035962731</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Tallinn&lt;br&gt;Much traffic, high speeds, far from center, bad place for cars to stop”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>26.6471564769745,58.4098478291928</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Jõgeva&lt;br&gt;Wide road, good visiblity&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.7086327075958,58.4006379474491</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Mustvee, Jõhvi and Narva&lt;br&gt;wide road, good visibilty, 50-70km/h speeds. Road is ready since 2007, it&#39;s not under construction.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.7404115200043,58.400964002055</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take a trolley or a buss from city center and start from here if you are going to Paldiski-direction.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.6308755874634,59.4099102586742</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 17min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From Riia st., catch bus n. 1 or 7. Go down from it at FI (physic university). ”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“just after the bus station was perfect spot”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.6805768013,58.3562382716118</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Keila</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“low speed, best place for hhike any dir!&lt;br&gt;by klaasiJaan”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.0579986572266,58.9938963719051</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tahkuranna vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.598989486696,58.290433397001</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Halinga vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Halinga and Pärnu-Jaagupi are not exactly the best spots in the world to hitchhike southbound to Pärnu. It took us some 2 hours to get a ride.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 30 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>24.512223243087,58.592137452889</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pärnu linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It proved impossible to hitchhike here. After some two hours of waiting, a car took us a little bit farther to the south-east, where is was way easier to get a lift.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 30 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>24.568635463112,58.364683388628</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Saue vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 24min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Another hitchhiking spot towards Haapsalu or Pärnu. Lots of space, lots of cars.”&lt;br&gt;
+&lt;em&gt;―Artti, 26 Jun 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Not great position, cars gets fast, but you could use it. Got here from Laagri station with nice orange train) (1.15 EUR) from central train station, then walked here (station Urda is closer). Got a ride in 10 min. (Time: about 2 p.m.)”&lt;br&gt;
+&lt;em&gt;―Duuude, 01 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.610825751575,59.338356440299</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 28min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To get to St. Petersburg/Narva Take the bus to Pirita Jõgi like it sais in the hitchwiki article. Pay attention to the schedule! In the morning there&#39;s a gap in it. &lt;br&gt;I don&#39;t really think that it&#39;s much better to walk on behind the bridge. Cars are going pretty fast there and it might be better to just stay at the bus stop and hitch a ride from there. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 20 Oct 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.914351465455,59.444358654768</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Paide vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>25.620051386108,58.917590753397</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Paide vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.611318113549,58.946005106692</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tõlliste vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.033669473868,57.793053082291</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Karksi vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>25.601941110828,58.085458303193</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Paistu vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.582843782641,58.120561056143</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kaarma vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“friendly tourist”&lt;br&gt;
+&lt;em&gt;―Anonymous, 30 Dec 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“i got a ride to the mainland easily”&lt;br&gt;
+&lt;em&gt;―Sipmester, 23 Aug 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.514814376831,58.266393897394</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Põltsamaa vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“The main estonian road from Tallinn to Tartu. Good traffic. bus stop.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 17 Feb 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.994510650635,58.660692136914</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Viljandi linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.623419523254,58.364753731194</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Tartu. Take tram n.4 from the city center almost to the end, go down and walk, in the direction of the airport (straight-straight-straight) )...”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I&#39;d take bus no 2 from the centre - you&#39;ll get away with almost no walking.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 10 Jun 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.8029232025146,59.4104999145887</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Saue vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There isn&#39;t much space, but you will get dropped here easily when people are heading to roads 4 or 9 when you&#39;re going to different direction  them.”&lt;br&gt;
+&lt;em&gt;―Mikael, 18 Apr 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“waiting 30min when there was heav snow-rain and wind. cars are quite fast, but you can get a ride.”&lt;br&gt;
+&lt;em&gt;―Oeth, 07 Apr 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.495817833343,59.247986672566</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tahkuranna vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To north and to south. Perfect spot, lots of cars and trucks. Plenty of space.”&lt;br&gt;
+&lt;em&gt;―Mikael, 18 Apr 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Even on a quiet day with little traffic I only waited 30 minutes.  Great spot for both directions.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 05 May 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.575759507007,58.283490639743</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Viljandi linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.597295608514,58.376954675797</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pärnu linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 47min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“nice spot for LIHULA, if you walk past the gas station you catch some more traffic”&lt;br&gt;
+&lt;em&gt;―Anonymous, 14 Jun 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.460907316202,58.393565931791</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Muhu vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>23.387422895421,58.572835033442</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Võru linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Tartu / Tallinn”&lt;br&gt;
+&lt;em&gt;―Anonymous, 19 Jun 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.97418212891,57.859388584689</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pärnu linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 11min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.493898391724485,58.41206794117156</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kärla vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The way to Lümanda”&lt;br&gt;
+&lt;em&gt;―Sipmester, 23 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.26637765485367,58.29543786082263</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kärla vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to Kuressaare”&lt;br&gt;
+&lt;em&gt;―Sipmester, 23 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>22.27034419215648,58.293826057290445</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Saue vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.489469528198835,59.24311847858452</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Hanila vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The way to Parnau”&lt;br&gt;
+&lt;em&gt;―Sipmester, 15 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>23.742046278433044,58.57268526356135</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tahkuranna vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 35min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to Riga. you get the traffic from East Estonia too!”&lt;br&gt;
+&lt;em&gt;―Sipmester, 15 Oct 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“we almost got desperate about the speed of the traffic...”&lt;br&gt;
+&lt;em&gt;―Palihitcher, 19 Dec 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.59735198783723,58.292053079108726</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vihula vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“if you wanna get into lahemaa nationalpark get off at viitna junction and stand next to the road that goes north”&lt;br&gt;
+&lt;em&gt;―Palihitcher, 19 Dec 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.000226974488484,59.46491442294516</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ülenurme vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Towards Võru”&lt;br&gt;
+&lt;em&gt;―Etsike, 01 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.71411514282229,58.33326555626908</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pühalepa vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus station to hitch on the cars that come from the ferry. Ferries are every couple of hours.”&lt;br&gt;
+&lt;em&gt;―Artti, 14 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>23.031967878342304,58.864754798171695</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Haapsalu linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Small gas station, bus station to hitchhike towards Hiiumaa. Lots of space.”&lt;br&gt;
+&lt;em&gt;―Artti, 14 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>23.52813363075451,58.93403404393488</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mustjala vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“any few cars, but stopps to Tangaranna”&lt;br&gt;
+&lt;em&gt;―Maskauka, 25 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.233375549317326,58.46723394795267</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pärnu linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 38min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Got a ride to Tallinn when it was already getting dark in 30 minutes.”&lt;br&gt;
+&lt;em&gt;―Balazs, 04 Jul 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“With sign &amp;quot;Tallinn&amp;quot; waited about 45 min, got ride right before sunset. (Time: about 8-30 p.m.).”&lt;br&gt;
+&lt;em&gt;―Duuude, 01 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>24.494284629821696,58.41303453936947</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Saue vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The Wiki page says otherwise, but I got a hitch to the city in 2 minutes from here. &lt;br&gt;Thumbing was enough.&lt;br&gt;Especially good if you are going to the southern part of the city.&lt;br&gt;&lt;br&gt;The cars are going crazy fast here, but have a very long space to stop. My driver went like 100 meters before stopping, and came back in reverse :)”&lt;br&gt;
+&lt;em&gt;―Balazs, 04 Jul 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Take a train from main Tallin railroad station for 2 eur. Good place for trucks and I catch one of them”&lt;br&gt;
+&lt;em&gt;―Anonymous, 10 Aug 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.574021339416596,59.31150464507259</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nissi vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.243294239044793,59.08417608833621</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nissi vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good place to get a ride to Haapsalu, since there is space in the bus stop and all the cars from Tallinn to Haapsalu come through it”&lt;br&gt;
+&lt;em&gt;―Anonymous, 12 Aug 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.232501029968777,59.0823404625811</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Narva linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“all vehicles which are going to tartu or tallinn have to pass for this place, i get a ride from here to tartu in 20min”&lt;br&gt;
+&lt;em&gt;―Anonymous, 19 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>28.15941638946362,59.3846356052932</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Misso vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Please delete this point”&lt;br&gt;
+&lt;em&gt;―Son of Liberty, 18 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>27.35281133651611,57.63290209655292</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vastseliina vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Got a car to Voru after 40min stay in total darkness ~ 21:00 (no lights here) with a head-flashlight and a sign. Not too many cars but definitely worth trying.”&lt;br&gt;
+&lt;em&gt;―Son of Liberty, 18 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>27.341579586267663,57.63624435602988</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinna linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.77027723193422,59.44287038644265</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Põlva vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>27.04912090301523,58.06002745379109</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Right after the lights&lt;br&gt;Everyone see u while turning around the corner or staying on the light”&lt;br&gt;
+&lt;em&gt;―Manius many, 08 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.80733060836795,59.4071203751301</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tähtvere vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“50 mins of gettin outta the city of Tartu by foot n were here. Takin into account its 8 pm 20 mins is a good time. Nice point”&lt;br&gt;
+&lt;em&gt;―Manius many, 08 May 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Did not have to wait for long.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 08 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Average waiting time for a couple 10 minutes, for a guy 20 minutes and for a girl 5 minutes.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 08 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.67474353313402,58.38030438059641</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Paide vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Bus Stops are the best place were to hitchhike on this busy road.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 08 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>25.67387723922764,58.88989523877179</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tori vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.80492734909115,58.495905843856335</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vändra vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.083190441132565,58.66933209404696</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vändra vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.023602485658156,58.66242492829362</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kõue vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.179299354555077,59.16580331590173</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Saue vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Small parking lot before the intersection”&lt;br&gt;
+&lt;em&gt;―Phoeni.x ger, 31 Jul 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Got a ride to Pärnu just a few min after I got dropped here :D”&lt;br&gt;
+&lt;em&gt;―Phoeni.x ger, 31 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.499009341002328,59.251091962610666</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Häädemeeste vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Well I just got here since I didn&#39;t got a ride at the end of Pärnu (There has been someone else hitch hiking already). So I walked along the road and across a parking area I tried my luck and finally some dude coming from a festival pulled over and took me a few km to intersection where he had to turn.”&lt;br&gt;
+&lt;em&gt;―Phoeni.x ger, 31 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>24.511476248501666,58.12258253913295</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Häädemeeste vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Again I walked a bit from the last intersection till I found this sort of service area/parking area along the road. From there it took a bit till a car to Riga finally took me.”&lt;br&gt;
+&lt;em&gt;―Phoeni.x ger, 31 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>24.511208027599906,58.075649028671805</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction Narva”&lt;br&gt;
+&lt;em&gt;―Prochy, 03 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.787310123909847,59.43241496858803</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Haljala vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction Kunda”&lt;br&gt;
+&lt;em&gt;―Prochy, 03 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.341542959680584,59.416484582889325</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kunda linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“bus stop direction Rakvere.”&lt;br&gt;
+&lt;em&gt;―Prochy, 03 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.507786274423577,59.49381778009777</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rakvere vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not very much traffic to Parnu.”&lt;br&gt;
+&lt;em&gt;―Prochy, 03 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.333753824701237,59.3575442033463</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kadrina vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 32min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction Parnu”&lt;br&gt;
+&lt;em&gt;―Prochy, 03 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>26.1257807021057,59.345468130345</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Märjamaa vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>24.458021163939886,58.921234618122014</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 35min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A bus stop on the road to Tallinn. Considerably less local traffic and less people walking around than on the stop further south.”&lt;br&gt;
+&lt;em&gt;―Hattivat, 13 Sep 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Considering the modest size of Tartu (100k inhabitants) and less then optimal time of day (early afternoon), I&#39;d say an hour is a decent result. Plenty of space for cars to stop, unfortunately not much traffic (at least not on early weekday afternoon).”&lt;br&gt;
+&lt;em&gt;―Hattivat, 13 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Not a lot of traffic car, but we were lucky to get a ride straight to Tallinn.”&lt;br&gt;
+&lt;em&gt;―Wattouatt, 31 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.69115328788799,58.39362444016397</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vormsi vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The island is so small that every car will stop.”&lt;br&gt;
+&lt;em&gt;―Hirvaner, 22 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>23.3122243881226,58.97471621678581</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Martna vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Haapsalu or Rohuküla, where you can board ferries.”&lt;br&gt;
+&lt;em&gt;―Hirvaner, 22 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>23.987491965294325,58.765963999167184</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kuusalu vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.63559675216624,59.46247230657221</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Orissaare vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.830708861348377,58.478019502013645</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>26.684533596039316,58.355954227172994</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puka vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>26.2440075874332,58.126821116740985</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vaivara vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>27.920481652015027,59.3782202471902</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Narva-Jõesuu linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>28.010241776699267,59.439890501481074</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Narva linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>28.194180965420273,59.39089447086618</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Imavere vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It is easy to catch at road, no much traffic”&lt;br&gt;
+&lt;em&gt;―Az-alcmar, 19 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.773569583893984,58.742067072723096</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Saue vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.617156624794298,59.34287948885121</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinna linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Best spot to Tartu: bus stop after the traffic light, comfortable place to stop cars”&lt;br&gt;
+&lt;em&gt;―, 07 Sep 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.80213785171535,59.41129995717253</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great place if you are going in the direction Narva or Kallaste (onionway or to the Old Believers)”&lt;br&gt;
+&lt;em&gt;―, 07 Sep 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.784698009491933,58.428417863163794</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tähtvere vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A good spot in the direction of Tallinn: low speed cars, a good overview, a bus stop, a convenient place to park the car.”&lt;br&gt;
+&lt;em&gt;―, 07 Sep 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.68399715423759,58.40007036315642</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kose vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Place for travelers to Tallinn, parking, cafe, relatively low speed of car.”&lt;br&gt;
+&lt;em&gt;―, 07 Sep 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.175415515901314,59.167057093028426</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tartu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Valka, to Valmiera, to Riga. Good traffic, low speed and place to stop = succesfull hhiking.:)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Nobody stoped, it is better to go along the road towards valga, and the first car you pass stop”&lt;br&gt;
+&lt;em&gt;―Az-alcmar, 19 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.6808986663818,58.356463420364</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Whenever a ship of Eckerö Lines or Viking Lines arrives, there is a large amount of trucks passing past this point on their way from Finland to Europe. You are likely to get a ride at least to southern Lithuania from here. Especially good if you&#39;ve just come by a ship yourself. The Tallink ships bring elsewhere, maybe someone else can mark where to wait for trucks that have used them. For ships&#39; timetables, check the ship companies&#39; websites.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good spot indeed. There is a parking lot for the trucks, you can ask there. Found a truck to Poland and asked for a ride - no problem. Although most of the drivers stop just past the Polish border because it&#39;s forbidden to them to drive longer  than 11 hours (or something) on one day. But they will ask on the radio if somebody is going further. There is a second spot on the other side of the port. The Tallink ships are arriving there and they do that a lot more often than the Viking ships.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 17 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Got lucky after just 5 min when I got from the ferry :) Got out of city and from there on to Pärnu in 2 rides.”&lt;br&gt;
+&lt;em&gt;―Phoeni.x ger, 31 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.758323431015,59.4446060384527</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good towards Tartu, Viljandi or Põltsamaa, or even futher”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Even better place to hitchhike is to leave bus nr 2 from the following stop (the second stop from airport), walk back to the main road and towards Tartu around some hundred meters and start hitchhiking from the next bus stop. There&#39;s traffic lights before the stop so for drivers it&#39;s easier to notice you earlier.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 30 May 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Note that this spot (as explained in the comment above) is not where it&#39;s shown on the map (because the spot shown on the map - junction with Tallinna ringtee-is already in the middle of the highway with no traffic lights), but much further up. Its on the bus stop kaabli of bus nr 2. Its right after the traffic lights and right before some big parking of some shopping centre. Very good spot, my friend and me got a ride after around 25-30 min”&lt;br&gt;
+&lt;em&gt;―Anonymous, 16 Nov 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“You can find the timetable of bus nr2 on the below mentioned website. Going from the city centre of Tallinn bus nr 2 is departing from Viru Väljak (close to the old gate, or in front of Sokotel)&lt;br&gt;http://www.peatus.ee/#city;tallinna-linn;bus;68503;/eng”&lt;br&gt;
+&lt;em&gt;―Anonymous, 16 Nov 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.8873805999756,59.350127092358</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Narva linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Narva border crossing: heavy but manageable local pedestrian traffic. Crossing by car is senseless in  May 2011, they messed up electronic queuing and wait times are ~5-10days now thus only local traffic on both sides of border.”&lt;br&gt;
+&lt;em&gt;―Viliusdidit, 10 Oct 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>28.20426845551,59.376614378411</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pärsti vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 19min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“theres a nice road side spot just behind a round about - use it if youre trying to get to parnu!”&lt;br&gt;
+&lt;em&gt;―Palihitcher, 19 Dec 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>25.557168960571072,58.355599612124834</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tähtvere vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take a bus number 8 to Visa Hall. Go to a big, huge, ENORMOUS roundabout and position you to wherever you want to go.&lt;br&gt;We got a ride to Tallinn (with a sign) after 3s of reaching the point. *awesome*”&lt;br&gt;
+&lt;em&gt;―Anonymous, 21 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>26.674782548906276,58.38022422568519</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tahkuranna vald</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take bus 4 or 14 from the city and exit at the last stop. Enjoy a nice walk through the woods and you&#39;re there!&lt;br&gt;The road is perfect for HH, there is a place for cars to stop...&lt;br&gt;We stood there with a sign to Riga and got a ride to Vilnius!”&lt;br&gt;
+&lt;em&gt;―Ramushka, 18 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.587249994275783,58.34321399564452</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tallinna linn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“A lot of traffic and this is the problem, most of traffic goes not on south direction. Got here (to Laagri) from train station with nice orange train) (1.15 EUR). Waited about 30 min, then walked to the road-crossing 2 km south. There got a ride in 10 min. (Time: about 1 p.m.)”&lt;br&gt;
+&lt;em&gt;―Duuude, 01 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>24.629650354386328,59.35377932863876</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

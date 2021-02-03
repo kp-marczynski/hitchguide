@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Iran</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Zanjan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gas station/resting area on the Tehran-Tabriz highway. From Zanjan, walk south past a bridge and follow the signs to Tabriz at the highway intersection - it&#39;s 200 m further away by walking next to the road.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Dutchswede, 02 Apr 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“The gas station is not very busy (or so it seemed to me). However, if you walk another 500 meter or so along the highway you come to a toll gate, which makes a perfect hitching spot.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 15 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>48.460867703321,36.655029510738</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marand</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Checkpoint officials helped me flag down a truck with two cheerful guys who took me to the Armenian border.”&lt;br&gt;
+&lt;em&gt;―Quitelost, 14 Sep 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>45.646447776263,38.949693415925</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tabriz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A good position in the direction to Tehran. You can take a taxi to the bus terminal and from there you can walk to the high way. You can stay there with a sign. Look for trucks with TEH on it. They are coming from Europe and are oftenly good lifts.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.3921630382538,38.0333885210365</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12508</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good spot for hitchhiking to visit Persepolis or even going to tehran or isfahan ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 01 Jan 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>52.55701446533328,29.695308851779725</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Qazvin</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“square, is a bit far from the city but really perfect to go both east towards tehran and nirth towards alamut. I could hitch also go and back from the centre!”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 23 Nov 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Be confident! There&#39;s enough traffic here to find easily a lift towards and into the Alamut Valley. Even in the valley: never a problem to find a ride! Although in my case money was never an issue, it&#39;s maybe better to make sure before you get in.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 04 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>50.09480512695372,36.26987730833448</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12535</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good to go south east till tekab and takht soleyman”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 23 Nov 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“which one?&lt;br&gt;23 or 26?”&lt;br&gt;
+&lt;em&gt;―Babak marcopolo, 12 Jul 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>46.12709379749289,36.96323423836118</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>تبریز</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.20537138538354,38.05096596225776</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Takab</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good both to go east takht soleyman and later zanjan or continue south to tekab and hamedan. lots of trucks!”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 23 Nov 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s easy to get a lift up towards Takht-E Soleyman (or at least the village shortly before), as there&#39;s enough traffic. From there on towards Dandy and Zanjan however there&#39;s not that much traffic, so expect some waiting time.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 13 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>47.07462168293086,36.45183173407613</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14367</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“you can do hitch here to bistoon or to kermanshah from Another side of the road. lot&#39;s of cars go directly to Hamadan. ”&lt;br&gt;
+&lt;em&gt;―Bahador2012, 13 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>47.38764901046834,34.36181502346947</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tabriz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitchhing spot just wets of Maydan Azerbaijan. Shared taxis (1200 Toman in October 2014) go there from the bazaar area.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 03 Jul 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Just right after the roundabout it might be possible, but there are also many taxis and buses stopping. Better walk a couple of hundred meters to a traffic light. Hitch right after it, where there is enough space to stop for cars. Beware: this road is incredibly busy, and besides right after the roundabout or this traffic light there&#39;s no (i.e. zero) space for cars to stop. But don&#39;t worry, this is Iran and your &amp;quot;savior&amp;quot; is out there. I waited only 5 minutes but feared that I would have to wait for a long, long time. Not the best spot in my opinion - so take any car that gives you a lift...”&lt;br&gt;
+&lt;em&gt;―Tomtom, 22 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>46.266483306885945,38.11519969953547</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tabriz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>46.22232341766481,38.12812194192078</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tabriz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“where is here???”&lt;br&gt;
+&lt;em&gt;―Anonymous, 12 Jul 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>46.33715951442903,38.07987131823709</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tabriz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>46.2334331274071,38.07237157653216</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tabriz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you want to go toward Azarbayjan Republic or Ahar town or Aras river area or Iran northwest borders you can seperate your way from here.&lt;br&gt;this point is main way toward Ahar town and also Arasbaran touristic area.&lt;br&gt;this way is not main way toward Armenia border but you can go to Armenia from here.&lt;br&gt;this way is main way toward Azarbayjan republic border.”&lt;br&gt;
+&lt;em&gt;―Babak marcopolo, 12 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>46.45084762573439,38.030553606190594</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bostanabad</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“this point is good to HH toward north of Iran or Ardabil or Sabalan mountain area.”&lt;br&gt;
+&lt;em&gt;―Babak marcopolo, 15 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>46.841634750366865,37.85104817123889</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Khosrowshahr</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“this point is better to HH toward Osku town and historical Kandovan village.”&lt;br&gt;
+&lt;em&gt;―Babak marcopolo, 15 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>46.07231283187858,37.983103266624866</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15311</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>60.340484619141826,26.578803371170707</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ahvaz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“its my place i like to see u”&lt;br&gt;
+&lt;em&gt;―Behnam2, 13 Dec 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>48.67918395996166,31.323090371443588</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Koy-e-Sepahan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“get bus 91 will get to the southern bus terminal. Cross the highway and there is bus stop. Hitchhiking is not easy with many share taxi to Shiraz or south of Isfahan. We take a bus (5000 IRR) to Baharestan, the next town to hitchhike”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 09 Jan 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“You can catch the bus on the north side of the river of the main bridge.&lt;br&gt;&lt;br&gt;To avoid all the shared taxis, I just kept on walking down the highway to a spot where cars could stop. It might take a few short hops until you find something longer.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 27 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>51.66815185546897,32.58596955265051</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Baharestan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we took off before the bus turned to Baharestan, get a lift to Shiraz”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 09 Jan 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Anywhere on the highway south of Esfahan it&#39;s feasible to catch a ride south. Got a ride within 30 minutes all the way down to Esfahan with a truck. So don&#39;t worry.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>51.74396181106558,32.48218520155326</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chahchekor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we stayed away from the round about not to be bothered by the shared taxi. going north to Shiraz”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 21 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>56.36446380615355,27.24702333659591</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bandar Abbas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“again we stayed away from the roundabout and the taxis, hitch hiking to Minab on Thursday”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 21 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>56.369463443756196,27.249159911938197</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tabriz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Somewhere around here is the toll booth. A good place to get dropped of at if your driver is going to one of the small towns nearby. I got a ride from here straight to Tehran within 5-10 minutes of waiting.”&lt;br&gt;
+&lt;em&gt;―Lopotour2, 03 May 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Got a cup of tea at the toll booth while the staff flagged down vehicles for me.  Sign for Zanjan and they got me a ride within minutes of arriving via a friend from the city centre.  :)”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 08 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.562921047211,37.97949230106279</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18457</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“شهرک گلستان”&lt;br&gt;
+&lt;em&gt;―, 20 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>52.42242121696664,29.75254722290401</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19237</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Qeshm Island is really easy once you are on the highway. Not so many cars, but almost everyone will stop when they see you.”&lt;br&gt;
+&lt;em&gt;―Yann, 16 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>55.74862861633085,26.942525475131397</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bam</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“As always: walk to the edge of town and start hitchhiking. Not THAT much traffic, but this is Iran, so don&#39;t worry.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>58.29771423339735,29.104875404134216</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19353</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a police/military checkpoint here on the main highway (close to the turn off to Rayen). Police was very friendly and helpful - organised a car for me all the way to Bam within 10 minutes :-)”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>57.585147857664914,29.76151379959329</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bam</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Be prepared: not much traffic in the direction of Jiroft and Bandar Abbas, but feasible to hitchhike from here (or Bam)  with a couple of shorter rides within a (long) day”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>57.98567676544179,29.289585429329183</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19355</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From the city center it&#39;s 30 minutes walk to the edge of town. Spot on the road side. Not much traffic in the direction of Khur (for Garmeh for example), but possible for sure.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Was travelling in the evening at dusk - it was still light - towards Garmeh/Khor. As anywhere in Iran, I needn&#39;t wait long.”&lt;br&gt;
+&lt;em&gt;―Redjo27, 22 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>53.11909818649318,32.86384074891146</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19356</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 36min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Little traffic towards Garmeh and the other oases. Be prepared to wait. Some drivers might expect payment, so make sure before getting into any car.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Towards Garmeh deep in the night some students stopped after like 45min of walk.&lt;br&gt;Towards Mashhad/Tabas the first truck stopped. In general the traffic to Mashhad is more, since this road is part of the Esfahan-Mashhad road.”&lt;br&gt;
+&lt;em&gt;―Redjo27, 22 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>55.08668088912915,33.760048346581634</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19357</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Garmeh is a tiny oasis (i.e. no traffic, no cars), so be prepared to walk from here to the &amp;quot;main road&amp;quot; at Mehr Jan (12km away) where hitchhiking is indeed possible (personal experience: after walking for 45 minutes a car - the first! - passed and picked me up and gave me a lift to Bayazeh - a beautiful place btw.).”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I agree. Not much cars, but if there&#39;s a car or truck, it will stop. No payment needed.”&lt;br&gt;
+&lt;em&gt;―Redjo27, 22 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>55.04228496551353,33.524264242725806</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19358</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Little southbound traffic, but the first car or truck will stop for you.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>55.10451221466011,33.331339827436686</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Zanjan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Zanjan-Qazvin pay tall”&lt;br&gt;
+&lt;em&gt;―M.naeimirad, 02 Aug 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Ridiculously easy.  Had a laugh in broken English with the traffic cops here.  Plenty of strange looks, but I got a ride all the way to Tehran within minutes, hardly making any effort at all.  Great spot.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 19 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>48.584437608718865,36.65124474185285</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Piranshahr</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>45.1256006868879,36.693574914608746</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kermanschah</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Excellent spot at the roadside shortly after Anahita Square (for direction North towards Sanandaj and Paveh). Lot&#39;s of traffic, not too fast and there&#39;s enough space for cars to pull over. To get here take a bus (ask for &amp;quot;Maydan Anahita&amp;quot; or &amp;quot;Maydan Imam Hossein&amp;quot; - however, the latter is still 2 km away) from the small bus terminal on the north-eastern side of Azadi Square.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 11 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>47.08065176010163,34.38841215229924</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sanandaj</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot at the roadside shortly after the bus terminal (for direction North towards Saqqez and Bijar). To get here take a savari (700 Toman in October 2014) from Enqelab Square to the &amp;quot;Terminal&amp;quot; and walk for 100 meters or so. There&#39;s not that much space for cars to pull over, but as there&#39;s not too much traffic this is not an issue. Make sure the ride is for free, as taxi drivers from the nearby terminal might also stop for you.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 13 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>47.01209449768084,35.34819788873711</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Isfahan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>51.66282654572799,32.55233751892087</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20955</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>57.85757446289112,30.870501125613778</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Qazvin</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>50.04925632476848,36.26080301840366</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21378</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“i was in my trip from itally to iran more than 50000 km.&lt;br&gt;it was amazing .and now i start my trip to africa”&lt;br&gt;
+&lt;em&gt;―Anonymous, 26 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>54.017766952515515,26.546329253108965</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24228</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take the bus towards the airport, #10 if I remember correctly. Pass the police checkpoint and choose which direction you want to go :)”&lt;br&gt;
+&lt;em&gt;―Kidp3, 27 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>52.63835430144944,29.481811895826898</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Isfahan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I&#39;m guessing at the hitch point somewhere along this road.  Traffic is fast but if you&#39;ve got the patience you&#39;ll get a ride out of the city eventually.  Be aware most drivers will try to take you to the bus terminal or ask for money - which get&#39;s incredibly frustrating as it happens very frequently.  ”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 06 Nov 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Only with patience...”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 06 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>51.629699707031236,32.69236074244746</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>مسگرآباد</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Anywhere along this road is good for either direction.  Stand at one of the speed bumps for maximum attention, and don&#39;t forget to ensure the ride is free beforehand.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I managed to score a free cab ride out to this spot so I got very lucky.  Not sure how else you&#39;d reach here without paying, but it&#39;s a long way from the city centre and the traffic can be a nightmare.  Because Tehran.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>51.508506774902834,35.604648080376236</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24691</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Excellent in any direction.  plenty of space to pull in.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>52.377628326416556,35.23477561052406</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26251</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>55.58202588558064,36.41567097453753</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kahrizak</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“An amazing spot! Just after the tollgates, plenty of traffic going slowly and also people stopping to bless their journey so you can talk to them if you prefer.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 07 Jul 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Sign (in Farsi) for Isfahan got me picked up within a few minutes here, the guy who took me could&#39;ve taken me all the way to Shiraz.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 07 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>51.35331416130485,35.54214872519265</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26355</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Kashan toll gates, easy to get picked up with a sign for Tehran.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 07 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>51.35577106476164,33.957817965845905</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26524</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>50.296234130858004,36.05696223341271</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27207</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.1804809570323,38.1670436485135</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Hamedan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Is a bit annoyin only that its quite far from the city and u have to walk a some km before to get rid of taxis etc, once u get over the ring road, find a lift become very easy”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 23 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>48.52170026855405,34.82944154946685</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Khorramabad</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we hitchhiked from this point by personal car. here you can only find truck about 2 or 3 in each hour. this road is very quite and it&#39;s not look like safe. don&#39;t hitchhike here.”&lt;br&gt;
+&lt;em&gt;―Bahador2012, 13 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>48.381675671387896,33.49133843531568</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14932</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“from this point you can go to Tabriz, Marand , Bazorgan(Turkey border) and also Shabestar .&lt;br&gt;you can HH from this point toward Turkey border OR toward Tabriz.”&lt;br&gt;
+&lt;em&gt;―Babak marcopolo, 12 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.98142464601365,38.282760948880735</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bostanabad</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“from this point you should separate your way toward Tehran or Ardabil city.&lt;br&gt;this point is better to HH toward Ardabil and best point to HH toward  Tehran with old way.”&lt;br&gt;
+&lt;em&gt;―Babak marcopolo, 15 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>46.82884597778308,37.84244901464478</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tabriz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Tehran. To get here take bus 101 (starts just north of Saat sq). The bus will drop you off a couple hundred meters to the north. I believe there is plenty of space for vehicles to pull over. I got a ride to the toll booth outside of Tabriz while walking to this spot.”&lt;br&gt;
+&lt;em&gt;―Lopotour2, 03 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.36561775207426,38.017487327135484</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19359</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a parking bay 200m outside of Kharanaq along the highway. Good spot. Not much traffic, but still short waiting times (I mean, this is Iran!)”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>54.65235614776452,32.34445966970632</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mashhad</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Toll gate - excellent hitchhiking spot. To get there take a city bus to the airport and walk from there (bus 77 from Khordat Square - one block south of Basij metro station - goes to the airport. From the terminal walk back to the &amp;quot;arty&amp;quot; main gate and turn left and follow the road. It&#39;s 500 meter to the highway and another 15 minutes walk south on the highway until the toll gate)”&lt;br&gt;
+&lt;em&gt;―Tomtom, 28 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>59.625901222228016,36.216947368563794</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Paveh</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“As usual: walk to the edge of town and start hitching from there. There&#39;s not much, but enough traffic to make it easily in smaller hops along the paved road to Nowdeshah (or alternatively to Nowsud) and all the way to Howraman At Takht. Fantastic people, awesome scenery, short waiting times - hitchhiking at it&#39;s best!”&lt;br&gt;
+&lt;em&gt;―Tomtom, 11 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.346413135529005,35.0544294218349</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>خاووميرآباد</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.016737461093335,35.61421676868106</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22553</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“DON&#39;T GET OFF HERE!!!! I wanted to travel westbound (coming from Tabas, in the south), but there were only few cars and none stopped. The worst thing is the police checkpoint. They were bored and that&#39;s why bothered my for 2.5h hours, checking my passport. So you should either walk for a kilometre or so westbound or make a detour via Bardaskan.&lt;br&gt;Otherwise going south should be really easy.”&lt;br&gt;
+&lt;em&gt;―Redjo27, 22 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>57.36868286133015,35.141902092064456</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Deyhuk</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a police checkpoint here. I hung out with the police, drank tea with them and they practiced their English while I waited for a bus to Mashhad which they put me on for free, about 2 hours of waiting at night. The bus was totally empty too!”&lt;br&gt;
+&lt;em&gt;―Kidp3, 27 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>57.52332210540435,33.27878105247582</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Yazd</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Super easy spot on the edge of town  in any direction.  Stand at a speed bump for maximum effectiveness!”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 02 Nov 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Sign for Chak Chak had us picked up in minutes.  Easy to go further afield too.  It&#39;s Iran!”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 02 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>54.276374816894524,31.973084155255012</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Semnan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just outside of Semnan there&#39;s a police/truck stop with plenty of traffic in either direction and space to pull in.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Great place for both directions.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>53.33206558227588,35.5494989863354</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sabzevar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Walk out of the city along this road and start hitching.  Good for turning north and heading towards Turkmenistan.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Make sure to fend off the shared taxis.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>57.70788574218754,36.22387175830897</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Quchan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Walk over the roundabouts and past the taxis.  A sign for Turkmenistan had me picked up in minutes.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“A lot of taxis hanging around here.  And make sure to tell any rides that you&#39;re not paying.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>58.518213272093995,37.11634256217324</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Qeshm</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can see the different nature creation in Qeshm, a very fantastic place to go another name The Seven Wonder Island , Lose it If you pass it ”&lt;br&gt;
+&lt;em&gt;―D3m3n1or, 08 Aug 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“If you you want to travel I can help you because I live here”&lt;br&gt;
+&lt;em&gt;―D3m3n1or, 08 Aug 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:49Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>56.28515625000039,26.96134653263399</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

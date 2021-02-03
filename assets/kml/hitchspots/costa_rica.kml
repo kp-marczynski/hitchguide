@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Costa Rica</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>San Diego</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can get there with the bus to Cartago. Ask the Bus triver to drop you off at the Peage.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-83.9947271347046,9.90084583785899</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Antonio</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Buses to Alajuella passing this Peage station. Ask the bus driver if he could drop you off on the peage. If not go off at the Airport try your luck there.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-84.1857647895813,10.0010092352452</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Colima</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction:  Guapiles, Puerto Limon, Caribean Coast.&lt;br&gt;&lt;br&gt;From the Terminal Caribe go up, the next right and after 120 meter you getto the spot.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-84.0767383575439,9.94248524698624</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Limón</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Heading downtown until a redlight. To your right is a TEXACO gas station. There cars running to the south of the carribean coast.&lt;br&gt;&lt;br&gt;Red Light District - watch out!”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-83.0337238311768,9.98820850666576</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18538</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-85.6119189262388,11.209097649682498</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25152</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-82.84134453535265,8.535332342319672</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ciudad Neily</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A first small village after the border. Easy to find a lift further for example to Jaco.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 09 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-82.94731597743325,8.642718271650088</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tárcoles</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After the bridge of crocodiles there is a place to stop a cars to San Juan. (A lot of vendors around)”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 09 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-84.60713665328281,9.802630541443705</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25182</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Pay toll, always good place for HH. (both ways)”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 09 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-84.57250933489797,9.887968865332573</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Liberia</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A new road constructions are here, but still perfect place to San Jose”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 09 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-85.44206003985524,10.62399456194402</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cañas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A hospital. Direction to Tilaran”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 09 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-85.08634548030027,10.442784597711174</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25185</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Perfect place to east of the country”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 09 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-84.63641296467833,10.470617225952147</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24960</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot to hitchhike in direction to Las Juntas and Monteverde. There is a lot of space for cars to stop end even during the night there is enough light for beeing well seen.&lt;br&gt;At the petrol station ot the Panameric highway you can directly ask people!”&lt;br&gt;
+&lt;em&gt;―JulianTR, 28 Jan 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:29Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-84.99429202079735,10.242378303693762</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

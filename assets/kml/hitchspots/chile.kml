@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Chile</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Iquique</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Panamericana road across Atacama desert is the best hitch hiking place for me. Not too many cars, but truck drivers pick you easily and drive veeery long distances :)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.0801026821136,-19.9615102964554</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Varas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The micros to Puerto Montt can take you here for 300 CLP. Just tell the driver to drop you at the entrance to Ruta 5.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.991361618042,-41.3356726425492</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Santiago</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you are traveling South outside of Santiago on Rout 5 (Pan American Highway) this is a perfect place as this is the entrance of the city. And it is very easy to get there - you just have to take mentro to Vespucio Norte, cross the big road and take the bus 305 (or better ask also at the bus driver if he is going there), take off before the huge intersection (aprox 7 minutes of the ride) and walk some 5 minutes to the spot. There is also a troll station, so the cars go slowly. It is really easy!”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I think here is another option to get out of Santiago. Go to central bus station and take really cheap bus to Llaillay there is another peage post with less cars. There is more quiet and easier to catch a ride.  ”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 30 Jan 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.7010555267334,-33.3638862410433</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Calama</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A Petrolstation where you can hitch hike out of Calama in the direction on the A 24 to A 5”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.9159274101257,-22.4332343028519</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Antofagasta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“didn&#39;t even have to put my thumb up..someone stopped for me because it was obvious i was a traveler”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.371208190918,-23.6273827570824</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Antofagasta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“not exactly that spot but around here is great cuz everyone is driving to the mines so lots of people pass”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.4204213619232,-23.6973693883059</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Antofagasta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“going towards antofagasta ..lots of people who work in the mines. lots of hitchhikers around here too..i was in a queue of like 4..”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.3168344497681,-23.7754581477586</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Antofagasta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“should be a gas station here altho it doesn&#39;t show on the map. lotsa people passing”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.6336221694946,-23.181177814663</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Copiapó</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“took no more than 5 min to get a lift :)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.8081293106079,-27.0639793305432</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Copiapó</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“hitched a bus going to caldera here..driver didn`t want any money..was great :)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Yep, I think the best way to get out of here is to take a bus  to Caldera”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 30 Jan 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I hitched on the roadside, after 30 minutes a car stopped taking me to Chanaral.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 08 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.352668762207,-27.351633529429</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chillán</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to get into chillan i hitched at the toll place at night and didn`t take more than 5 min”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.1022844314575,-36.5830552040411</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chillán</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-72.1439552307129,-36.6147009168525</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Osorno</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“close to the university..but get past it and then all traffic will go east :)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Por esta ruta van mucho hacia la frontera con Argentina, recomendable!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 03 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-73.0873203277588,-40.5864838910941</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Penco</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“walk a bit up the ramp since the cars are fast at the beginning.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-73.000529,-36.755498</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Punta Arenas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A good spot to get to the coast. If you&#39;re looking for adventure, go south. If you&#39;re looking to get to the coast within reasonable time, go north. Got a ride north after waiting around half an hour.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.235619,-51.544369</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Punta Arenas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“not a whole lot of traffic, but I got a lift to the Argentine border from there after about half an hour”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-72.505944,-51.720308</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Arica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“tentei a noite inteira e eu tive que dormir num posto de gasolina. mas na manha seguinte, rapidamente peguei carona em um caminhão. estava acompanhado de um amigo.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 05 Dec 2010&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-70.243526455593,-18.52654746766</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Calama</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Giratory crossing, lots of place to pull out and only exit for antofogasta.”&lt;br&gt;
+&lt;em&gt;―Erick.blanchard, 24 Apr 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“if you go there early in the morning, just after sunset, there will be trucks who stayed there for the night. You can talk to them when they wake up and get a long ride.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 16 Jan 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“A driver from the center of Calama drop me here for the direction of Antofagasta. I waited less than 5 min before I got a lift directly for there.”&lt;br&gt;
+&lt;em&gt;―Garept, 17 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.92563914946,-22.492549275385</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Natales</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 3min</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.50632053215,-51.719086378264</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cholchol</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-72.826171875001,-38.633948144613</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>O’Higgins</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 70h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It took me 3 days hitching to get out of this villag!. Further up the carreterra austral there is a ferry connection; check the timing of the last ferry because no-one will leave that way after 30 mins or so before the last ferry departs (which was 3pm several years ago).Traffic is incredibly thin, but that one car that does appear may very well take you. ”&lt;br&gt;
+&lt;em&gt;―Amritsky, 04 May 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-72.560598134918,-48.462019261889</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Montt</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you&#39;re going to chiloe, here is a tool station. lots of trucks going suth is the only way.”&lt;br&gt;
+&lt;em&gt;―Nietoman, 26 May 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.98373556137,-41.465767845162</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Varas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“3 hours with nothing but cars passing at 120kph. Go back to the entrance for Puerto Varas a few km south.”&lt;br&gt;
+&lt;em&gt;―Sark, 20 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-73.01063060760208,-41.3127257422225</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Coihaique</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hardly had time to set my pack down before a car pulled over.”&lt;br&gt;
+&lt;em&gt;―Sark, 20 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.06680417060338,-45.56208838757469</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Estación Central</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Выезд”&lt;br&gt;
+&lt;em&gt;―Likhobabin, 24 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“ладно?”&lt;br&gt;
+&lt;em&gt;―Loco seba, 16 Sep 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Done this route a dozen times, tons of traffic and never fails. Waited between 3-20 minutes, average ~10. ”&lt;br&gt;
+&lt;em&gt;―Kait~, 25 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Lots of traffic! Within not to long a car stopped. ”&lt;br&gt;
+&lt;em&gt;―Europeangirl, 07 Apr 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.72315268516505,-33.45632959397168</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Concón</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Exit to Qillota (to north).&lt;br&gt;&lt;br&gt;Salida a Qillota. Ruta 5 (Norte).”&lt;br&gt;
+&lt;em&gt;―Likhobabin, 24 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“”&lt;br&gt;
+&lt;em&gt;―Likhobabin, 24 Aug 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.505633521078,-32.92175225767883</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Hijuelas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 12min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“HH-place to the north.”&lt;br&gt;
+&lt;em&gt;―Likhobabin, 24 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Increíble, menos de 5 minutos en el peaje y paró un camión que nos llevó hasta Iquique.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 08 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.19116036510405,-32.76899650409876</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>La Serena</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Valle Elqui&lt;br&gt;&lt;br&gt;A Valle Elqui”&lt;br&gt;
+&lt;em&gt;―Likhobabin, 24 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-71.24141877834337,-29.907112717971582</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vicuña</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Easy way to go La Serena.”&lt;br&gt;
+&lt;em&gt;―Likhobabin, 11 Sep 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.72328573409563,-30.042418867748044</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Aisén</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“HH-place to go to the north with bus-stop with the roof.&lt;br&gt;&lt;br&gt;Un lugar con refugio para ir al norte.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 20 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-72.49173110909636,-45.39787767227924</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Arica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“good spot, just out of town, take any micro to AGRO. I waited for about two hours to get a ride to Calama.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 16 Jan 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.28240031190505,-18.505795825646228</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Huechuraba</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 16min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Toma el metro linea 2 hasta Vespucio Norte, luego bus B18 que te deja justo en la entrada a la autopista. Desde alla ya sigues hacia Los Andes y Argentina. Suerte!”&lt;br&gt;
+&lt;em&gt;―Vesp., 23 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“el b18 no te deja  justo en el peaje... , tienes que caminar bastante y no estan lugares buenos hacia el peaje mismo ... el peaje esta mas o meno en  la altura de cerro pan de azucar...”&lt;br&gt;
+&lt;em&gt;―Roberto mx, 18 Dec 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-70.68876028060903,-33.365767960695</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>La Serena</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“South towards Santiago, Valparaiso. Emergency lane after a junction with traffic lights. The spot is in a walking distance from the centre of the city just near the bus station. There is also a Copec petrol station a few hundred metres from the spot.”&lt;br&gt;
+&lt;em&gt;―Paluch, 25 Oct 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.25909662246708,-29.910081827527492</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Valparaíso</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“South or southeast towards Santiago or Rancagua. Copec petrol station at the entrance to the motorway. The spot is in a walking distance from the bus terminal and you can get there by many micros (mini buses) from the historic part of Valparaiso.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 25 Oct 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Doesn&#39;t get any better than this.  The highway starts here so every car is taking it.  But it&#39;s still walking distance from the city center.  I got a ride in less than five minutes- best hitchhiking spot I&#39;ve ever seen in the world.  ”&lt;br&gt;
+&lt;em&gt;―Dr.Keith, 30 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“its true!!! Best hitching spot in the damn world. In the dark, in the rain, still always &amp;lt;5 min. Cars all go straight to Santiago, highway curves here at the Copec station so everyone sees you. ”&lt;br&gt;
+&lt;em&gt;―Kait~, 25 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.60122311115116,-33.05307503221796</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Viña del Mar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 33min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“All directions, either south to Santiago, north to La Serena or east towards Mendoza in Argentina. Emergency lane at the entrance to the motorway. You can get nearby by micros (mini buses) from Valparaiso or Viña del Mar. Ask for the ones going to Quilpue as they all pass near Jumbo Hipermarket in Viña. Get off near Puente Lusitania, cross the bridge and turn east. Another option is metro to the station Chorillos (electronic card needed, no single tickets).”&lt;br&gt;
+&lt;em&gt;―Anonymous, 25 Oct 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.52672207355518,-33.03590659565799</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Montt</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“good spot on the way to chiloe”&lt;br&gt;
+&lt;em&gt;―Ea.brl, 31 Dec 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.98062419891424,-41.46479503789518</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Pedro de Atacama</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I didn&#39;t tried HH here, but I saw many trucks from Paraguay here stoping to check everything before starting to climb over pass. I&#39;m sure You can catch realy long ride here. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 06 Jan 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“waited there 3 hours, but the spot is good, it is just there is no traffic.  I 3 hours 2 full cars passed by and the I got picked up by an argentinian truck going to Jujuj.”&lt;br&gt;
+&lt;em&gt;―, 23 Mar 2017&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.19192624092541,-22.913836327019713</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Montt</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After rotonda, you need to find the best place to hh. Here is a lot of space. Direction North.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 30 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.95448144914629,-41.45369963598924</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Varas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Northern exit of Puerto Varas is better than Southern.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 30 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-73.00958475114795,-41.31665436004685</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ollagüe</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hard to find a ride. Here is one bus per day going both directions.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 30 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-68.22847208024677,-21.211864852496294</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Llay-Llay</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A toll station”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 31 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.98944520949914,-32.843558275659234</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Porvenir</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.3650627136229,-53.29921912093637</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Porvenir</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h 45min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Good place, most traffic to argentina passes by here. End of season time is longer as traffic is reduced. The day you see the pinguins you can sleep at the camp, and go in the morning hitchhike.”&lt;br&gt;
+&lt;em&gt;―Victor-c, 05 Mar 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-69.25741767883252,-53.35176466619968</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Quinta Normal</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I hitched from here simply because it was close to my host.  There is not a lot of space to pull over safely so this spot would not be good during heavy traffic.  ”&lt;br&gt;
+&lt;em&gt;―Dr.Keith, 30 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-70.69205713271673,-33.430108383230944</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Quilicura</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 33min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Al peaje, es muy fácil tomar un auto hasta Colina o Los Andes, Esperamos 5 minutos. ”&lt;br&gt;
+&lt;em&gt;―John.bingham, 29 Oct 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“se pueden acercar  tomando un metro hacia vespucio norte , despues tomar de ahi un bus b05 que se va por el mall buenaventura y pedir de bajar a la parada mas cercana al peaje, despues tienen que caminar como unos 2 km hacia el peaje. con tarjeta bit metro mas bus salen como 700 pesos. ;)&lt;br&gt;si quieren ir por argentina es mas facil bajar a los andes y ponerse cerca la aduana de camionero  y seguir por argentina..”&lt;br&gt;
+&lt;em&gt;―Anonymous, 17 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.70225930214066,-33.31086294503988</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Los Andes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 29min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The red light at the railroad forces all cars and trucks to stop, which makes it easy to talk to them. Unfortunately, we waited for 1h and we only got a ride to Rio Blanco instead of Mendoza.&lt;br&gt;El semáforo de la vía ferrea para a todos los autos, y es facil hablar con los conductores. Lamentablemente, esperamos 1h antes de que un van nos tomó hasta Rio Blanco.”&lt;br&gt;
+&lt;em&gt;―John.bingham, 29 Oct 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“All manner of Argentine vehicles moving through the road. Got a lift all the way to Cordoba by one very friendly truck driver. Thumb out ahead of the clearing at the traffic lights - if they&#39;re eager, they&#39;ll park up whilst slowing down anyway.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 07 Apr 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.54621374607198,-32.83552493286346</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Natales</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.5048217773452,-51.71930181691903</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Los Andes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4h</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-70.54866260290196,-32.83757349889687</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Coyhaique</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“lived outside of town. hit and miss with hitching. ”&lt;br&gt;
+&lt;em&gt;―Panamaqj, 02 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-71.93276023864732,-45.785934345004414</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puyehue</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Waited 5 minutes to get a ride to the main road again, and then on to the border.”&lt;br&gt;
+&lt;em&gt;―Victor-c, 01 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.30860745906375,-40.73488856923101</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Osorno</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Major point of traffic confluence going east to the border. Waited here because on the bridge there was a speed limit.”&lt;br&gt;
+&lt;em&gt;―Victor-c, 01 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-73.09415674208972,-40.583285524057125</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Freire</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje station, easily reached from the city center by a bus going to Freire.”&lt;br&gt;
+&lt;em&gt;―Victor-c, 01 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.62435173987855,-38.915895498183666</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Talca</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Easy to get to from the city center as opposed to the south exit. The northern exit is also easy to get to, just ask around for busses.&lt;br&gt;There is a steep roadside where you can put your backpack and it is in the shade during the afternoon. A panaderia is on this side of the road.&lt;br&gt;The acceleration lane could be a place where cars can stop to pick you up, trucks probably not.&lt;br&gt;Worth to try in order to get outside of the city.”&lt;br&gt;
+&lt;em&gt;―Victor-c, 01 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-71.63812762498424,-35.43429820403625</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marchihue</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Easy going to Pichilemu or Santa Cruz.”&lt;br&gt;
+&lt;em&gt;―Victor-c, 01 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.61621934175224,-34.40446177757363</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Iquique</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.13179636001519,-20.2212724685867</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Arica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.29778218269368,-18.39689658724528</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Fernando</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Un poco lejos del terminal de trenes , pero al llegar ahi caminando ( 20 minutos ) hay naquina para que frenen los autos”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.98598337173283,-34.60883496733105</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Varas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Camino hacia los saltos del petrohue y el volcan osorno , una ruta sin banquina pero el trafico es poco , permitiendo parar autos”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.96234226226613,-41.32777317428515</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puerto Varas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Cruce de caminos , para un lado Saltos del Petrohue , para el otro Volcan de Osorno , se puede ir en ambas direcciones y para volver a Puerto Varas ”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.53820991515855,-41.207988226658</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ancud</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“No es buen lugar , pero todos los autos deben pasar por aca”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-73.79608011245334,-41.880125642830556</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Castro</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“En las afueras de la ciudad hay lugares con banquinas para los autos estacionar”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-73.76850700377979,-42.46217606212134</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Hualaihué</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“On april I hitchhiked here and was so easy!”&lt;br&gt;
+&lt;em&gt;―Isa kayo, 23 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.64751529693567,-41.73937277551425</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Arica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.30034637451045,-18.385046056109303</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Penco</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Pueden hacer darse a este peaje tomando varios buses urbano que van &lt;br&gt;Por penco, tienen muchas frecuencia y salen como 440 pesos chilenos 30-6-15 se bajan en la ultima garita antes de la rotonda y luego camina. Como 1,5 km hacia el peaje ;)&lt;br&gt;Suerte!&lt;br&gt;Roberto”&lt;br&gt;
+&lt;em&gt;―Anonymous, 01 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-73.01128690939603,-36.75786577861483</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Coquimbo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 6h</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-71.37837982177679,-30.012713173225254</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Gregorio</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 38min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“supposedly good place to hitchhike toward Rio Gallego or El Turbio/Punta Arenas/ Tierra del Fuego. At the time, ferries were not running due to bad sea conditions, so there was few slow speed cars.”&lt;br&gt;
+&lt;em&gt;―Apibiri, 10 Feb 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Worked for me great to get South. I waited a bit longer, spotting only Argentinian cars since I had to go to Ushuaia. Be selective if you want to go on long rides. I do not recommend getting on a truck here...some km after the ferry port you will hit 100 km gravel road on the Chilean side of Tierra del Fuego, basically until the border in San Sebastian. So you would go with something like 20/30 km/h. Cars drive something like 60, sometimes 80, if you get a crazy driver. ”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-69.7572448754056,-52.398622609654446</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cisnes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“from 7am to 4pm, we were the first ones, then tens of HHers joint, no one was lifted. Nobody stopped.”&lt;br&gt;
+&lt;em&gt;―Apibiri, 22 Feb 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“wrong position. It was after the roundabout”&lt;br&gt;
+&lt;em&gt;―Apibiri, 22 Feb 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-72.39748513698495,-43.969136506509585</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Natales</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not so bad - but probably better than the big crossing into the city. 1 hour.”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-72.48125052452176,-51.71363185127778</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Quilicura</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.70407724380375,-33.31446218723473</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Villarrica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the exit of the town of Villarrica and before the bridge, cars are not going fat and it&#39;s easy for them to stop at the bus stop.”&lt;br&gt;
+&lt;em&gt;―Clementlb, 07 May 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.22945547103868,-39.27558251556713</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25708</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-72.50692462921296,-38.672305350721786</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Villarrica</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A hh spot to Temuco or wherever north.  TThere is a bus stop.”&lt;br&gt;
+&lt;em&gt;―Evik, 27 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.230581766295,-39.27210130120324</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chillán</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“used this to get out from chillan. this place was really bad..no one can stop here and also lots of construction around. but there is a gas station not too far south from here..if u can get a lift to there or walk there it&#39;s the best. or try another exit from chillan..this one isn`t the best”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.1598714590073,-36.6256369436871</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Punta Arenas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Border station Dorotea between Argentina and Chile - straightforward treatment and a good occasion to hitch a ride into Argentina, at least to Rio Turbio where you can hitch on.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.333078,-51.604656</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7662</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Going to Calama, Spot at the crossroad a bit outside of town. Short wait regarding the few amont of car passing by. We had a ride for Calama and were heading to antofogasta”&lt;br&gt;
+&lt;em&gt;―Erick.blanchard, 24 Apr 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.21272945097,-22.904299628125</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Calama</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Going to Antofogasta from San pedro de atacama, we were droped at the crossroad (23 with 25) here by our driver. Bad spot on the highway. Car are driving too fast. We walked out a little further up to this place where there is an access ramp. Someone heading for the airport picked us up and drop us to a great spot out of town”&lt;br&gt;
+&lt;em&gt;―Erick.blanchard, 24 Apr 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-68.901649472003,-22.474705290703</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Santiago</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a Copec gas station here. We stayed here with a sign saying &amp;quot;El sur&amp;quot; and after one hour someone driving to Rancagua (70km south of Santiago) dropped us on another copec station on the highway number 5.”&lt;br&gt;
+&lt;em&gt;―Erick.blanchard, 24 Apr 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.656393524864,-33.471504049253</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chañaral</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A good spot for going south. there is a posada, truck rest stop, good camping spots if you have to stay the night. In about 90 minutes I refused two rides to Chanaral and Caldera and finally got a ride all the way to Santiago in a truck.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 16 Jan 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.50701357489432,-26.3639040722339</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Torres del Paine</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“good place, a few steps away from chilean border control (eat all your veggies, fruit, honey, meat, cheese, beans etc beforehand, they are very strict and confiscate everything they find). There is a really overpriced shop and restaurant with good toilets. Not so much traffic towards Torres del Paine, mostly buses.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 12 Mar 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.34722528137468,-51.25886134791749</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pudahuel</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 37min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“West towards Valparaiso, Viña del Mar. Petrobras service station. You can get here by bus J12 from Pajaritos metro station. Get off at Pasarela Pedro Jorquera. Walk a few hundred metres west along the motorway.”&lt;br&gt;
+&lt;em&gt;―Paluch, 21 Oct 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.79178810119701,-33.442322514632934</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Calama</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“For those who will decide to take this road heading to Bolivia. Amazing landscapes !! But be ready for a long waiting hours. Almost no cars, but it&#39;s worth it, believe me :) ”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 30 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-68.88329586030805,-22.439715062599458</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Antofagasta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot for hitching north towards Tocopilla, Iquique. Take bus 102, 103, 112, 114, 129 that go to La Chimba. If someone offers you a lift to Mejillones go for it and get off at peaje a few miles before the exit.”&lt;br&gt;
+&lt;em&gt;―Paluch, 30 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.39227843284631,-23.541205180774465</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Colina</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the entrance of the highway, towards Los Andes and Argentina, we waited for about an hour before we got picked up. &lt;br&gt;A la entrada de la autopista, dirección Los Andes y Argentina, esperamos una hora.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 29 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-70.69682514667629,-33.23855034954967</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Los Andes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gas station: many people stop here on their way to Mendoza, although as it is the only gas station in the area, some jeeps will only filll there gas up before heading back to Rio Blanco. Unfortunately, we waited 3h before being picked up.&lt;br&gt;&lt;br&gt;Gasolinera: muchas personas que van a Mendoza se paran aquí, y se puede hablar con ellos. Lamentablemente, esperamos 3h. ”&lt;br&gt;
+&lt;em&gt;―John.bingham, 29 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-70.29385542869448,-32.90734354174645</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Puyehue</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“1 hour to get a ride to the next camping site, about 15 km further on. &lt;br&gt;Generally a road, where compared to the rest of Chile, it was more difficult to get a ride.&lt;br&gt;Chileans were most of the times on vacation here and full, argentinians didn&#39;t stop once...”&lt;br&gt;
+&lt;em&gt;―Victor-c, 01 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-72.32742583751178,-40.70735795611659</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chillán</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A place at the beginning of the road going to Termas de Chillan. All cars that way pass by here. There is a bridge 100 m down the road so cars have to slow down here. There is also a bus station, and a supermarket, empanaderia across the street.”&lt;br&gt;
+&lt;em&gt;―Victor-c, 01 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.08316779136263,-36.63149687948351</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chillán Viejo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Cerca de este lugar hay un control de Carabineros , los autos van mas despacio y tienen lugar para frenar”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.16982460021973,-36.627354388087355</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ancud</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Un lugar dificil para hacer dedo pero todos los autos pasan por aca”&lt;br&gt;
+&lt;em&gt;―Marce lawlor, 21 May 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Esperé no más que 10 minutos acá haciendo dedo”&lt;br&gt;
+&lt;em&gt;―Isa kayo, 23 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-73.53054141997937,-41.83514491336033</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Punta Arenas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take a Collectivo 15 to Tres Puentes (any cab with Tres Puentes or Zona Franca), the port (it costs 450 Pesos, less than a USD or Euro).&lt;br&gt;&lt;br&gt;Then walk on the Ruta 9. It&#39;s by far not the best spot, but after a while you will manage to get a car to the police post or even to the bigger West/East road split. &lt;br&gt;&lt;br&gt;You might pay the Collectivo Taxi driver a bit more (like 1000 Pesos) to get you further. Tres Puentes is the last stop of the taxi, so it shouldn&#39;t be a big deal.&lt;br&gt;&lt;br&gt;There&#39;s plenty of place to stop, but cars are quick, why I wouldn&#39;t necessarily walk further (unlikely to reach a calmer spot on foot).”&lt;br&gt;
+&lt;em&gt;―Mrm1985, 24 Mar 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Hitched many times from this spot. If you go to Puerto Natales, wait for a direct ride._ because if not, it is not fun to stay in the middile of the pampa where the wind is very strong and cars go fast.”&lt;br&gt;
+&lt;em&gt;―, 23 Mar 2017&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-70.8798537254341,-53.1139239506351</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pucón</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the exit of the roundabout, a bus stop allows the car to stop. There is just one road who go to Villarrica and the road 5.”&lt;br&gt;
+&lt;em&gt;―Clementlb, 07 May 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-71.97788572311461,-39.28114684557076</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Buin</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Buin is reached by the micro from La Cisterna Metro station for 1500CLP with blue micro, ask around for right direction, metro station has few exits. &lt;br&gt;&lt;br&gt;However Shell in Buin is inside the town so you get mostly local cars.  Yellow line you see is a shoulder road separated from autopista by fence and is a bit senseless. Driver point that they entering the town and very few leaves it to further south. ”&lt;br&gt;
+&lt;em&gt;―Grilla, 12 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:05Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-70.73477496852226,-33.73354714982865</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

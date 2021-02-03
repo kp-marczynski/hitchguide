@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Uruguay</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Chuy</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you want to hitch hike to Porto Alegre, Pelotas or Rio Grande, the check point on the brazilian side. Is the best place. After people get checked you can easyly ask for a ride. But you need to walk like 2 km out of town!”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I hitch hiked here to Santa Victoria do Palmar, on october 2013. A man stopped his car for me and leave me in a good point in Santa Vitoria to hitch hike to Porto Alegre. From Chuy (Uruguay) to the Brazilian front office you have to walk like 3 km. I recomend to go very early in the morning.”&lt;br&gt;
+&lt;em&gt;―Lolangarros, 16 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Me and my female friend waited for 2 hours only thumbing. Make a sign. Let it be Santa Victoria, Porto Alegre, Pelotas, or whatever. But make ANY sign. ”&lt;br&gt;
+&lt;em&gt;―Balazs, 31 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-53.4518712759018,-33.6845902364088</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Estación Atlántida</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 32min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can get here from Montevideo with a bus and if you walk a little bit more to the east, there is a busstop where the cars can easily stop and pick you up.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 01 Apr 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“yeah, get a cheap public transport bus from Montevideo, then hitch on the main road / IB, plenty of traffic there.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 25 Jun 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-55.76006698606,-34.766229929641</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Minas</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 38min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“a spot just after a speed bump”&lt;br&gt;
+&lt;em&gt;―, 05 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-55.228431701635,-34.780259960585</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Delta del Tigre</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Because there is a toll station cars don&#39;t go too fast and there is enough place to stop. You can come here very easy by bus from Montevideo.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“take bus from terminal rio branco to playa pascual (2 options) and get off at PEAJE NUEVO, perfect place”&lt;br&gt;
+&lt;em&gt;―Anonymous, 21 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-56.3665151596069,-34.776288189574</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12570</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 14min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“you can usually also get a ride to or from the town, then on routa 10, it´s easy.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 25 Jun 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I was walking to the town and after a minute I got offered a ride even without any gestures to the driver.”&lt;br&gt;
+&lt;em&gt;―Veska, 22 May 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-53.58224487304623,-34.02980660706257</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12571</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We were so lucky to find somebody after 5 minutes who brought us to the Route 9 (Castillos) where more cars are passing. But you can also try Route 10 which is probably nicer.... (but less traffic at least in november, maybe it is better during holiday time in december and january..) ”&lt;br&gt;
+&lt;em&gt;―Caroline charlotte, 28 Nov 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Walk from the town to Routa 10, then it´s pretty easy to get a ride.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 25 Jun 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“we went by walking to Cabo POlonio and got a free ride from a truck for tourists.”&lt;br&gt;
+&lt;em&gt;―, 05 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-53.84317016601566,-34.38089434125434</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rivera</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I hitchhiked in a police station and a restaurant here with a friend (we&#39;re 2 guys). Thought it would be hard because it was almost 8pm (on the summer, so we still had sun shining), but soon a truck driver and a car driver which stopped at the restaurant offered us a ride to south. We guess the truck driver was going straight to Montevideo, but we choose the car driver which took us to Carmelo, next to Colonia del Sacramiento.”&lt;br&gt;
+&lt;em&gt;―Leoautostopista, 12 Jan 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-55.68644127309444,-31.52432956745363</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Carmelo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Instead of paying for the boat to Buenos Aires (which was pretty expensive for us) as we had time, we choose to hitchhike to Buenos Aires. I hitchhiked here with a friend (we&#39;re 2 guys) around 6am and soon someone stopped.”&lt;br&gt;
+&lt;em&gt;―Leoautostopista, 12 Jan 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I walked out of the town towards Colonia, pass the big factory on your left, and got a ride in about 30 min. but you could also just sit outside the town and wait.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-58.2828378977096,-33.98186023851537</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mercedes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Place to hitch-hike to Montevideo direction. On the top of a hill close 3 trees.&lt;br&gt;Not so good place, probably it is better to stay close to gasstation before.”&lt;br&gt;
+&lt;em&gt;―MacLeod-older, 03 Feb 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-58.0143824852333,-33.27061806376647</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Neptunia</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Going from Montevideo to the east, this is the best spot to hitch hike.&lt;br&gt;&lt;br&gt;HOW TO GET HERE:&lt;br&gt;In Montevideo, you go to the bus stop in the corner of Minas and Paysandú, near to the Plaza de los Bomberos. There you can take the bus 711 (wich costed 40 uruguayos on octobre 2013) until &amp;quot;Peaje de Remanso de Neptunia&amp;quot;, you walk a few meters after the toll and rise your thomb!”&lt;br&gt;
+&lt;em&gt;―Anonymous, 09 Apr 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“there are several buses going to Peaje Pando from Terminal Rio Branco.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Anonymous, 31 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“This is a really good place to hitch! Get off the bus right after the toll gates and hitch from the bus stop. Bus fare 42 pesos (May 2014). Took me only a couple of minutes to get a ride going to Punta del Este.”&lt;br&gt;
+&lt;em&gt;―Veska, 22 May 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-55.88612079620124,-34.78429616804685</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13595</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop behind the roundabout with space for cars to stop.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Waited there 3+ hours and gave up eventually. A better spot might be 1-2 km further up the road.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Waited about 20 min (in a couple male+female). There is no good position further up the road as a highway starts soon.”&lt;br&gt;
+&lt;em&gt;―, 05 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-56.0218901179364,-34.845169965207</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13596</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 24min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On-ramp with bus stop in direction Libertad, possible to hitchhike traffic on the highway.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-56.35349698286439,-34.790326471010275</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nueva Helvecia</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Some place to stop traffic towards Montevideo”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.24860377531291,-34.33784733272624</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Montevideo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 6min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Place to stop cars just behind the roundabout, traffic drives slowly.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-56.27190418462897,-34.85242948727105</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Juan Lacaze</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 7min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop behind the roundabout, traffic slow, plenty of space to stop cars towards Colonia.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.34200365762782,-34.337424310709224</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Juan Lacaze</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop with plenty of space for cars to stop. Traffic fast, semi-good spot.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-57.61753708278721,-34.40280646699678</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Colonia del Sacramento</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Cosy spot for hitchhiking out of Colonia towards Libertad, Montevideo. Traffic low, space to stop cars.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“walk out from the center and position yourself on ruta 1, on the way to montevideo, about half an hour walk out from the center. I stuck my thumb up and got a ride in 15 min.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 29 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.826230603422125,-34.46124096839876</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Juan Lacaze</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Use the entrance to the parking place as a hitchhiking spot to hitch the traffic coming from Colonia or Rosario going towards Montevideo. ”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-57.339811998570674,-34.33722067215406</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13604</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 14min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On-ramp for traffic from the village, traffic on the highway drives fast. Not a spot to recommend, but possible.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-57.03719444867415,-34.37656375520695</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Canelones</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 16min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot out of Canelones, some space to stop. Small service station nearby.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-56.27685234944226,-34.51256648269263</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Florida</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop behind roundabout, exit of service station. Not the best spot, but traffic is slow. Later there&#39;s less possibilities to stop cars savely.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-56.19683669011194,-34.096593730082674</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Centenario</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Sufficient space for hitchhiking behind the peaje. Traffic is scarce.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-56.4934465416456,-32.840165534354526</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13609</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 35min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Space to stop cars towards Florida, though better hitchhike somewhat earlier at the end of town.”&lt;br&gt;
+&lt;em&gt;―Platschi, 10 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-56.31984578881628,-33.75195540943084</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Florida</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop behind roundabout and hard shoulder for stopping traffic towards Montevideo.”&lt;br&gt;
+&lt;em&gt;―Platschi, 10 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-56.19642282480786,-34.098822928292726</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pinares - Las Delicias</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop and place to stop cars going out of town.”&lt;br&gt;
+&lt;em&gt;―Platschi, 10 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.97217993176272,-34.91880778595481</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ruta 37 y 9</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop along Ruta Interbalnearia towards Ciudad de la Costa, Montevideo. Plenty of space, cars see you early enough, though going slightly uphill.”&lt;br&gt;
+&lt;em&gt;―Platschi, 10 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-55.23838821583812,-34.79057723311114</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Punta Del Este</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just behind Devoto supermercado, there&#39;s  a great spot to hitchhike up to Maldonado or further.”&lt;br&gt;
+&lt;em&gt;―Platschi, 02 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.93886654536928,-34.93233939869658</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>La Paloma</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitchhiking spot at the entrance/exit to/of La Paloma. There&#39;s space on the side to stop cars.”&lt;br&gt;
+&lt;em&gt;―Platschi, 13 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.15944879215027,-34.64835240872376</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13993</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Crossing of Ruta 10 with Ruta 15. To Rocha, La Paloma (15) and Cabo Polonio (10). There&#39;s plenty of space on all sides to stop cars in several directions. Even a busstop with shadow.”&lt;br&gt;
+&lt;em&gt;―Platschi, 13 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“In May 2013: 5min with 4 people to La Paloma, 3min (2 people) to Rocha. Traffic low.”&lt;br&gt;
+&lt;em&gt;―Platschi, 13 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.172607709577626,-34.62536592696577</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rocha</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Best spot to hitchhike towards Montevideo is not down at the roundabout, but a few hundred meters up the hill behind the traffic lights. If one wants to be totally safe, walk towards the end of city, there&#39;s also some sort of bus stop.”&lt;br&gt;
+&lt;em&gt;―Platschi, 13 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s also a good spot to hitch hike to Chuy and the border wirh Brasil.”&lt;br&gt;
+&lt;em&gt;―Lolangarros, 16 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.32601933639141,-34.49444070626992</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>La Pedera</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 22min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Less traffic than on Routa 10, but still easy - people here give want to give you a lift - in the car or at the back of the lorry :)”&lt;br&gt;
+&lt;em&gt;―Lukasc, 25 Jun 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“in the first comment, I meant to say less traffic than on routa 9 :)”&lt;br&gt;
+&lt;em&gt;―Lukasc, 25 Jun 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“nearly no traffic! but still worth a try”&lt;br&gt;
+&lt;em&gt;―Anonymous, 31 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.13274686457917,-34.58999308021845</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14613</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Although it´s on the map as one of the main roads, not many people go here. You´re better off going to Chuy and taking the road towards Treinta Tres.”&lt;br&gt;
+&lt;em&gt;―Lukasc, 25 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-53.54596857261865,-33.91975060812521</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Chuy</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is better to go towards Treinta y Tres o inland - enough traffic to pick you up”&lt;br&gt;
+&lt;em&gt;―Lukasc, 25 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-53.48561127298715,-33.69132261510305</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Castillos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I&#39;m not completly sure about the spot,  but I guess this is the place we hitchhiked from. It&#39;s a good place especially coming from Valizas or Aguas Dulces to get a lift on the highway 9 for example to Montevideo. Cars can stop very well on the hard shoulder but there is not much traffic.”&lt;br&gt;
+&lt;em&gt;―CHK one, 04 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-53.84977376461069,-34.20090585589948</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15435</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop with plenty of space in front of it to stop cars, as well as good visibilty. For hitchhiking towards La Barra.”&lt;br&gt;
+&lt;em&gt;―Platschi, 05 Aug 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.91979067485673,-34.94529899920167</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Río Branco</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-53.403202056883984,-32.60168797742719</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Villa Sara</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“waited about 3 hours for a ride to Melo.&lt;br&gt;Little traffic, mostly local cars.”&lt;br&gt;
+&lt;em&gt;―, 05 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-54.38604927062763,-33.21016015252525</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pan de Azúcar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-55.22774791717592,-34.7804428572258</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rocha</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.319294452667364,-34.48863763845603</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Carlos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We had our difficulties, but it was probably a really bad time (a tuesday around 14 o&#39;clock..) because all way before before worked out perfectly. We finally took a bus after one hour as we had to catch the ferry in Montevideo. But if you are not in a hurry I am quite your you will find somebody in the end...”&lt;br&gt;
+&lt;em&gt;―Caroline charlotte, 28 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-54.91845703124983,-34.76535522303877</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21171</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Beginning of two-lane road, perfect to hitch out of La Barra further east along the Ruta 10 towards Manantiales / Jose Ignacio. After Manantiales, the road is easy hitchable along itself.”&lt;br&gt;
+&lt;em&gt;―Platschi, 27 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.84955434959265,-34.91506261122901</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sarandí del Yí</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just before the bridge, direction Montevideo. Low traffic”&lt;br&gt;
+&lt;em&gt;―Mino.ilmagico, 06 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-55.61887836456286,-33.344344982826215</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rocha</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bad place. We wait 45 minuts and we move to the other point.”&lt;br&gt;
+&lt;em&gt;―Manue-margot, 15 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-54.32796335220291,-34.49668448914599</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21517</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2min</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-53.80173540115308,-34.33404078940275</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21518</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bad place, cars go very fast and there is not space to stop.”&lt;br&gt;
+&lt;em&gt;―Manue-margot, 15 Feb 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Bad place but not senseless.. We succeed to find a car.”&lt;br&gt;
+&lt;em&gt;―Manue-margot, 15 Feb 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-53.88183823227725,-34.20581387686124</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rocha</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bad place. My friend and I waited for hours and we didn&#39;t get a ride to Montevideo. ”&lt;br&gt;
+&lt;em&gt;―Chlange25, 06 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-54.32895040512088,-34.49778092296853</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Montevideo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not a good spot. My friend and I waited for hours and he had to sleep in a gas station and try again next days. Besides the fact that is a dangerous neighborhood. ”&lt;br&gt;
+&lt;em&gt;―Chlange25, 06 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-56.29099702835068,-34.85110294510962</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tacuarembó</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We first tried to hitchhike to go southwards from a gas station inside the city (Ancap) but almost all drivers were returning to the city or heading north. We got a ride from there to a point outside of the city (about 5km) where many trucks stop. There were dozens of them parked on the left side of the road when going south. We waited less than a minute until the first truck went out of that parking and picked us up!”&lt;br&gt;
+&lt;em&gt;―Tatianaabreu, 30 Nov 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-55.99374389648399,-31.75814359209152</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Montevideo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“20 minutes&lt;br&gt;Cars drive too fast”&lt;br&gt;
+&lt;em&gt;―Fjlooarneas, 10 Dec 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-56.19652095794632,-34.88853537544582</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Jaureguiberry</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje pro Interbalneario:  From Montevideo catch bus number 700 which brings you directly to this place (the last stop!). It is perfect to go to Punta del Este or Cabo Polonio, Punta del Diablo ect. If you wanna go to Punta del Diablo or Cabo Polonio ect. and they can&#39;t carry you the whole way I recommend you to make sure they go for Route 9 (San Carlos, Rocha ect..) There is a lot more traffic and chances a quite high somebody will pick you up. In general the weekend works way better, but if you are not in a hurry other days should work to. Mornings and evenings work better than midday/afternoon. And like everywhere: chances are better for women... Route 10 is probably nicer and could work in summer, but we didn&#39;t try. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 28 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-55.39636230469112,-34.782980692842564</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rivera</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I don&#39;t know exactly where it is to point in the map, but I was here hitchhiking with a friend and everybody was telling us to go to the &amp;quot;virgenzita&amp;quot; (little Madonna) which is on top of a hill guess it&#39;s around 8km from downtown. People said it&#39;s comun to see people hitchhiking there. When we were walking and hitchhiking in the same time going to this place, someone stopped and took us to the aduana (customhouse) which I guess all the trucks getting to Uruguay have to stop to check their documentation. There we spent 20minutes untill a truck stopped and we asked the brazilian driver to take us. He took us to Minas de Corrales.”&lt;br&gt;
+&lt;em&gt;―Leoautostopista, 12 Jan 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“We waited about 20min for a ride in this spot called la &amp;quot;Virgencita&amp;quot;. A pick-up took us all the way to Tacuarembó!”&lt;br&gt;
+&lt;em&gt;―Tatianaabreu, 30 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-55.55141714972861,-30.942636892217227</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Montevideo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Small on-ramp, perfect for hitchhiking out of Montevideo in direction of ruta 1 or 5. Possible to hitchhike traffic on the highway as well.”&lt;br&gt;
+&lt;em&gt;―Platschi, 09 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-56.24333534328071,-34.86920489374583</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13608</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Behind roundabout there&#39;s space to hitchhike out of town. It&#39;s the last spot where traffic drives slowly until Sarandi Grande. There&#39;s also a police station, though they should be pretty relaxed. Quite some local traffic, be careful and try to get a ride at least till Sarandi Grande.&lt;br&gt;&lt;br&gt;No shadow, be aware.”&lt;br&gt;
+&lt;em&gt;―Platschi, 10 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-56.52182282476935,-33.39674173556873</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Carlos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Northern roundabout from San Carlos, at the Ruta 9. There&#39;s some space behind the roundabout in direction Rocha to stop cars.”&lt;br&gt;
+&lt;em&gt;―Platschi, 13 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“In May, two teams started here and got rides in resp. 1 and 5 minutes; first to Chuy (Brazilian border) and second to La Paloma.”&lt;br&gt;
+&lt;em&gt;―Platschi, 13 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.915316750219446,-34.76863602125038</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Maldonado</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 28min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus stop along Ruta 39. Good for hitchhiking to San Carlos, space for cars to stop, though traffic is going uphill and already speeds up. Some slow traffic coming from the road on opposite side too.”&lt;br&gt;
+&lt;em&gt;―Platschi, 27 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-54.950759460141434,-34.882121961511416</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>San Rafael - El Placer</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitchhiking spot (roundabout) just out of La Barra, perfect to hitch to Maldonado / Punta del Este. Lots of traffic, bus stop available with space to stop cars. Be aware of mosquitos.”&lt;br&gt;
+&lt;em&gt;―Platschi, 27 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:21Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-54.87293248336615,-34.9124430658822</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

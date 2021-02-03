@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Uzbekistan</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Spot 19892</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After crossing into Uzbekistan ignore the armada of taxi drivers and walk a bit further on out of their sight. There&#39;s basically no through traffic here except some few trucks coming from Tajikistan (around two trucks/hour).  ”&lt;br&gt;
+&lt;em&gt;―Tomtom, 29 Aug 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Any local car towards Denov is okay. I tried Uzun and it was more or less fast.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Nov 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>68.09288406372117,38.499637630770415</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19995</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Police check point. Good place to catch long rides (Bukhara / Samarkand). Between Termiz and Sherabad there&#39;s quite some local traffic. However, from Sherabad onwards traffic gets thin until Gusar.  ”&lt;br&gt;
+&lt;em&gt;―Tomtom, 02 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>67.00532341003313,37.6975616622298</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Qarshi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot on the road side at the edge of town. Not many villages between here and Samarkand - so mostly shared taxis.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 02 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>65.8193149566657,38.90382107670098</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20477</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Malik Raboti caravanserai”&lt;br&gt;
+&lt;em&gt;―Prochy, 04 Oct 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“5 mins and a guy took me for free because he wanted to talk.”&lt;br&gt;
+&lt;em&gt;―Prochy, 04 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>65.14695930480855,40.121670033937065</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Samarkand</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Sharisabz. Most probably you wil pay for the ride.”&lt;br&gt;
+&lt;em&gt;―Prochy, 04 Oct 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Free ride to Urgut.”&lt;br&gt;
+&lt;em&gt;―Prochy, 04 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>67.00642752647438,39.57026365962557</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21605</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>60.89941406250144,42.08200058184742</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24628</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Nice option for those who want to cross spectacular Kaynar pass.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Nov 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>66.28404273986654,38.63064764220501</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24630</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a few buses to Yangibozor. Bus turns left, you follow the road.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Nov 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.40114512443178,41.24000583030812</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kokand</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here is the main exit form Kokand to Khudjand in Tajikistan. Either try dozens of local cars or use bus to Besharyk and further (price from Kokand to border is 0,5 usd)”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Nov 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>70.9374963007196,40.518575948690696</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tashkent</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.21520614624043,41.38500797384223</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tashkent</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“it&#39;s easy to get here from metro.  lots of taxi cars passing by this place on their way to border. talk with taxi drivers and you will get taxi ride for free right till border control.&lt;br&gt;waiting time tended to zero&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.2907285690308,41.3841906293679</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Jomboy</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“here is roadpolice checkpoint located. ask policemans to get a ride for you (usually bus) or try your own&lt;br&gt;p.s. you can reach this place by taxistop. uzbek taxists able to transport you for free after short explanation about your h-hiking soul. :)&lt;br&gt;waiting time less than 30 mins&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>67.0454031229019,39.675608258883</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16348</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here is police check point located. They ot a roof where you can hide from the sun. Lots of cars to Tashkent.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 11 Oct 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“BTW. Note some people selling some goods near crossroads. They are the last chance to exchange somonis to sums and vise versa.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 11 Oct 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.20710337993242,40.550365723174515</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Termez</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Simple spot by the road side at the &amp;quot;edge&amp;quot; of town walkable from the city center. To get further out take a mashrutka (1500 Som, from close to the bus station) to Ambop - a town roughly 10 km down the road north, walk a bit and start hitching. Sufficient local traffic to Sherabad.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 02 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>67.2491898536669,37.24144582237003</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24631</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There are many buses to Hippodrome market (Ипподром). Cross roundabout, then cross police checkpoint and right after it start hitching. There is a way to cheat a bit - ask police to help you.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Nov 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>69.16257872581238,41.23481008949999</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24634</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can stuck here if your car from Tashkent goes to Namangan but you want to go further. There is one important detail about this place - there is a crossroad not far from there and drivers will show you their direction either to the right if he goes to Kokand or left if he goes to Fergana via circular road around Kokand. This gestures a bit misleading so it took a while to figure out this issue.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Nov 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>70.8111320696104,40.78211469186913</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24696</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just over the border on the Uzbekistan side.  Walk along this road with a sign and/or your thumb out and you&#39;ll get picked up sooner or later.  Plenty of trucks going in both directions.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Fend off the offers for a taxi.  You&#39;ll get a ride eventually.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 01 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>63.71787929534845,39.231842080995655</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bukhara</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just walking along this road and you&#39;ll get a ride without even trying.  As ever just make sure it&#39;s for free.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 06 Dec 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Got picked up by a taxi for a free ride to the edge of the city.  Winning.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 06 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>64.41821479797332,39.78336551138334</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bukhara</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Anywhere along this road will do.  Lots of space to pull in.  Ensure the ride is for free.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 06 Dec 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Sign for Samarkand (in Russian) got me picked up in minutes. ”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 06 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>64.4314756393425,39.81041956331086</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Samarkand</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Walk passed the taxis and there&#39;s a decent place for drivers to pull in.  Almost everyone will want money, but stick to your guns and you&#39;ll get a free ride eventually.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 10 Dec 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Sign for Tashkent had me picked up in minutes.  Make sure you tell them you&#39;re not paying.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 10 Dec 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:18:22Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>67.00969004631581,39.6758851955723</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

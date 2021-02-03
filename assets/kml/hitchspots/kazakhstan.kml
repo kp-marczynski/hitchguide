@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Kazakhstan</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Temirlanovka</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.3891441822052,42.4725915107801</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Georg?evka</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“position is right after T-liked crossroads while cars are very slow. Sometimes position is crowded by locals, so walk a bit forward. Taraz, Shymkent, Karaganda direction.&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>74.7037267684937,43.0711606855795</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Georg?evka</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“position is right after check point, take your chanse while cars are slow. many taxists asking for money.&lt;br&gt;Almaty direction.&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There might be more taxis than private cars passing, but it was still pretty easy to get a direct ride to Almaty.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 31 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>74.7046065330505,43.0747031242626</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Georg?evka</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“here is an a checkpoin with stopline. there is two option to reach Biskek from here:&lt;br&gt;1. to h-hike&lt;br&gt;2. to take a route minibus to Bishkek(20KGSoms=0,5USD in 2010).”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There are many taxis and minibuses going in this direction. Although the minibus is cheap, almost all cars go to Bishkek. You may try your chance and wait for one. Explain the driver that you are HHing, not carpooling.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 31 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>74.7011625766754,43.0237530412159</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Semipalatinsk</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 7min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“take a bus #41 from ring between two bridges on the left riverside. on the last stop called &amp;quot;Myasokombinat&amp;quot; (landmark is a park filled by military technic stuff) cross the road and wait for the bus #13. ask for &amp;quot;Kolonka&amp;quot; busstop. bus will turns left but you should follow wide 4 lane road. pass by crowd of locals trying to get lift for money and start thumbing. many taxists here, but h-hiking still doable&lt;br&gt;waiting time around couple hours depends on luck&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There is a bus 207 from busstop called &amp;quot;Center&amp;quot; located on the main street not far from citymarket and railstation. It goes straight to &amp;quot;Kolonka&amp;quot; (2014)”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 17 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>80.2750182151794,50.3559894403188</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Shymkent</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“take bus #17 from Central market till &amp;quot;Toulpar&amp;quot; lake.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.629003405571,42.383646873054</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Shymkent</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“ask for a bus to Zhybek-Zhol car market, for example, #35 or #111 from &amp;quot;Ogonek&amp;quot; near hotel Shymkent, from bus stop walk a bit along road”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.5599365234375,42.2834328286259</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Taraz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“excellent way to ask policemans to get a lift for you throughout Taraz or to Chimkent :) works great in both directions&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>71.2430763244629,42.8478260382572</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Burunday</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 22min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“ask locals how to get to AltynOrda market or use bus #303 from train station Almaty#1 (prepare to loooong ride throungh all markets of the city). at last when you will get to AltynOrda walk along road app. 500 meters till gas stations.&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“As carpooling is common in Kazakhstan, don&#39;t forget to explain the driver that you are HHing and not going to pay for the ride.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 31 Mar 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>76.7608416080475,43.2288980580627</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Georg?evka</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“here you could take a bus to KaraBalta or Sosnovka&#39;s turn because h-hiking here almost senceless. 50 soms~1USD(2010) will save many hours of waiting&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I agree, get out of Bishkek by bus saves you time.”&lt;br&gt;
+&lt;em&gt;―Kipan, 31 Aug 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>74.5606362819672,42.8781183612196</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Berdsk</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 19min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“from metro &quot;rechnoy vokzal&quot; use minibus #221 or 222 to busstop &quot;vokzal&quot; in Berdsk, then walk couple km till crossroads with roadlights. also there is speed limit 40 kmph. position is right after crossroads&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“4 Persons split up in 2 groups in dir Altay....worked quite fast”&lt;br&gt;
+&lt;em&gt;―Anonymous, 26 Aug 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>83.1290817260742,54.753322181652</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Novosibirsk</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“from metro &quot;Zaeltcovskaya&quot; take bus #1073, 1027, 1042 to busstop &quot;Lesnaya&quot;, go back to T-liked crossroads and walk 500m along road to the police checkpoint in eastern direction. Landmark is a gasstation on the right side and lots of cafe.&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There was severe changes in road infrastructure of Novosibirsk. Police checkpoint is closed. Transit traffic goes on Severnyi ob&#39;ezd (Северный объезд). Forget about this spot.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 15 Jul 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>83.0183708667755,55.1240666637134</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pavlodar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“take bus 38 from train station to Leninsky village”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 14 Sep 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>76.782408647374,52.264645209645</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Павлодар</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“here is the exit to Karasuk”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 14 Sep 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>77.021595977414,52.317243386515</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Semipalatinsk</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“from bus station take bus 12, 35 or 202.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Sep 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>80.291816362644,50.469452575243</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Taldykorgan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Use 10 bus to get to &amp;quot;Gasstation&amp;quot; stop. Walk a bit to police checkpoint. Waiting time is pure luck.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Sep 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“that was a first time after 5 years of h-hiking expirience when I just started thumbing and after 5 second stopped 2 friendly cars in proper direction :)”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Sep 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I just came to the check point and ask the track driver to pick up us to Semey in 2013. Nice.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 11 Oct 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>78.419180432798,45.04378306867</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Shymkent</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.903081568402,42.474522432829</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 8719</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>76.933093282479,43.332749289521</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 8720</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take bus 13 from Almaty-1 railstation. Watch for the police cameras above the road and stay behind them.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 25 Sep 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>76.940324595754,43.358455170044</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Balpyk Bi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 35min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“from roundabout where Medical college located and road splits on Ushtobe and Almaty directions take marsrutka #13. from the last stop on the route walk forward a bit, cross small crossroads and start h-hiking&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>78.3229923248291,44.9821940755159</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Shymkent</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“bad position. lots of locals and taxy. almost no transit.&lt;br&gt;waiting time for hours&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“after some changes in infrastructure of transport waiting here is almost senseless. better use nothern direction”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 29 Apr 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>69.6470063924789,42.333335755585</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Shymkent</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 24min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bus 71 from city center busstop Ozero goes straight to the roundabout.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 30 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.63621697677466,42.41274418262548</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13442</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>67.93615722656264,55.09100831744045</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15828</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Police check point is located here. Speed limit 40. Light. Wait car to the Almaty.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 05 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>77.94245734214817,44.34194898530333</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16342</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is the only one place worth to h-hike to from Almaty. After car flow splits here wait for direct car to Korday”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 11 Oct 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>76.64450957775054,43.21882197757007</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16349</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I like this place under the bidge and locasl too. There is a shadow there.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 11 Oct 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.35562265750534,41.49976535437035</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17979</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take the bus #24 to &amp;quot;Ondiris Road&amp;quot; and walk for a little bit. It&#39;s a good spot to HH northeast towards the Russian border.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 09 Apr 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>71.37195968628113,51.261770756504234</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Petropavlovsk</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A fine spot if you are going towards Omsk. Follow this road and avoid the city center.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 09 Apr 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.13177871704262,54.828248584726474</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20420</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On the way from Pavlodar to Karaganda there is high probability that your lift will turn here to Ekibastuz. It&#39;s okay just wa&lt;br&gt;it for another one. Also you can hide from rain under the bridge.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 30 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>75.32877588272325,51.81291663883874</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20421</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On ther way from north to Bishkek you got option to go to Almaty and lost 4-5 hours or turn to Chy. Waiting time is pure luck.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 30 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>74.02494871616769,44.9198793273231</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20422</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Do not ride to Korday on the way to Almaty. Use this place to get direct car to Almaty. Car are passing fast but some friendly drivers will stop anyway.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 30 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>74.2346383101445,43.27993147833154</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sary-Ozek</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitching here is pure luck.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 30 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>77.94689446846584,44.34567325168246</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20725</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Towards Zharkent. After crossing the border, just walk 15 minutes until you come to the end of tow. Traffic is very low. Unlike in China. make the money issue clear before you get in the car.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 29 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>80.37349605560968,44.228153760846844</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Turkestan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Wanna hitch through spectacular Karatau mountains? Nice place to start doing it is right here.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 24 Nov 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>68.30880477428104,43.31809162267509</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27165</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot to district Actobe”&lt;br&gt;
+&lt;em&gt;―Mix-punk, 22 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>51.49556779861183,51.1297242795847</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Maloye Ganyushkino</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“My girlfriend and I were spent here more than an hour and finaly got a local bus (Atyrau-Astrakhan&#39;). No one stopped here. Most of the cars are local. Traffic is medium.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>50.108642578125,46.7475087210167</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Taraz</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 12min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“ask a bus to Busstation (&amp;quot;avtovokzal&amp;quot; in russian). then walk a bit along road with 4 lanes. since empty field starts start your thumbing&lt;br&gt;waiting time less than 1 hour&lt;br&gt;&lt;br&gt;siberian_explorer”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>71.4244472980499,42.9212663100864</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Караганда</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Generally hitchhiking in Karaganda is bad, bad, bad. Many times I stood there for hours.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 04 Dec 2010&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“take a bus to Southern bus station, them walk from crossroad till the city ends”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 14 Sep 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>73.160658024577,49.762414701359</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Тараз</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“here is Zhansaya district bus stop located, ask a locals about transportation. beware lots of drivers asking for money even if you clearly explained that you are got no money”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 14 Sep 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>71.325892948012,42.897734433628</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Aktau</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Near the entrance of the sea port, there is a tiny cafe run by a woman named &amp;quot;Asia&amp;quot;. It&#39;s the waiting place for all truck drivers coming from Azerbaijan by ferry and most of them are Turkish and Georgian, so speaking Turkish or Russian helps a lot. Ask these gentlemen nicely and you may find a direct ride all the way to Almaty. It will take you around 4 days however.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 31 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>51.23015785217505,43.609362268158804</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Turkestan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just checked out the mausoleum and now you want to head towards Shymkent-Almaty? Just walk for about 5-10 minutes from the mausoleum and you can start HHing. Explain the driver that you are hitchhiking or travelling without money/paying.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 31 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>68.3312358856206,43.27664711576321</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kokshetau</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Terrible terrible place! Don&#39;t let the driver drop you off here and go through the center on Kokteshau even if you have to walk. This road is deserted and there are few cars passing by.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 09 Apr 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>69.62513351440631,53.22645271298139</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18927</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“While hitching north there is high probability that you will hitchhike after Ucharal&#39;s police checkpoint as almost 90% of cars turn to Ucharal. I guess wait here is more comfortable than closer to that checkpoint. First, here is a river and you can fresh yourself anytime. Second, you can stay at night near the river. it&#39;s better that sleep on sand. Third, road on the bridge is in vary bad condition so cars cross bridge at 30-40km/h. Forth, police in Kazakhstan may ask you some stupid questions and finally bring you some thoubles.&lt;br&gt;&lt;br&gt;P.S. Hitchhike at lest to Urzhar turn otherwise you will spend some time in the desert with no water around.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 17 Jun 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Hitched nice overnight car directly to Semey in autumn 2014.”&lt;br&gt;
+&lt;em&gt;―Siberian explorer, 30 Sep 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>80.86335593461648,46.204132669564956</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20994</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good traffic and a lot of cars stop for us, but most of them asked for money. When we said &amp;quot;no money&amp;quot; they passed through. It took about an hour to move from this place and it was, I think, the twenty-fifth car who agreed to go without paying money.”&lt;br&gt;
+&lt;em&gt;―Bookvachka, 02 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>77.02725791931235,43.32188810523795</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Сарыагаш</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:08Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>69.19823312759384,41.473269016461856</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

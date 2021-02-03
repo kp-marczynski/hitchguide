@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: South Africa</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Saldanha Bay Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 38min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“pretty solid, people take pity on you around lunchtime”&lt;br&gt;
+&lt;em&gt;―Woolleywoolleywoolley, 12 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>17.952312469480326,-32.97818930444023</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kou-Kamma Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“got a ride from just by the toll plaza within half an hour to PE”&lt;br&gt;
+&lt;em&gt;―Woolleywoolleywoolley, 12 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>23.904005527494743,-33.831205889200014</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sol Plaatje Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Perfect hitch-hiking spot to get out of Kimberly in any direction. A big ultra city gas station that is used by most of the passing traffic. ”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>24.77937126159539,-28.691768456208663</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ramotshere Moiloa Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I was asking at the local gasstaions and i was lucky to find somebody after a while.”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>26.08294630050734,-25.54479823404014</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20319</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“By a service station and just after the lights. For hitching along the N2 or the Garden Route.&lt;br&gt;&lt;br&gt; Take the train to Strand, but get off the 2nd to last stop (Van Der Stel). You don&#39;t necessarily have to use this spot, as there&#39;s a few interesections with lights and shoulder to pull over onto. Locals will be all over them.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 23 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>18.86119992836275,-34.1082952578763</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Emnambithi-Ladysmith Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“very slow going- gauteng number plates will not stop, KZN generally want a very generous taxi-fare- as you get closer to the Drakensberg it gets easier”&lt;br&gt;
+&lt;em&gt;―Woolleywoolleywoolley, 12 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>29.835850238799505,-28.619708083991075</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Lephalale Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.86009216308608,-23.509508745479476</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Lephalale Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.86009216308608,-23.509508745479476</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>George Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Careful of some people who pick you up, they might just end up taking you to the minibus station and refuse to take you back here! Must be working for them...”&lt;br&gt;
+&lt;em&gt;―Kidp3, 30 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.519909739494985,-33.99203196415021</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bloemfontein</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>26.18261718750007,-29.113676629150255</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Drakenstein Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I planned to ask people at the toll station but i was not allowed to. so i had to wait next to the highway and it took me almost two hours in the early morning till i found somebody”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>19.01787900925001,-33.74209054025121</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Breede Valley Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A big Ultra City station with a lot of traffic stopping here. Try to get to this place if you want to head up to Jo´burg”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“the location that i set on the map might be not really exact&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>19.43214082718141,-33.62867666090071</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ubuntu Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here is the big Three sisters Ultra City. I guess it must be a good spot to switch on the different highways”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>23.082777500152297,-31.886007091762732</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rustenburg Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I took a local bus from Pretoria to get to Rustenberg and after i tried several spots there i came here and it was fairly easy. Passing traffic will get gas here. Good spot ”&lt;br&gt;
+&lt;em&gt;―Schworze, 19 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>27.25365543365688,-25.703755547281485</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ba-Phalaborwa Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Within the park, most of the residents are pretty willing to help, racism is still an issue and my white driver did keep mentioning that I (also white) should be careful who I got in a car with.”&lt;br&gt;
+&lt;em&gt;―Aya, 20 Apr 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>31.642524540425466,-24.0188212467083</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mossel Bay Local Municipality</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 50min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s a bit of a walk from the centre. Lots of room to stop and a steady amount of cars. Not many people pull over though, and those that did asked for money.&lt;br&gt;&lt;br&gt;If you&#39;re willing to pay, R20 seemed to be the normal amount people were paying to George. I waited almost 2 hours for a free one.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 30 Sep 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:17:14Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>22.099870443343853,-34.14204538613048</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

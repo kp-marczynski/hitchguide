@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Georgia</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Kaspi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“GUDAURI&lt;br&gt;&lt;br&gt;You can reach Gudauri from Mtskheta Highway by Hitchhiking. or you can take a Minibus from Tbilisi. (Gudauri is the most popular ski resort in Georgia.)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.4808959960938,42.4781743024215</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kaspi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“KAZBEGI (STEPANTSMINDA)&lt;br&gt;&lt;br&gt;Kazbegi is in the North of Gudauri Ski Resort. If you need hostel to stay, choose the hostel called &#39;LOMI&#39; which is in the center of Kazbegi. It costs 15 GEL ($10) per night. If you need to come back to Tbilisi try to hicthhike or take a minibus from the same Kazbegi center. Minibus to Tbilisi costs 8 GEL ($6). If you need any help, ask for it to the friendly Police Officers in the Police Station.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“USD-GEL exchange rate has changed, so the listed prices are even cheaper now ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 03 Apr 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.4818830490112,42.4781109992839</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Khashuri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“DO NOT get off in the center of Khashuri because its a disaster to get out of it. if this happens stop Taxi and tell him to give you a ride till RIKOTI way. Taxi may cost some $7-8.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“we walk from the train station to the crossroad near the gas station, there is a police station around. The walk took 30 minutes”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 07 Nov 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Yes, if you want to go to Kutaisi it&#39;s a long(ish) walk out of town. Not much space for cars to pull over, but, try anyway. ”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.5978698730469,41.9768481945469</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 6983</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 12h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“started from ushguli at 10 am, walked down 35-40kms and 6pm we finally fit into the 4th car. pretty low traffic, but it&#39;s possible and fun!”&lt;br&gt;
+&lt;em&gt;―Pite, 29 Nov 2010&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Roads are almost deserts, me too i walked a lot and the day after picked up by tourists jeeps. anyway amazing sights definitely worthy!”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Walked on the road back towards Mestia for 4 hours. Nice scenerey. Got picked up then by a priest in it&#39;s 4WD. Thank god. Haha.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.162545202893,42.856608071362</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7181</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 17min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“from gori to west georgia. you canget out from the centre with a bus.”&lt;br&gt;
+&lt;em&gt;―Pite, 10 Jan 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.077363012209,42.015727193472</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Telavi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From here you are visible to drivers from a distance and there&#39;s plenty of space to pull over safely.”&lt;br&gt;
+&lt;em&gt;―Dutchswede, 02 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.511069237323,41.920799103469</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.740907190851,41.709357168864</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kutaisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>42.670907020559,42.257162564815</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9106</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.244156837447,42.021295063455</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9316</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>44.122862457272,42.019019997415</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.7673430429,41.811459781841</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.77233195167,41.811295850115</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9896</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.680267809439,42.048201458683</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9897</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.74554204803,42.0325921166</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction: Kakheti, Azerbaijan. metro station Samgori. take the north exit, otherway you need to cross te railway tracks. taxis, marshrutkas, people are waiting here. if nothing picks you up, take the bus #37, what goes on the motorway and leave it when it exits for the airport.”&lt;br&gt;
+&lt;em&gt;―Pite, 23 Jul 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>44.85608124732908,41.68663451113557</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11276</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction: gal/i, zugdidi.&lt;br&gt;trolleybus #2 takes you here.”&lt;br&gt;
+&lt;em&gt;―Pite, 29 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.07182405749117,42.965058692125005</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11277</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“border point between abkhazia and georgia. possible to hitch, however locals are taking marshrutkas both ways to gal/i and zugdidi.”&lt;br&gt;
+&lt;em&gt;―Pite, 29 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I guess trespassing this particular border is prohibited due to military conflict involving Russia. I know that people travel Batumi to Sochi by ferry. How could you enter Abkhazia in this manner? ”&lt;br&gt;
+&lt;em&gt;―RWhite, 13 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>41.851467116267415,42.58245768007541</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kutaisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction: tbilisi.&lt;br&gt;after the big bridge there&#39;s a petrol station and some place to stop.”&lt;br&gt;
+&lt;em&gt;―Pite, 29 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.70967818563364,42.24671248326927</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Makhinjauri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Taking bus numb 10 or 101 from citycenter, this is the last stop, u have also a nice beach (small rocks..) to camp in the night. lots of traffic, easier cars than trucks (long ways, turkey-azerb so hardly stop)”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“we got a hike to Kobuleti”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 01 Nov 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I was going to Poti but the first driver took me only to Kobuleti. It was a real problem to get out of town so I catched a bus to the Poti turn.”&lt;br&gt;
+&lt;em&gt;―363maks, 03 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Sign for Gori had us picked up literally in seconds for a lift the whole way.  Great spot.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 05 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.68441200256389,41.6692456372968</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11930</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.78206586837882,41.97123714061855</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Poti</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just out from industrial area, harbour; not enormous traffic but good.”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.67724514007624,42.17263200535302</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Zugdidi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Going north to Mestia, at least till Lia and Jvari very easy also after doable”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Agree. Indead quite doable to hitch to Mestia (first ride got me to Lia, second to Jvari and then on to Mestia all the way). Expect some waiting times.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.870171070099325,42.52570112016589</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Jvari</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we got a hike even at 5pm, kind of lucky that late, we arrived 9km from Mestia at 10pm”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Hiked here starting around 7:20pm and got a ride with a guy who invited me to stay at his uncles for the night, 70km from Mestia. Next day, they drove me to Mestia :)”&lt;br&gt;
+&lt;em&gt;―Kidp3, 14 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.04116725921682,42.72600795064965</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mtskheta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to Batumi”&lt;br&gt;
+&lt;em&gt;―Jimih, 21 Oct 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Alternatively stand 600 meter before on the shoulder of the highway (on the other side of the river, close to exit to Mtskheta). Take Mtskheta-mashrutka and tell driver to stop there. Good enough place with lots of traffic.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.7325816154493,41.83221174810563</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12168</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I&#39;ve waited some time but hitchhiking is okey there.”&lt;br&gt;
+&lt;em&gt;―Nero12, 28 Oct 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I think it bit dangerous there, its occupied part of georgia, by Russia and there are a lot criminals.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Anonymous, 29 Apr 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.96192932128856,42.255796736365895</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12169</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot looks preety good but russian cars dont like to pick up.”&lt;br&gt;
+&lt;em&gt;―Nero12, 28 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>44.63366174697917,42.68396180707072</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13769</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 53min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot on the roadside. But basically just walk along the road until you find a suitable place to thumb.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 24 Apr 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Not much space for cars to stop on this stretch of road. But this is Georgia, so it still works somehow. Direct lift to Kutaisi in 45 minutes.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“We spent on this road 2 hours. We wanted to go to Kutaisi. The road was crowded, but noone didnt stop”&lt;br&gt;
+&lt;em&gt;―Roman ua, 31 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>43.57414627075004,42.01506189715974</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kutaisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Inbound Tbilisi and further (Azerbaijan or Armenia).”&lt;br&gt;
+&lt;em&gt;―Longhaul, 12 Jun 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“This spot is great to find rides inbound Tbilisi and further; plenty of space for both cars and trucks to stop and all the traffic passes by this point. I got a first class ride from here from a driver headed to Baku, Azerbaijan. If You have questions please use the &amp;quot;Contact Me&amp;quot; section on my website www.claudioadrianodobre.com to get in touch with me. Hit the road hard ;)”&lt;br&gt;
+&lt;em&gt;―Longhaul, 12 Jun 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.713887691497575,42.23063583279116</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14647</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a good spot after the right turn on M27 just outside town. It took no longer than 1 minute to get a ride towards Novy Afon.”&lt;br&gt;
+&lt;em&gt;―Gubar, 27 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>40.98017120361073,43.02543574717574</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14793</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you&#39;re going to Armenia and you&#39;re at this spot you&#39;ve taken a little detour. But no problem, cars will stop pretty fast. If you have no luck, however, try walking up to the first gas station before Rustavi on the east-side of the road. The men working there are very friendly and will help you get a ride :) ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 06 Jul 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Anywhere along this road is pretty decent.  Got a ride in a few minutes with a sign for Baku.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 12 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.9464309215544,41.59561658308954</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot for going to Marneuli or Armenia”&lt;br&gt;
+&lt;em&gt;―Podz, 06 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.8881900134726,41.65980252931889</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14795</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“When going to Armenia, it might be a good idea to find a ride before Sadakhlo, as most people will feel uneasy if a foreign-looking, strange person with a backpack wants to cross a border with them. Still, with some patience, you will always find a ride :) ”&lt;br&gt;
+&lt;em&gt;―Podz, 06 Jul 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“a bus from Marneuli to Sadakhlo picks up people along the road and it can even take us to the border post. It costs 1 GEL a person. Hop on when you see that bus.”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 11 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.80206215056638,41.23818729945883</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15970</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“not much traffic (except taxis), so you might need to walk till the first settlement (Lagodekhi).”&lt;br&gt;
+&lt;em&gt;―Pite, 14 Sep 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“In the other direction towards Zaqatala I got a lift after 30 minutes. But yes, not much traffic here and some annoying taxi drivers around.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>46.30981504917293,41.79140356672805</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 15971</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“if hitching from Sighnaghi to Tbilisi consider visiting Bodbe monastery. 2 kms from Sighnagi, almost on the road. hitching is easy, as anywhere else in Georgia.”&lt;br&gt;
+&lt;em&gt;―Pite, 14 Sep 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.92458546161753,41.610175107774886</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kobuleti</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“it is a small bus stop after a road junction that transport slows down”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 01 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.77438402176036,41.81670137718239</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Poti</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to Zuldidi”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 01 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.68945455551287,42.15251173242834</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16649</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.79682874679677,42.22350057238213</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16650</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.81875848770237,42.37286450775465</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mestia</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“after the ethnographic museum. Unlikely if it is a good looking 4x4 taking tourist, these vehicles ask for money for sure. We got a truck doing road construction and went 10km ahead uphill and hike on...”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 01 Nov 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“The other direction out of Mestia towards Zugdidi: walk out of town and expect long waiting times (&amp;gt;1h). But possible with an early start.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.72740507126087,43.04034017630727</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16652</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“there is meadow and water to camp overnight. We got a van taking construction workers for road ahead and got another 10 km”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 01 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.76308917999552,43.04115567860079</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16653</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to Ursguli, and had meadow and water to camp, transport slow down before up hill, we got another construction truck going near the pass, so we can walk downhill after that”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 01 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.82342815399433,43.042755286230914</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16654</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“very little transport, but a homestay nearby for rest”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 01 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>42.90981674194697,42.93878830192481</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16655</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.92162919044824,42.93112194338634</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16656</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we finally got a police car at 7pm, meadow for camping, but away from water”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 01 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>42.97421121597587,42.91460775391652</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bakuriani</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“back to Borjomi”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 07 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.53002929687614,41.74770671004844</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Borjomi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we take a bus to Likani (only 0.4 GEL every half hour), left the town to the end and hike on to Akaltsikhe. As many cars along the road go to nearby town.”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 16 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.378645420075614,41.840349192166315</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Borjomi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to Akaltsikhe”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 16 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.352037906647325,41.82843843672555</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16985</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“we like this corner because all vehicles to Tbilisi or further (even to Istanbul !!!) slow down here for the turn.”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 11 Dec 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.20378398895489,41.82632784353814</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mtskheta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Just randomly thumbed on our way to the centre and a car stopped.”&lt;br&gt;
+&lt;em&gt;―Prochy, 20 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.70477247238217,41.83977368984896</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mtskheta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 22min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Kazbegi”&lt;br&gt;
+&lt;em&gt;―Niklavs, 27 May 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“On the &amp;quot;highway&amp;quot; without any problems to catch a direct ride to Kazbegi.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Just walk past the off ramp and once the smaller highway starts, there is plenty of space for someone to pull over. Never waited more than 20 min here (10+ times)”&lt;br&gt;
+&lt;em&gt;―TBF, 14 Feb 2017&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.71876823902298,41.89443427998177</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20495</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“In front of the airport. Possible to hitchhike in both directions, just be ready to say NO to a lot of taxis ”&lt;br&gt;
+&lt;em&gt;―Niklavs, 06 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.46594333648612,42.183047498085</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20496</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction to Tbilisi. Good spot with place to stop.”&lt;br&gt;
+&lt;em&gt;―Niklavs, 06 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.62034463882439,41.98999553348496</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Akhalkalaki</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction to Akhaltsikhe”&lt;br&gt;
+&lt;em&gt;―Niklavs, 06 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.48507547378517,41.41458379958778</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Borjomi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hard place to leave Borjomi for a north (but there no other way). A lot of traffic, but cars dont stop easy”&lt;br&gt;
+&lt;em&gt;―Roman ua, 31 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>43.40595436095883,41.84806595057564</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mtskheta</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Bad option to leave Mtskheta for a north”&lt;br&gt;
+&lt;em&gt;―Roman ua, 31 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>44.7203226089441,41.8513905727213</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tkibuli</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I used this spot several times to hitchhike to Racha region. Get somehow to Tkibuli from where you simply walk, wald, walk and waive your hand on the way. Within the city, most people are likely to stay within the city. When you approach the end of the city, chances increase that somebody drives to Racha. Be aware, though, that this road is not really frequented. Once you are outside the city, cars are extremely likely to take you with them.”&lt;br&gt;
+&lt;em&gt;―Sattleryan, 01 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.00756716727924,42.364581091293324</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21929</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot for direction Oni!”&lt;br&gt;
+&lt;em&gt;―Sattleryan, 01 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.150131940839714,42.52589879175058</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sadakhlo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Yerevan. We walked from the border (one guy, one girl) and got a lift with a Turkish truck driver after around 30min. We were waiving our hands up and down all the way to this place”&lt;br&gt;
+&lt;em&gt;―Sattleryan, 01 Apr 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I walked out of the village clustered around the border. Traffic trickles out, but the 2nd car stopped.”&lt;br&gt;
+&lt;em&gt;―Kidp3, 20 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.84794878959616,41.23077891175521</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Khelvachauri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Only from May to August spot direction to Borjomi”&lt;br&gt;
+&lt;em&gt;―Illia tsarenko, 04 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.63653993606442,41.598407602342775</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Khashuri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.58427429199164,41.99686903688048</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Rustavi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.962371826173175,41.56693293671856</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Stepantsminda</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I hitchhiked from here to Gudauri with 3 people at 23:00 with almost no traffic on the road. A police car picked us up, was only going halfway to Gudauri so he pulled over every passing car until he found a truck that would take 3 hitchhikers. It wouldn&#39;t have been possible without speaking Russian though.  ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 24 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>44.64082860946772,42.65061529751831</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pasanauri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.68923711776711,42.351809014573824</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gori</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.103571414946494,41.98446110622545</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Akhaltsikhe</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>43.00712728500564,41.648485024846</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22676</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place to get to Tbilisi. Got a ride in 10 minutes”&lt;br&gt;
+&lt;em&gt;―Rolfw93, 03 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.84552764892354,41.68271746417044</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kvareli</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a gas stop and a bridge. If you stay there, you can get a ride towards Gurjaani, or even Tbilisi.”&lt;br&gt;
+&lt;em&gt;―Rolfw93, 03 Jun 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.823340415952536,41.930488245974416</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23798</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Ninotsminda”&lt;br&gt;
+&lt;em&gt;―Pachapski, 27 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.281356334688766,41.48093751980859</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ninotsminda</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction to Armenia”&lt;br&gt;
+&lt;em&gt;―Pachapski, 27 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.59717035293362,41.26277976215108</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23800</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.7463172674146,41.188925079466294</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24268</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Nikortsminda is a historical village in Racha, Georgia (country) with XI century church in a village center, near a village are cave ,,Sakinule&amp;quot; and cave swimming pool cave, the river originates it&#39;s river ,,Sharaula&amp;quot;. Also there are ,,Shaori&amp;quot; reservoir and place ,,Leknari&amp;quot; for two days hiking. Hitch Hiking is very easy in Nikortsminda, almost every point are good for stop a car and go to Oni or go to Batumi or Tbilisi through Terjola. ”&lt;br&gt;
+&lt;em&gt;―Amamio, 01 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.08726096152961,42.462358689509486</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24278</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place to start going down south from Mestia, right after the gas station. Some cars might ask for money, so ask beforehand. We waited not even 10 min.”&lt;br&gt;
+&lt;em&gt;―Hereandthereandstuff, 02 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.70811462402386,43.03999515284486</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Zugdidi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Maybe not the best spot space-wise, but good enough for the cars to stop. Good point for going down to the coast (Poti - Kobuleti - Batumi). Waited 10 min.”&lt;br&gt;
+&lt;em&gt;―Hereandthereandstuff, 02 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.86118030548023,42.49637554608704</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Poti</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Towards Kobuleti. Good spot, plenty of space for cars to stop in front of some factory. Waited 15min.”&lt;br&gt;
+&lt;em&gt;―Hereandthereandstuff, 02 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.68409013748124,42.15981302955852</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24282</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To Kobuleti - Batumi. Just before the police station there is a good spot. Waited 10 min.”&lt;br&gt;
+&lt;em&gt;―Hereandthereandstuff, 02 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.78082132339454,41.99474805817629</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24870</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“easy to hitchhiking.”&lt;br&gt;
+&lt;em&gt;―Amamio, 09 Jan 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.08834457397481,42.46081526735717</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you get a marshrutka to Carrefour, it&#39;s very easy to hitchhike north or east from just after the mall. There are a few spots with space for a car to pull over. This spot is often crowded with hitchhikers, but is still incredibly easy to get a ride. Last time I was there, a guy took 6 hitchhikers in his car and another car pulled over just behind him to take the other 2. ”&lt;br&gt;
+&lt;em&gt;―TBF, 03 Apr 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.77154338360146,41.819050160564174</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26353</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a small parking lot here with plenty of space to stop for people. ”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 07 Jul 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Sign for Tbilisi got me picked up within 20 minutes.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 07 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.826872110368186,42.209833668666356</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27343</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I had to wait for 1 h 30 min to get a ride to the Azeri border (Taxi), expect lot of taxis”&lt;br&gt;
+&lt;em&gt;―Nadjib, 02 Sep 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>44.95400333404757,41.57948612130746</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Batumi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Got a ride to Tbilisi after waiting for 2 hours, lot of cars and some anoying taxis.”&lt;br&gt;
+&lt;em&gt;―Nadjib, 03 Sep 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.65244007110397,41.646047819114784</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“if you want to catch the ride for Kazbegi (Stepantsminda) which is in the Northern Georgia, the Mtskheta Highway is the best way to Hitchhike. Hold the Kazbegi sign with a little smile and you&#39;ll get the ride, though it may take some time. be patient and you&#39;ll get the ride.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.7061157226562,41.838874161869</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“if you want to Hitchhike from Tbilisi to west, to the black sea coast, first you should get out from Tbilisi by bus. You can take #84 bus from Tsereteli Avenue or #64 from Chavchavadze Avenue which goes out from Tbilisi and drops you on the main highway from which majority of cars go to the west of Georgia. You should get off bus on David Agmashenebeli Kheivani (Valley), the best one is to get off at Lukoil Gas Station and take a walk about 150 metres and start to hitchhike. You can say Hello in Georgian &#39;Gamarjoba&#39; to the driver and ask for the ride. &#39;I have no money&#39; in Georgian is &#39;Puli ar mak&#39; so you can use this phrase as well in hitching in Georgia. Drivers are super-friendly so you won&#39;t have any probs.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There is written that there are buses #84 and #64, but you can take any bus to Digomi district or Zahesi district or you can use metro to Didube station and from bus station take bus to agricultural university. I start hitch-hiking after Gldani turn (there is long bridge, so you will see it). after there is several turns but in most of cases drivers are keeping the main road.”&lt;br&gt;
+&lt;em&gt;―Koshma, 20 Jun 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.7967529296875,41.7098294250996</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gori</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gori Highway is the best place to hitchhike if you&#39;re going to the western Georgia especially. A lot of trucks and cars are passing this highway so you&#39;ll catch the ride easily. You can even catch the Turkish trucks going directly to Turkey so pick that up.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.110107421875,41.9686802681273</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>წყნეთი (Tskneti)</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction: Tsalka, Ninotsminda. take bus #34 (from Vagzali, train station) till the end (Tskneti). most of the people use not this, but the Marneuli road. however there&#39;s enough traffic to leave the city and it seems easier to get to the spot.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 17 Jul 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.69407638519312,41.68500852810055</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11345</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction: omalo (tusheti). some guidebooks say there&#39;s a green kamaz driving to omalo almost every morning. i  was lucky, i could hitch it by around 9 am. otherwise there are almost only fully packed jeeps driving through the pass.”&lt;br&gt;
+&lt;em&gt;―Pite, 31 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.43873214721667,42.09066351287523</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mestia</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Pretty low traffic and lots of tourists. I was asked for money, so maybe better asking before &amp;quot;ara puli?&amp;quot;”&lt;br&gt;
+&lt;em&gt;―Fedecicco, 12 Oct 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>42.72723340988094,43.0363879731786</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>New Athos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Long straight section of road after the train station. Not perfect for cars to stop but there is no traffic so it&#39;s no problem.  I hh&#39;d towards Sukhum. It took no more than 5 minutes for me.”&lt;br&gt;
+&lt;em&gt;―Gubar, 27 Jun 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>40.84227883815748,43.07921737513711</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14792</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It is probably best to walk to this spot when coming from the airport, because 80% of the traffic are taxis. From this junction on you can start hitchhiking to the west (to Tbilisi) or east to Armenia or Azerbeidzjan. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 06 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.95206356048509,41.692282584695306</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16657</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“near the school, central spot for all villages around. you will be asked for money, but good to try hitch hiking for free, either going east or west, as all vehicles stop here, either loading or unloading people/goods”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 01 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>43.00976657867781,42.9154249254192</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16986</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“take bus 44, after the bus makes enters the settlement, we cross the highway to hike from there to Armenia. There are some vans along the road selling fruits. Vehicles stop by and slow down some traffic”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 11 Dec 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Yes, not a problem to catch rides direction Armenia from here.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Many cars, even though a bit fast! still works somehow!”&lt;br&gt;
+&lt;em&gt;―Sattleryan, 01 Apr 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“just arrived there and a guy ask me if he can help me..”&lt;br&gt;
+&lt;em&gt;―Anonymous, 23 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Great spot.  Super easy.  Sign for Yerevan got me picked up in 5 minutes.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 31 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Most traffic is going to Marneuli, but it&#39;s fine to accept a ride until there and from there hitch on to Armenia.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 07 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.893374681475194,41.64471693759933</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18446</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It makes sense to try hitchhiking right after a small petrol station, many locals from Vale come here to refuel. Traffic on this road is poor. I hitchhiked twice here and both times I walked almost to Naokhrebi to flag down a car. ”&lt;br&gt;
+&lt;em&gt;―Mpetrovic, 18 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>42.825091123575895,41.59393852461296</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction to Gori or Kazbegi. You can take the 11th bus to get here.&lt;br&gt;There isn`t a lot of place to stop, but Georgian drivers stop anyway (3 in a row for us :) )”&lt;br&gt;
+&lt;em&gt;―Niklavs, 27 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.771570205691454,41.82917393012294</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Akhaltsikhe</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“As usual: just walk a bit out of town and start thumbing. This is Georgia - so drivers will stop for you even though there&#39;s not too much place to pull over. ”&lt;br&gt;
+&lt;em&gt;―Tomtom, 19 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.017748832700825,41.654176823839315</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Batumi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Spot within walking distance of Batumi that can be used for Turkey”&lt;br&gt;
+&lt;em&gt;―HoboSpirit, 10 Jan 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“You can hitchhike just after the fork. It took around 30 mins to get a lift to the border with Turkey [Blog Post](http://www.hobospirit.com/hitchhiking-from-batumi-to-trabzon/)”&lt;br&gt;
+&lt;em&gt;―HoboSpirit, 10 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.61089801788229,41.62422109878157</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21433</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Directions to Kutaisi - be ready to spend on the road more than 3 hours. This place is not like other Geirgia and I dont know why”&lt;br&gt;
+&lt;em&gt;―Roman ua, 31 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.52347803115614,42.03196249503212</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21926</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Depending on the season, this is a great spot to hitchhike to Tbilisi. I did it couple of times. As Ananuri itself is a pretty popular tourist destination (and other people will come from Pasanauri or as far as Gudauri and Kazebgi) there should be plenty of opportunities to catch a ride. It is not the perfect location though and people will drive a bit fast )) Enjoy!”&lt;br&gt;
+&lt;em&gt;―Sattleryan, 01 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.70181131362913,42.16319297444514</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pasanauri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Somewhere over here, there is a small bus stop. You can simply wait there, waive your hand up and down and wait until somebody will pick you up. Got a ride as a group of 4 within 30min with just little traffic in summertime.”&lt;br&gt;
+&lt;em&gt;―Sattleryan, 01 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.694268941879734,42.344839170480796</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Marneuli</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“All along this road there are places to stop.  A Sign for Yerevan is very useful.  Plenty of traffic going in all directions.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 31 Aug 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Walked a short distance down this road to find a better spot, and I was picked up and taken all the way to Yerevan.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 31 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.79895019531146,41.486258316966705</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24280</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Right after the roundabout direction Poti - Kobuleti - Batumi. There might not be plenty of space for the cars to stop right after the roundabout, but this is Georgia and they always find the way :) . We were walking to cross the roundabout when a car offered to take us, so no waiting time at all!”&lt;br&gt;
+&lt;em&gt;―Hereandthereandstuff, 02 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.9986596107472,42.25596349607723</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25273</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I was this spot many times, I always go  back to Tbilisi from there I sometimes go to short stops and sometimes long stops to Terjola or Tbilisi. From here is important go in central highway and then go Tbilisi way or Batumi way.   ”&lt;br&gt;
+&lt;em&gt;―Amamio, 23 Mar 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>42.97246313095104,42.328983125997816</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25384</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can hitchhike from literally anywhere along this highway between Tbilisi and the Russian border. People will stop everywhere, even when there is nowhere to pull over. Hitchhiking from Gudauri towards Tbilisi I never waited more than 15 minutes (10+ times) ”&lt;br&gt;
+&lt;em&gt;―TBF, 03 Apr 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.48686981201316,42.45866232778026</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tbilisi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s easy to hitchhike North or West from anywhere along this stretch of road. Bus 14 (from Rustaeli metro) and marshrutkas 32 and 41 stop here, among many others. You need to be careful to get off the bus here (tell the driver!!) because if you miss the stop the bus turns around and, you&#39;ll have to cross the busy highway or walk 10 minutes north to an underpass. If you&#39;re going north towards Gudauri/Kazbegi and a car going West stops for you, it will be really helpful to ride about with them to the turnoff where the road splits towards Gudauri/Russian border. Many cars will drive away when you tell them you&#39;re going to Gudauri because they think they can&#39;t help you, so if you&#39;re not good at Russian, try to sign language that you want to go to the turnoff to Gudauri and have them take you there. ”&lt;br&gt;
+&lt;em&gt;―TBF, 03 Apr 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.770266652109896,41.78969917580267</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Batumi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The road leaving Batumi, opposite the port. Use a sign for Kutaisi or Tbilisi. The road is broad with no clear indication or lines but Georgian drivers are crazy so they&#39;ll stop anywhere.”&lt;br&gt;
+&lt;em&gt;―HolyDrinker, 07 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:52Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>41.65645265579493,41.64616006087926</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

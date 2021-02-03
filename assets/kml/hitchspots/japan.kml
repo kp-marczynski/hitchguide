@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Japan</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Nakama</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I waited for 45 minutes. But the drivers helped me to search the next car.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>130.760715007782,33.8418512311064</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tosu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I waited in Tosu interchange, and looked for a right car for cc. 1 hour. Finally a family looked me, and invited me to their car. ”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>130.5384349823,33.3913732229007</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Fushimi Ward</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>135.75301462412,34.962928392216</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Machida</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 29min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Most drivers wouldn&#39;t look at me, or would just smile and go, the truck driver that gave me a ride told me that hitchhiking is not that common - he only took me because he was used to hitchhiking from Australia”&lt;br&gt;
+&lt;em&gt;―Pax, 02 Jul 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Within 10 minutes, someone walked up to us and offered to take us all the way to Kyoto. It&#39;s a big place - don&#39;t go there too late though, or you&#39;ll mostly find cars with sarary men taking a nap.”&lt;br&gt;
+&lt;em&gt;―Matsumoto Joe, 27 Nov 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I got a ride in about 20 minutes to Shizuoka. Great spot.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 27 Jul 2017&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>139.5333870649428,35.53549188009875</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>蓮田市 (Hasuda)</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hasuda SA. Easy access from the Utsunomiya line. Need to jump the fence, but it&#39;s low and there are some convenient bushes to hide you.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 05 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>139.66666555404962,36.00011025007124</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mibu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>139.80680561066507,36.45470522228268</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nagasaki</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I waited for 40min at 9h in the morning on a Sunday. Then got ride to Fukuoka (I was heading Osaka).&lt;br&gt;I asked the driver to stop in a car park on the highway. Although is prohibitted is the best place to get a ride. I rode to Osaka from Nagasaki with 4 different cars, wating an average of 20 min from car to car. Hitchhiking in Japan is great!!”&lt;br&gt;
+&lt;em&gt;―Gerroba, 23 Jan 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s not a good spot. It&#39;s the beginning of the tunnel to the expressway and the cars going there drive on the right lane, making it almost impossible to stop for you or even see you. I waited 3 hours before an English speaking helpful guy drove back just to take me. I would try to find another spot that connects to the expressway.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 04 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>129.87187490448923,32.79156644345905</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Shiroishi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Service area very close to the train station (Kaida). You can just walk around to the gate and walk straight in. Useful for escaping from Sendai (980 yen), and presumably a good way out of Fukushima too.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 26 Feb 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>140.5784020423669,37.907419522908896</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Motomiya</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>140.38051450250228,37.51596420239574</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Otsu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Big service area with access from Otsu station and thus Kyoto. Has a nice view of Lake Biwa.”&lt;br&gt;
+&lt;em&gt;―Aik, 06 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Going east might be different, but if you&#39;re going west there&#39;s really no good place to stand or for cars to stop. There&#39;s decent traffic, so it&#39;s doable, but I wouldn&#39;t recommend it if you can help it. Make sure you have a map with the next SA you want to get to with you that you can just point at, because the expressway branches crazily soon after this.”&lt;br&gt;
+&lt;em&gt;―Aik, 06 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Okay, have now tried it going east, and it was easy. So for leaving Kyoto heading east, good spot - otherwise, avoid/”&lt;br&gt;
+&lt;em&gt;―Aik, 08 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>135.86853957176294,34.99634827682907</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Suita</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Service area close to Kishibe station on the Kyoto line. There&#39;s a gate on the station side that you can open and walk in, and a bridge connects both sides of the service area. Plenty of traffic. Perfect to escape from Osaka.”&lt;br&gt;
+&lt;em&gt;―Aik, 08 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I went here again. This time the gate was closed and pretty solidly locked.&lt;br&gt;If you go over to the other side of the highway and walk up the side there&#39;s another gate that&#39;s much more private (the other one is outside a hospital) you can jump over. Alternatively, further down the other side there&#39;s some weird garden feature that connects directly to the parking area but is surrounded with lots of trees and bushes - presumably you could jump the fence there easier, though it&#39;s further to walk to.”&lt;br&gt;
+&lt;em&gt;―Aik, 03 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.52676544175952,34.78266692344818</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sakaki</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A tiny service area in walking distance from Sakai station up a fairly steep hill.”&lt;br&gt;
+&lt;em&gt;―Aik, 08 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“So admittedly, someone picked me up after about 20 minutes. It wasn&#39;t going where I wanted, but as I was giving up anyway I accepted. It&#39;s one of those depressingly tiny parking areas that have no traffic. It might look like a tempting way out of Nagano, but I really wouldn&#39;t recommend it.”&lt;br&gt;
+&lt;em&gt;―Aik, 08 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“We got picked up within 5 minutes, but we were lucky - it&#39;s a tiny area. There are no real alternatives though, if you&#39;re heading for Tokyo.”&lt;br&gt;
+&lt;em&gt;―Matsumoto Joe, 27 Nov 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>138.20045576081742,36.455996193347005</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mino</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>136.90832519530719,35.585943529713205</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kanazawa</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“About three kilometers from the nearest station, so fairly easy way to escape from Kanazawa. There&#39;s a bus too, if you don&#39;t feel like walking. It&#39;s not a huge parking area, but there&#39;s enough traffic that you&#39;ll inevitably be picked up”&lt;br&gt;
+&lt;em&gt;―Aik, 22 Nov 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“it&#39;s a fairly small PA - there&#39;s a direct bus to it from Takayama (run by JR and departs from the central station) for about 500 yen... getting there is a little tricky if you have openmaps/maps.me because it shows a bridge before the PA which I was intending on using but a local told me there&#39;s no access to the PA from there - use google maps because it shows a tiny access road that will lead you all the way to the PA”&lt;br&gt;
+&lt;em&gt;―Uncle sam01, 28 Nov 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>136.72215306763934,36.60465077810881</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Suwa</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Large service area. It&#39;s a bit too far from the train stations, but if you&#39;re trying to leave Matsumoto or somewhere else nearby it still might be more worthwhile taking the train here then walking than waiting at the interchange.&lt;br&gt;There&#39;s also an onsen in the service area, should you be in desperate need of a bath.”&lt;br&gt;
+&lt;em&gt;―Aik, 22 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>138.07741963866752,36.026742168207846</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Akishima</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Small but with plenty of traffic. Walking distance from Hino and Toyoda stations.”&lt;br&gt;
+&lt;em&gt;―Aik, 27 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>139.37115097044747,35.67744423966807</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Fukuoka</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It&#39;s a bad place because the lane leading to the high way is far away from footpath. There is no chance for anypne to stop”&lt;br&gt;
+&lt;em&gt;―Bachus69, 27 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>130.40900015829013,33.600528353886425</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16896</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Near by there is a bus stop where car can safely stop. I waited only 10 minutes. (going in direction of Koga) ”&lt;br&gt;
+&lt;em&gt;―Bachus69, 27 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>130.44678711888986,33.668566442312894</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>宮若市 (Miyawaka)</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>130.6096079349335,33.74396692920233</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16978</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>134.66870212554582,34.87736325791298</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tatsuno</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>134.5597829818605,34.85267958780755</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tatsuno</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>134.557336807232,34.90962395454991</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mimasaka</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>134.22931337353796,35.01545129405181</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Mimasaka</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>134.22519350048788,35.015820342520826</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tsuyama</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>134.05069971082642,35.058091724805756</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>別府市 (Beppu)</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Seven-Eleven parking lot, 15 minutes walking from Bungotoyooka station (¥230 by train from Beppu).”&lt;br&gt;
+&lt;em&gt;―Freayd, 04 May 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There were plenty of cars, I got a ride going north to Honshu.”&lt;br&gt;
+&lt;em&gt;―Freayd, 04 May 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Pretty good spot. You have a chance to be picked up either by the cars passing by or those leaving the gas station/convenience store. Walking from Beppu is possible though it takes long.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 04 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>131.4972957372633,33.35598290514535</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18678</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a service area somewhere around here (I think it was called Ishiyama). It is a nice spot and even if you are travelling from Nagasaki to Kumamoto (or vice versa) it&#39;s better if you go here. There is also an underpass and you can cross to the other side of the highway (the other service area).”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 04 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>130.53878688812563,33.42057566699223</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Aso</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a good number of people climbing the mountain (especially on weekends) and it&#39;s fairly easy to hitch back from the parking area near the temple back to Aso town. People will know you are a traveller without a car who just came here to climb the mountain, so they won&#39;t have any worries. A tip for climbing: follow the path going left and climb the rocky route to the top first (it is well marked with yellow arrows), make a circle clockwise and make your way down by following the paved route near the old cable car station.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 04 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>131.07660198211053,32.90360999947731</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tahara</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>137.0456542968795,34.59374317064727</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Susono</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>138.8872375488299,35.19073705477049</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ibaraki</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot for hitching to the Kyoto or Kobe direction. Plenty of room for cars to stop. ”&lt;br&gt;
+&lt;em&gt;―Dennis Prooi, 24 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.56092474651766,34.82926544071416</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kobe</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Might seem like a poor spot because there is little place for cars to stop, but I did manage to find a ride here. Plus, it&#39;s very easy to access from central Kobe. This road leads right up to the Hanshin expressway, both directions. ”&lt;br&gt;
+&lt;em&gt;―Dennis Prooi, 24 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.20251724910426,34.696470247374805</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21127</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“You can wait near the parking place of the BMW shop. Drivers can stop there. Good way to get on the Meishin expressway (leading to Nagoya, Kyoto).”&lt;br&gt;
+&lt;em&gt;―Dennis Prooi, 24 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>139.47838757230033,35.507732268591525</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tsukubamirai</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Easy spot for getting on the Joban expressway. Too bad it&#39;s so far out of Tokyo. You can go to Shinmoriya station by train and walk from there.”&lt;br&gt;
+&lt;em&gt;―Dennis Prooi, 24 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>139.98360846235335,35.97190258624789</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Minami Ward</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Easy spot. Many cars. You won&#39;t have to wait long here. ”&lt;br&gt;
+&lt;em&gt;―Dennis Prooi, 26 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.7214817781401,34.94425965769353</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Aomori</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A quiet road running north first before curving southeast towards Hachinohe, Morioka. There is enough traffic here to get a ride quite quickly, though.”&lt;br&gt;
+&lt;em&gt;―Dennis Prooi, 29 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>140.86115751459445,40.89223865030921</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sanuki</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Service area near the station. ~660 yen from Takamatsu.&lt;br&gt;Going towards Takamatsu is fairly small but still sufficient traffic to get picked up. Other side looks significantly bigger.”&lt;br&gt;
+&lt;em&gt;―Aik, 03 May 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Was here by accident - caught the wrong train, and while waiting the hour for the next one saw this on the map and thought why not.&lt;br&gt;Would be good for if you were leaving Shikoku, I guess.”&lt;br&gt;
+&lt;em&gt;―Aik, 03 May 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>134.26417136192694,34.275823340296476</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Tsuyama</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>133.9248504638696,35.05524620867193</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nasushiobara</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Wait in front of the toll stations. Cars slow down and can stop on the hard shoulders. Have a sign in Japanese letters with you to make sure people understand what you are doing and what you want from them.”&lt;br&gt;
+&lt;em&gt;―Joschi, 28 Sep 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>140.03603839873,37.002797180289</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Takizawa</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Morioka IC. Traffic moves much too fast. If you must try, from the side coming towards Morioka is probably better because there&#39;s actually some room on the on-ramp where someone could possibly stop, but I would not count on it.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 26 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>141.09310722349622,39.70931822779046</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13459</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you get dropped off North of here along 338, you are probably screwed. The roads are extremely narrow, have almost no traffic, and konbinis are rare. Hitch at your own peril.”&lt;br&gt;
+&lt;em&gt;―Traceoftoxin, 01 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>141.3682594299247,40.9906740385947</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Higashimatsushima</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Lots of traffic headed to/from Ishinomaki, but be wary, many smaller villages no longer exist because of the tsunami so staying along the coast will net every limited traffic.”&lt;br&gt;
+&lt;em&gt;―Traceoftoxin, 01 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>141.1333408355592,38.410503916666805</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Ishinomaki</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“As of September 2012, this town is almost non-existant. The ferry does not run to the island, and the museum was severely damaged. Do not hitch here expecting to find any sort of tourism. Getting dropped here without provisions could be seriously dangerous.”&lt;br&gt;
+&lt;em&gt;―Traceoftoxin, 01 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>141.5087642669368,38.29866465198839</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Un-nan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I can&#39;t find the exact place on this map, but it&#39;s around here. It&#39;s a rest station with an omiyage shop and restaurant.”&lt;br&gt;
+&lt;em&gt;―Aik, 06 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Most people here won&#39;t even look at you, basically. There probably isn&#39;t a better spot in the area though.”&lt;br&gt;
+&lt;em&gt;―Aik, 06 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>132.81518793104692,35.2017990543934</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Fukuyama</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Big SA near Onomichi and Fukuyama with access from Bingo-Akasaka station (3km walk). Is open to the outside, so no sneaking-in required. Has an excellent spot just outside a dog run where you can hitch from.”&lt;br&gt;
+&lt;em&gt;―Aik, 06 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>133.31482982636453,34.49106761293822</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Miyoshi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The only thing this PA has is a toilet. Certainly, it doesn&#39;t have very many cars. Same goes for the next PA too.”&lt;br&gt;
+&lt;em&gt;―Aik, 06 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Going Izumo-&amp;gt;Hiroshima, I should have stuck with route 54.”&lt;br&gt;
+&lt;em&gt;―Aik, 06 May 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>132.78473949434175,34.75935545656938</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Matsumoto</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The first really viable hitchhiking spot along this road going towards Takayama. There&#39;s a small parking area in between two sets of traffic lights with just enough room at the end of the parking lot for someone from the road to pull over. It&#39;s not great, but it&#39;s something.”&lt;br&gt;
+&lt;em&gt;―Aik, 22 Nov 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>137.9259928464928,36.22678414661277</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Minami Ward</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This gas stations is a good spot just before the express way with plenty of traffic. You can either go east to Tokyo or west to Okayama / Hiroshima.”&lt;br&gt;
+&lt;em&gt;―Freayd, 28 Apr 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I waited 40 minutes before having a lift to Himeji.”&lt;br&gt;
+&lt;em&gt;―Freayd, 28 Apr 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>135.74568548798618,34.95641396925498</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Numazu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a junction just after this Seven-Eleven parking lot which means that part of the traffic is not going to the express way.”&lt;br&gt;
+&lt;em&gt;―Freayd, 04 May 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Plenty of traffic but it took some time before finding a ride to Tokyo.”&lt;br&gt;
+&lt;em&gt;―Freayd, 04 May 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>138.87565040589573,35.130074851291</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18680</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Actually it&#39;s a pretty good spot. Just before the toll gate and there is a small space where cars can pull over. However, I&#39;ve always had difficulty hitching at interchanges and here it also took me more than an hour to stop a car. But you can walk here from the center of Hiroshima, which is good.”&lt;br&gt;
+&lt;em&gt;―Canaydemir, 04 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>132.49460542202124,34.37809691774183</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Yaizu</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Service area from where you can hitch a ride to Tokyo quite easily. You can go in and out freely - if you walk down into the valley, there is a bus terminal right underneath the highway. From here busses run to Shizuoka station. If you want to get here from Shizuoka station, then take bus #1391 to Yatsu terminal (谷津ターミナル).”&lt;br&gt;
+&lt;em&gt;―Dennis Prooi, 26 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>138.2945141572837,34.98201467450922</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Zushi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“As both Zushi and Kamakura are touristy places, this spot has many tourists passing through. Some of them possibly going a longer distance. This road eventually merges with national road #1, going all the way to Kyoto. ”&lt;br&gt;
+&lt;em&gt;―Dennis Prooi, 26 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>139.5631234397939,35.292580148759775</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Wakkanai</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is the edge of town so walking further is pointless. You don&#39;t actually have to walk this far out to be able to get a ride, probably. If you&#39;re lucky you can find rides all the way to Asahikawa. ”&lt;br&gt;
+&lt;em&gt;―Dennis Prooi, 29 Dec 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>141.70843515590423,45.383128761006745</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Maibara</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Parking area near a train station.&lt;br&gt;&lt;br&gt;Decided not to go there because there are some very strict sounding signs warning against crossing over to the other side of the highway - if my Japanese is not mistaken, because of dangerous animals. So although this place is relatively accessible from Gifu, unless you don&#39;t mind some explicitly illegal fence jumping, probably don&#39;t try here.”&lt;br&gt;
+&lt;em&gt;―Aik, 27 Apr 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>136.38685011863006,35.331700592157524</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nisshin</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Short walk from Kurozasa station. Not a huge parking area but good enough. 630 yen from Nagoya station. Note that the first hill you come across isn&#39;t where the parking area is - go around until you get to the expressway and walk up. There&#39;s a big farm tourist attraction thingy that you walk by, and there are signs inviting you to walk into the PA.”&lt;br&gt;
+&lt;em&gt;―Aik, 05 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>137.08473944662825,35.13117605046853</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Yamanouchi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not the most comfortable place to stand, but there is plenty of traffic,and enough space by the side of the road for cars to stop.”&lt;br&gt;
+&lt;em&gt;―Gulliver123, 24 May 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Should be at the junction of the 292 and the 342”&lt;br&gt;
+&lt;em&gt;―Gulliver123, 24 May 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:04Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>138.42568302154078,36.73433178987191</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

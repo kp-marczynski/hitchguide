@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Iceland</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Kópavogur</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.8875336647034,64.1501167295168</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kópavogur</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Large road with a large bus stop (it&#39;s covered, so you can use it as a shelter when it&#39;s raining). Lots of people driving downtown, useful for outbound hitches as well.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.8881988525391,64.150186898394</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kópavogur</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is the best place for hitchhiking if you&#39;re leaving the Reykjavík area to the north. Cars are slowed down here right after the roundabout and they have space to stop on the shoulder to pick you up.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“good spot”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Good spot. You can get here by bus from Reykjavik”&lt;br&gt;
+&lt;em&gt;―Mass.a, 17 Feb 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.692054271698,64.1657833757859</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Akureyri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 12min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Sometimes very little traffic, like a bit everywhere in this part of the island. If you&#39;re going to Egilstaðir, remember that you can&#39;t take the shorter mountain road (not on this map) unless you hitch a 4x4. In the summer, many drivers with rental cars don&#39;t know that. Knowing it will save you lots of time. ”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There are much more cars passing by to Höfn than going up to the north towards Egilstadir.&lt;br&gt;You ought to be patient if you want to go north.”&lt;br&gt;
+&lt;em&gt;―Zymh, 12 Aug 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-15.1810455322266,64.2899840208015</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Hafnarfjörður</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There aren't really any good spots here, but Bus number 1 from Reykjavik stops very near by (When you reach HafnarfjÃ¶rÃ°ur, just ask the driver to let you know when you're close to Reykjanesbraut) and you'll kind of have to walk along the road with your finger out. The road shoulder is not bad though, so cars can stop if they see you in time. Not good, but it works.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I got a ride to the airport within seconds, I didn't even have the chance to put my backpack down. IT was so quick I ended up with 4:30 hours to kill until my flight...”&lt;br&gt;
+&lt;em&gt;―Ofercarmon, 12 Nov 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Took me 12 minutes.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 29 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.9721412658691,64.055025017672</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kópavogur</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 6min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Most people who drive past you here are going at least to Borgarnes, and this is a nice place for them to stop and pick you up. Bus 15 stops in MosfellsbÃ¦r, from there you'll need to walk a little bit to get to this point.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I am not sure which place is referred to here, but KÃ³pavogur is on the other side of ReykjavÃ­k, towards KeflavÃ­k. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 22 Aug 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;“My 1st hitch hiking experience was here, got a ride in 5 min towards North! :) great spot!”&lt;br&gt;
+&lt;em&gt;―Adamiksen, 12 May 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Great spot, got a ride in less than 10 minutes! You may catch a ride to North or to the Geysir! ”&lt;br&gt;
+&lt;em&gt;―Francesc4052, 24 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.6763687133789,64.1760717823694</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Esjuskáli is a parking lot where most people park their cars while climbing mount Esja. Bus 57 from Mosfellsbær also stops here (www.bus.is). You can either ask at the parking lot in case you need a ride to Reykjavík, or stay by the road if you are going north. This is  a nice place out of town for people going north. Although you can continue even further on bus 57 (costs more money though).”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 22 Aug 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“For going to Reykjavik, there is a spot where cars can stop. Got a ride to Mosfellsbaer here after 2 minutes. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.734252928465,64.208219056682</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you ask the driver of bus 57 (www.bus.is) to let you off after the tunnel (there is no stop there officially) you can stand on road nr 1 and avoid traffic going to Akranes, if you are going north. From here on most people will be going at least to Borgarnes. When you exit the tunnel, there are toll booths where most people stop to pay the tunnel fee, so that is also a good place for asking for rides. ”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 22 Aug 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.910291670536,64.310058065511</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 8464</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just out of town, opposite the food shop, there is a good place for the cars to stop. Everyone will be going at least to Egilsstaðir. I hitchhiked here just after the arrival of the weekly boat from Denmark/Faroe Islands so there was lots of traffic. ”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 22 Aug 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“As mentioned, there&#39;s a map area with a turnoff for cars that&#39;s perfect to stand by.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 29 Dec 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.010606764822,65.259843150487</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 8465</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Although this map says this road is nr 848, some other maps claim it to be road nr 1 (the main road if you are going to Akureyri). There are many points of interest and small settlements around lake Mývatn so many people might be driving short distances here. However it is not difficult to get a ride at least to Akureyri.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 22 Aug 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.928421019456,65.602364431288</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Akureyri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place to stand. The road is a bit wider after the junction so cars can stop. Also gas station is nearby in case you need to buy something or get shelter. I stood there with a sign saying Reykjavík for two hours between 17.30 and 19.30 in summer. Noone stopped. Stood there without a sign the next morning. Got a ride to Rvk within 30 minutes. HI Hostel is 10 minutes down the road past the Bónus store in case you need to crash somewhere. ”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 22 Aug 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-18.124042008243,65.695883863943</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10857</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Rides available to the various small villages on the west coast, as far as Þingeyri.”&lt;br&gt;
+&lt;em&gt;―Tmoon, 01 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-23.17204570770041,66.05924832464689</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.9005186883758,64.1304309646617</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 11min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you are heading south using the road no. 1 towards Selfoss then this is the place where to wait in Reykjavik.&lt;br&gt;&lt;br&gt;There is a big Olís gas station nearby (before the roundabout) but I prefer to wait after the roundabout - cars are passing by slowly and it&#39;s not so busy place. But it depends on your preferences - both possibilities are great.&lt;br&gt;&lt;br&gt;You can walk there or get there by bus no. 19 or 5 (station Helluvað).”&lt;br&gt;
+&lt;em&gt;―Zymh, 11 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Didn&#39;t wait at all, the first Icelandic car I waved down stopped :D&lt;br&gt;&lt;br&gt;Hitching in Iceland in October was unbelievably easy - the first day I got 7 rides east on the Ring Road and didn&#39;t wait once over 5 minutes. Icelanders pick up so much and so fast. They told me in the summer it gets really crowded with hitch-hikers and they often don&#39;t have space, so I was apparently lucking out on hitching in the fall :) Was a bit chilly and dark to camp out though.&lt;br&gt;&lt;br&gt;Hitching up to Höfn couldn&#39;t be easier, than I had to wait my time, beacuse a car passed maybe every 20 minutes. From Höfn to Egilsstaðir, and up to Akureyri is the hardest part (waited 2 hours once as so little passed by), then from Akureyri it gets really easy again.”&lt;br&gt;
+&lt;em&gt;―K9f100, 19 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“This is a really good place for hitching down south towards the coast. Had to wait about 10-15 minutes. I would walk onto the highway ramp to catch as many cars as possible.”&lt;br&gt;
+&lt;em&gt;―Pseudodoc, 14 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.75818173820568,64.10127106268041</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10994</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 38min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitch-hiking from Landmannalaugar is actually really possible! There are quite many cars, usually 4WD and SUVs leaving that place. But even smaller cars can get there and you can see them on the road (although it&#39;s officially prohibited).&lt;br&gt;&lt;br&gt;You still need to wait some time - there&#39;s approximately about 1 car in 15 minutes but finally someone will always pick you up.”&lt;br&gt;
+&lt;em&gt;―Zymh, 11 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I guess we were HH hehre during the highest season in june, cause the second car stopped.”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.05093655131554,63.99858450931124</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjanesbær</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Officially marked hitch-hiking spot towards the Keflavík airport but at a really senseless place. &lt;br&gt;It&#39;s better to walk there.”&lt;br&gt;
+&lt;em&gt;―Zymh, 12 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-22.56831579377848,64.01003038001637</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Nice place for HH towards Keflavik or Reykjavik. The amount of traffic is quite good.”&lt;br&gt;
+&lt;em&gt;―Zymh, 12 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.432020070034216,63.85141636636901</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11001</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a nice HH spot towards Vík just before the bridge. Cars can stop there safely.&lt;br&gt;It&#39;s very common to hitch-hike there.”&lt;br&gt;
+&lt;em&gt;―Zymh, 12 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-16.17887048655841,64.04584660287992</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11002</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 50min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you want to leave Jökulsárlón and go to Höfn, be prepered for a little bit longer waiting period.&lt;br&gt;Many tourists are not going further east than to Jökulsárlón and there are not many locals passing by because there not many towns around this part of the road. &lt;br&gt;&lt;br&gt;But this is the spot where you can try to hitch-hike.”&lt;br&gt;
+&lt;em&gt;―Zymh, 12 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-16.17710022860966,64.04608137662092</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11003</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 42min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“One of the few gas stations in this area. People usually stop here to get a fuel before they continue. &lt;br&gt;The amount of traffic towards east is starting being very low but it&#39;s still OK and even if you wait longer you can always use the facilities at the gas station. So it&#39;s quite luxurious spot.”&lt;br&gt;
+&lt;em&gt;―Zymh, 12 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“a little bit further down there is more space.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 12 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-19.00042070960705,63.417817659855096</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Borgarnes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 21min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Your way from Borgarnes to Snæfellsnes peninsula.&lt;br&gt;&lt;br&gt;The traffic is lower but we didn&#39;t wait for a long time.”&lt;br&gt;
+&lt;em&gt;―Zymh, 15 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“The place to be if heading to Reykjavik. Go just a little past the shopping center, before the bridge, and you&#39;ll find a spot with ample room for cars to stop.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 29 Dec 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Also good dumpster diving possibilities at the local supermarkets! ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Really great spot to go north”&lt;br&gt;
+&lt;em&gt;―Imondaroad, 25 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.89971303939849,64.56020196379217</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Hveragerði</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This roundabout is the obvious spot when going on Road #1 from Hveragerði to Reykjavík and there&#39;s lots of space for cars to stop. ”&lt;br&gt;
+&lt;em&gt;―Bernardo, 19 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“about the waiting times: no bullshit. the last two times there i have been picked up by the first car coming by.”&lt;br&gt;
+&lt;em&gt;―Bernardo, 08 Nov 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Also good dumpster diving possibilities at the supermarket! ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Very good spot. Many people will go all the way to Reykjavik.”&lt;br&gt;
+&lt;em&gt;―Mass.a, 17 Feb 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“The first car stopped!”&lt;br&gt;
+&lt;em&gt;―Rytis9, 17 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.19407454166669,63.995595342406304</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A good place for going around Hvalfjörður (or to the tip of it for a hike to Glymur). There is not so much traffic but we didn&#39;t have to wait long.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 21 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.835361480714127,64.2747253518008</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“direction Reykjavik, after a hike to Glymur. late Saturday evening. Not so much traffic.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 21 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.35540597442676,64.3847034551866</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11681</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 40min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Traffic is very low, few cars passes by per hour. From my experience locals didn&#39;t stop only tourists, unfortunately the latter ones were heading to the ferry direction brjánslækur and that wasnt our goal”&lt;br&gt;
+&lt;em&gt;―Jopijus, 28 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-23.23937988155108,65.62773696578596</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12332</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The spot to go south (to Flokkalundur, the ferry etc.) ”&lt;br&gt;
+&lt;em&gt;―Bernardo, 08 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-23.48073828779761,65.87145209547218</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12333</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A bit far out of town, but if someone can bring you there, it is the perfect spot to get out of Neskjaupstaður.”&lt;br&gt;
+&lt;em&gt;―Bernardo, 08 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-13.820410934754475,65.11994361277745</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Eskifjörður</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The road to Neskaupstaður. Usually there&#39;s not much traffic, but it works.”&lt;br&gt;
+&lt;em&gt;―Bernardo, 08 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.014159342293054,65.07133746759531</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12335</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The spot to go south to Reðarfjörður.”&lt;br&gt;
+&lt;em&gt;―Bernardo, 08 Nov 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.036493724697507,65.07677634499672</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Dalvík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-18.530021164736397,65.97871894618714</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Siglufjörður</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-18.90209719928261,66.16227479870722</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12762</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.39158961566346,65.89063314338101</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sauðárkrókur</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Really few cars but they stop and drivers are friendly. ”&lt;br&gt;
+&lt;em&gt;―Rytis9, 09 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.62809607775964,65.7346958585714</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12764</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-19.45368811877645,65.54618186387518</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12765</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-21.07640311511616,65.14868897231167</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12766</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.47575185092329,65.44710390970187</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12767</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“for going south. A lot of local traffic.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 29 Dec 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-21.694920513948396,65.70183564071306</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Stykkishólmur</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.75578782351908,65.03764532790534</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12769</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-15.051281903110116,64.28314530541181</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12770</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.267390225253829,65.03023679825897</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Egilsstaðir</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.410641644321432,65.26034750214947</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12772</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.373476956210714,65.27103147306144</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12773</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.73327920230485,65.10057998364182</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12774</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.447205517613174,65.29900476875768</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12775</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-15.50223634036686,65.459913603763</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vopnafjörður</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-14.839451763951704,65.7578599460758</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12777</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-15.32782838138367,66.19127491263697</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12778</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.412041638218778,66.27339682137342</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjanesbær</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.5886520041652,63.99708472964325</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 14313</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Asking people on the airport works great. I went out to the parking lot and got a ride within 5 minutes.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 03 Jun 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I got a ride to Reykjavik, just by asking people who were on the same plane as me. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Even if you don&#39;t like asking around, it&#39;s a very small airport so it&#39;s very easy to walk out to the road and stick your thumb out. If you walk about 500m from the first parking lot there&#39;s a junction from an internal road from which airport employees and people picking up rental cars might come out, so it&#39;s good to stand right in front of it. ”&lt;br&gt;
+&lt;em&gt;―Ofercarmon, 12 Nov 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.62457466125481,63.99805057735674</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17442</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-21.698890686048642,65.05068075883754</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17443</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.550006628049445,64.76583655369393</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17444</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 33min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It is a great spot towards to the westfjords.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 12 Feb 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“We waited around 30 min in rain, but than a girls just stopped and drove us untill Patreksfjordur.”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.465205907834648,64.80106919671303</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17446</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-18.15543508531081,65.70547611398503</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Selfoss</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-20.996742010129587,63.937148738022586</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17448</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-20.39850211144696,63.83295054847099</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Akranes</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.05229854583786,64.32768886482145</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18667</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.944213867185944,64.00491690249268</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Höfn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-15.203417301178076,64.26067650353353</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19037</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.022634195634225,63.95059824976002</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Stykkishólmur</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Enough cars pass through , thus someone will definetely take you :)&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Jopijus, 28 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.76033288240468,64.99925662292058</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19748</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Actually the best way to get out of Vík. Just go to the city-limit sign, where also the weather-information table is. Good place for stopping.”&lt;br&gt;
+&lt;em&gt;―Hajk, 18 Aug 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Got a ride all the way to Selfoss”&lt;br&gt;
+&lt;em&gt;―Imondaroad, 25 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.01421403884591,63.422607723430524</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19749</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good place to head over to Thingsvellir. Good reachable from Selfoss by walking a gravel road, starting at the gravel plant.”&lt;br&gt;
+&lt;em&gt;―Hajk, 18 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.01606464385681,63.954051992970804</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Höfn</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place going westwards.”&lt;br&gt;
+&lt;em&gt;―Hajk, 18 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-15.182538986200518,64.29051245606061</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19903</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-22.733322143553902,64.84862052244232</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19904</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-23.612571716307418,65.67678157085057</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19905</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 25min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a good spot to pull over if you&#39;re going clockwise and most cars go to Dettifoss, maybe a bit further”&lt;br&gt;
+&lt;em&gt;―Anonymous, 30 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.910739898679935,65.63993601095665</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19906</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.97511291503792,65.66061170517199</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 4h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not many cars are using this road along the coast. Usually just some locals going only few kilometres and turning on the next crossroad. &lt;br&gt;&lt;br&gt;If you don&#39;t have really plenty of time, use the other bigger road to get to Keflavík. ”&lt;br&gt;
+&lt;em&gt;―Zymh, 12 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-22.472047946888196,63.83511380771108</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Hafnarfjörður</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitching west to Keflavik Airport. Lots of cars and shoulders are wide to pull over without problems.&lt;br&gt;&lt;br&gt;You can get close with bus 1 - gotta walk like 1 km from the bus stop. It goes right from the centre and costs 350 ISK, which is about 2 EUR.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 20 Oct 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“5 minutes and got a ride to the airport. Hitching in Iceland is so easy!”&lt;br&gt;
+&lt;em&gt;―K9f100, 20 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.003375053405865,64.05030502563956</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20837</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very few cars, mostly tourists with rental 4X4s (you&#39;re not allowed to go on the F roads without one). Most of the cars are full. Absolutely no problem to stop, of course, since there are 5 cars an hour at most...”&lt;br&gt;
+&lt;em&gt;―Ofercarmon, 12 Nov 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Hitching on mountain roads in NOT easy! I ended up walking to the junction of 731 and 35 just out of boredom... I did end up getting a ride, but I probably waited 3+ hours for it (including the walk, in which a few cars passed me by). The good thing is that once you get a ride, it&#39;s virtually guaranteed to take you at least until Hveravellir, since there&#39;s virtually nothing in between. Really NOTHING. &lt;br&gt;If you&#39;re gonna try to hitch Kjölur (the F35), be prepared for LONG waits and have the proper equipment and food to survive the night if necessary. If you manage it, it&#39;s extremely beautiful!”&lt;br&gt;
+&lt;em&gt;―Ofercarmon, 12 Nov 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-19.866491317749343,65.5244489279381</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20838</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Tried to hitch from here to Landmannalaugar, because it looked like the best option on the map. There&#39;s a gas station and a store where you can get food, and there&#39;s no problems for cars to stop, but there&#39;s not many cars and many of them were going a short distance.”&lt;br&gt;
+&lt;em&gt;―Ofercarmon, 12 Nov 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It took all day, but we did make it to Landmannalaugar eventually, right before sunset, and all I needed was one look at the place with the evening light to decide it was definitely worth it. ”&lt;br&gt;
+&lt;em&gt;―Ofercarmon, 12 Nov 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-20.50150966644189,63.87957440759609</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20883</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 16min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Wide space to pull over right after the gas station. You may see airplanes taking off if you are lucky.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Nov 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a cool place to pull over next to the gas station, there were two of us hitchhiking there and it didn&#39;t take long to get a ride even with almost no traffic”&lt;br&gt;
+&lt;em&gt;―Imondaroad, 25 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-18.08012401533623,65.67039529652833</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20884</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-18.074848982155633,65.75008442009353</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21544</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“An adventurous option if you are heading north and don&#39;t want to go back to H1. Very few cars are going to drive this way, but the barren highland landscape is incredible and worth the effort. ”&lt;br&gt;
+&lt;em&gt;―Mass.a, 17 Feb 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Make sure your ride goes at least to Reykholt, or you may get stuck in the middle of nowhere on this road. Amazing lunar landscapes.”&lt;br&gt;
+&lt;em&gt;―Mass.a, 17 Feb 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-21.090894531136197,64.27981338493802</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21545</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From the spot you can get the slow traffic from the access road of Hofsos (pretty town, worth a visit).”&lt;br&gt;
+&lt;em&gt;―Mass.a, 17 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.394205171389288,65.90002804790011</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21546</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“It may be difficult to leave the Reykjahlid area. You may want to walk all the way here and try with the tourists visiting the mud pools.”&lt;br&gt;
+&lt;em&gt;―Mass.a, 17 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.803599892678573,65.64431071820238</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21547</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Westward from Skaftafell. In the summer many cars will come out from the park&#39;s access road.”&lt;br&gt;
+&lt;em&gt;―Mass.a, 17 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-16.945263444009225,64.00542779609889</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 22279</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 2h</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-18.07119226455788,65.7682526666238</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23154</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great spot for getting to Akureyri. used it on a weekly basis for months, never took more then 30 minutes. Gasstation/busstop near by as back up.”&lt;br&gt;
+&lt;em&gt;―Baswattel, 15 Jul 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.42892646789536,65.5541380143579</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24141</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.996682167052015,63.60943836748796</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vopnafjörður</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“waited in the rain, traffic was tight but managed to catch a ride to Egilsstaðir in half an hour.”&lt;br&gt;
+&lt;em&gt;―Rytis9, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-14.842549324036563,65.7589567889157</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24143</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gravel road, changes to tarmac after a while. Not much traffic.”&lt;br&gt;
+&lt;em&gt;―Rytis9, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-15.31463956832998,66.19179893969591</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24144</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“lay-by.”&lt;br&gt;
+&lt;em&gt;―Rytis9, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.359258174895414,65.27134112645946</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24145</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-13.95759201049695,64.83397623859392</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24146</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“towards Hofn”&lt;br&gt;
+&lt;em&gt;―Rytis9, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.014261722565552,64.79884141943744</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24147</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“very little traffic in the morning.”&lt;br&gt;
+&lt;em&gt;―Rytis9, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.359901905061614,64.65760444813108</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24148</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Parking area to go towards Akureyri. Not much traffic and many stop here to go to a cafe or tourist info.”&lt;br&gt;
+&lt;em&gt;―Rytis9, 17 Sep 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-17.036746501921606,65.56761341848939</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24271</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.91475248337269,65.64441736504872</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24378</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-20.23234462738045,63.74630082529283</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24379</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-20.232870340347617,63.748891948286726</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavik</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Decent spot, caught a ride in minutes. ”&lt;br&gt;
+&lt;em&gt;―Lukastrika, 15 Apr 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Not a bad spot if you wanna go anti-clockwise. I was heading north and it tok me a while to get a ride there. &lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Imondaroad, 25 Jun 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-21.843322277069802,64.12403923028913</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavik</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Excellent for hitchhiking toward Akranes”&lt;br&gt;
+&lt;em&gt;―Lukastrika, 15 Apr 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.757148265839824,64.13905607040121</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26046</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 30min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-14.260331153870101,64.69530191774236</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26047</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-14.523144721986426,64.79609425648256</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26129</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 12min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A lot of space for cars. I spend 3 minutes here. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 19 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.618673801423256,64.00174731547926</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26217</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Straight after the bridge, there&#39;s a cool spot to pull over. Don&#39;t go all the way to the gas station though as the cars go quite fast there and it&#39;s hard to spot you from distance. ”&lt;br&gt;
+&lt;em&gt;―Imondaroad, 25 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.005336761472908,63.94061789526746</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26367</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great spot to Isafjördur.”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-23.42145359516212,66.00808482656474</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26368</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Really here is like an orkan wind. I guess we were lucky with waiting only around 15 minutes. We went to Reykjavík. But hehre is a nice gas station if it is open you can go in... and wait.”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.991205811503907,66.02575525803657</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Akureyri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We hit the road here. you can get cheap food from the bonus and after you can start HH.”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-18.111559510234294,65.69247763389137</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26370</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We HH here towards Selfoss. The cars are going very fast, but finally somebody stopped. You can even go to the Hekla from here.”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.523195385935498,64.15473129769578</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26371</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“On our walking way to the bathh nearby thhe birds attachehd us, so we decided to hh..”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-23.831767201425205,65.62621832388753</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjanesbær</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-22.588697433471115,63.996780592630465</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26534</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Tourists will go viti and Lerhnjukur. I got lucky and before I could lift my thumb, some tourists offered me a ride.”&lt;br&gt;
+&lt;em&gt;―Phoelich, 21 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.79692840576185,65.64551131293796</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26535</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitching to Reykjahlíð is possible from here. Tourists mostly go first to Viti, and visit Leirhnúkur after that.”&lt;br&gt;
+&lt;em&gt;―Phoelich, 21 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.77300310134848,65.71230388018246</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27256</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We were heading to the south and the first car stopped. But there is a few people driving these road, so we were probably very lucky.”&lt;br&gt;
+&lt;em&gt;―Flormar, 28 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.74887175858034,64.09111441236486</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Selfoss</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A lot of flies next to the lake. Hiking is great on the ring road (the 1), but otherwise it&#39;s much harder on the more desolate places to find a good ride. Stay on the ring road, or be prepared for some walking :)”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-21.0249137878418,64.2443709909051</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7060</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 12h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitchiked here at night, after 3 p.m. ( getting dark early in the winter), 3-4 hours until someone stopped.Not many cars, maybe 3-4 cars per hour”&lt;br&gt;
+&lt;em&gt;―Tzvi, 14 Dec 2010&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-22.585693358113,65.931960508393</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10855</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“One car every 10 minutes on the route 68 in either direction, but one car every 5 minutes that takes the route 59. We were 3 people hitching north, and it took about 90 minutes to get a ride.”&lt;br&gt;
+&lt;em&gt;―Tmoon, 01 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“We were 3 people hitching north, and it took about 90 minutes to get a ride.”&lt;br&gt;
+&lt;em&gt;―Tmoon, 01 Aug 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-21.11764526367004,65.22339466881249</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10856</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot for long rides in any direction, but one car every 5 minutes in summer daytime.”&lt;br&gt;
+&lt;em&gt;―Tmoon, 01 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“”&lt;br&gt;
+&lt;em&gt;―Tmoon, 01 Aug 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.794720649717767,65.76800607399609</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10858</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Trying for a ride to the ring road, we found it surprisingly hard to do.”&lt;br&gt;
+&lt;em&gt;―Tmoon, 01 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Could only get a ride as far as Súðavík, however longer rides must be available with patience.”&lt;br&gt;
+&lt;em&gt;―Tmoon, 01 Aug 2012&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-23.171037197110607,66.05905676230758</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavík</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“If you want to do some hiking around Þingvellir then this is one of the places where you can re-appear back on the road and try to hitch-hike after the trek. &lt;br&gt;&lt;br&gt;There&#39;s a small place where cars can stop safely. But it&#39;s in the middle of nowhere in a forest - so be prepared and have some water with you. &lt;br&gt;&lt;br&gt;The amount of traffic is quite good at this road - many tourists passing by.”&lt;br&gt;
+&lt;em&gt;―Zymh, 12 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.06655389677497,64.27095168239362</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 10996</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good place at the end of the town to hitch-hike towards Hella and Vík. &lt;br&gt;&lt;br&gt;It&#39;s not the &amp;quot;top 10&amp;quot; place because there&#39;s not a lot of space to stop safely and a lot of cars are turning right to the supermarket just in front of you but if somebody wants to take you he will definitely stop here. Cars go still quite slowly.&lt;br&gt;&lt;br&gt;Btw. There&#39;s a cheap supermarket &amp;quot;Bónus&amp;quot; just next to this hitch-hiking spot.”&lt;br&gt;
+&lt;em&gt;―Zymh, 12 Aug 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Had to hitchhike in Selfoss, because our rental car broke down. It was easy, even with 3 people, we had a ride to Reykjavik after 5 minutes. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I wait a little further down the road before the &amp;quot;70&amp;quot; sign, there is a bit more space for them to stop.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 12 Aug 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-20.971529695208005,63.93895357004848</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13637</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Great spot to hitch hike out of the cliff. Cars drive slowly, drivers can see you from distance and there is a FREE camping spot with water and toilet. So if you get stuck there, you can spend a night there without any problem.”&lt;br&gt;
+&lt;em&gt;―Zymh, 14 Apr 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-24.489522341644697,65.5148808964223</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavik</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Left after waiting for an hour, for a place 3km east on another entrance to the highway, caught a ride in minutes”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Dec 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I got a ride from here to Mosfelsbaer. Maybe I was lucky. Not the best place to hitchhike. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 18 Dec 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-21.924432277678992,64.1350662587173</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Blönduós</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not a bad spot but in April, there weren&#39;t many cars going clockwise, after about an hour I managed to get a ride all the way to Akureyri. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 12 Feb 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-20.284379482283473,65.65613204360808</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19750</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Right on the top of the mountain is a perfect place to be. Cars can see you from afar and have even to get slower at an obstacle for the sheep. Furthermore there is perfect space to stop by. Reykjavík is only 50km.”&lt;br&gt;
+&lt;em&gt;―Hajk, 18 Aug 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.098376274103952,64.27864620111687</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Reykjavik</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Waiting here next to the gas station might be better than the spot a bit further down. There is a lot of space. I have hitched here many times.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 12 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.76528608798912,64.10281551602351</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23584</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 8min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“at the exit of the gas station for cars going south. This gas station is where most people driving between akureyri and reykjavik stop to rest.”&lt;br&gt;
+&lt;em&gt;―Teeshirt, 12 Aug 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.08618831634632,65.14268089129534</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 25018</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a spot where the ring road meets the road to the Skogafoss waterfall. There are a lot of tourists heading here so it&#39;s good to go in the directions of Vik or Borganes. ”&lt;br&gt;
+&lt;em&gt;―Francesc4052, 10 Feb 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Waited 20 minutes because of another hitchhiking couple. After they gave up it tooks 2 minutes to get a ride. ”&lt;br&gt;
+&lt;em&gt;―Francesc4052, 10 Feb 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-19.50852906703848,63.52004310668101</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26366</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here a nice natural thermal spring, with han amazing view to the mountains, where you can warm up. But be aware, if you want to stay for thhe night. This fjord is pretty open to the cold and strong northern winds. During the night its better to sleep at the changing room.”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-23.470436096192287,65.6230612115809</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 26372</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a traffic hhere, but soemtimes cars just doesnt want to stop for you.&lt;br&gt;After 8pm its just senseless.”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Actually we could get a ride eithher towards Tálknafjördur or Látrarbjarg to see theh puffins.”&lt;br&gt;
+&lt;em&gt;―Hatizsakkal, 08 Jul 2016&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-23.971370816232632,65.59000140688032</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27252</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Nice spot when you wanna return to Reykjavik after enjoying a bath in a hot river (there is unpaved road heading close to Ring road). You should go a bit far from the turn to be visible for drivers who are going fast here. ”&lt;br&gt;
+&lt;em&gt;―Flormar, 28 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-21.215561985968563,64.00792391562517</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27253</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Nice spot when you wanna return to Reykjavik after enjoying a bath in a hot river (there is unpaved road heading close to Ring road). You should go a bit far from the turn to be visible for drivers who are going fast here. ”&lt;br&gt;
+&lt;em&gt;―Flormar, 28 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-21.215561985968563,64.00792391562517</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 27255</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“We tried to hitchhike here to get to Hekla &amp;quot;base camp&amp;quot;. Actually there was plenty of cars, but those were usually full or just didn&#39;t stop. We went more than hour till the first car stopped. ”&lt;br&gt;
+&lt;em&gt;―Flormar, 28 Aug 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:13:42Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-19.739848807453967,64.09232854458901</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

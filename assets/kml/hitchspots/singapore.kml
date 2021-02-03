@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Singapore</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Singapore</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“people hardly stop in Singapore but it&#39;s worth waiting”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:59Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>103.741836547852,1.3333452139746</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Singapore</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good spot, from Singapore to Malaysia. Go walking through the check point, pass the various border guards telling them you will be picked up a little bit further by a friend (they would not let you pass if you say you&#39;re hitchhiking), walk till the middle of the bridge after a little house, here it is! See further informations on Singapore page in Hitchwiki.org”&lt;br&gt;
+&lt;em&gt;―Toortoth, 23 Oct 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“In hitchwiki.org is said that you can start hitchhiking in the middle of the bridge after the little house... From my experience cars will not pick you up because they still have to pass by the immigration check point in the Malaysian side.&lt;br&gt;&lt;br&gt;The best thing to do is to continue walking after the bridge in the cars path (there is different paths for different types of vehicle). It&#39;s a kind of speedway, so be careful and stay close to the tab. You may see some locals doing the same.&lt;br&gt;&lt;br&gt;In the Malaysian side you just have to ask where is the immigration for people that walking (is the same for people that come in tour buses).&lt;br&gt;&lt;br&gt;After stamping your passport you just have to get out of the border basement and start hitchhiking near the cars exit”&lt;br&gt;
+&lt;em&gt;―Joaoguilhermeln, 07 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:16:59Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>103.76928177633,1.4480083614693</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

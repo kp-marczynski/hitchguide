@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Armenia</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Armavir</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Road to Dogubayazit&lt;br&gt;&lt;br&gt;And a wonderfull scennery!&lt;br&gt;&lt;br&gt;Ask in the city if someone can bring you there, people are friendly and should help you, so you won&#39;t walk too much in this big city.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.0626537799835,39.8853310668304</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7066</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“lovely armenian customs asked cars to take us. although the two border posts are quite far, count 30 mins walking on the no man\&#39;s land.”&lt;br&gt;
+&lt;em&gt;―Pite, 15 Dec 2010&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“It was really good place! we&#39;ve been walking along no man&#39;s land, it was nice place &amp;amp; good for hitchhking”&lt;br&gt;
+&lt;em&gt;―Anonymous, 01 Jan 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.796447752558,41.13809226134</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7259</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 28min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“yerevan-karabakh road goes above from the town. this is a great spot to get a ride to stepanakert.”&lt;br&gt;
+&lt;em&gt;―Pite, 27 Jan 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Yes, it´s great spot, but there´s almost anybody going so far to Stepanakert. But mashrutkas are having rest here, so you can ask drivers”&lt;br&gt;
+&lt;em&gt;―Anonymous, 01 Sep 2011&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.33293503382,39.522786428354</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Եղեգնաձոր (Yeghegnadzor)</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“crossroad on the yerevan-goris road to lake sevan. low traffic, but friendly people.”&lt;br&gt;
+&lt;em&gt;―Pite, 29 Jan 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“waited 20min for a ride to somewhere next to Yerevan”&lt;br&gt;
+&lt;em&gt;―Oeth, 18 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.311402319411,39.750048533238</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7541</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitching on this spot at the turn-off for Sisian is good for getting rides to Yerevan or Goris/Nagorno Karabagh.&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Dutchswede, 02 Apr 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.039288938526,39.557412205948</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vanadzor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“An excellent spot to hitchhike in the direction of Georgia (Tbilisi). Got a ride to the border in 2 minutes.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 30 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.496069787534,40.816968130305</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7863</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Lusagyugh is a great spot if heading to Ejmiatsin.”&lt;br&gt;
+&lt;em&gt;―Degoiabeira, 30 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.266542433274,40.083346041073</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vanadzor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.643083639584,41.090213451442</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Գորիս</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 12min</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.325751371768,39.503736278705</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Կապան</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Walk up north from the town of Meghri. Then start hitchhiking from there, it&#39;s a good spot! Not much traffic, a lot of space to stop. Plus it&#39;s only one road so everyone coming from Iran going to Kapan or even Yerevan will cross this point. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 28 Jan 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“From south of town it&#39;s alos no problem to catch a ride to the Iranian border.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Get out of car.  Hold out Iran sign.  Get a ride to the border.  Easy.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 08 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.241678833012,38.90460227384</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9730</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is a bit of a no brainer really as its the only north-south road. You will not have to wait very long.”&lt;br&gt;
+&lt;em&gt;―Hitchhikershandbook, 08 Apr 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.503427206418,40.814694381219</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Արտաշատ (Artashat)</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“in yerevan took a bus from the train station to visit khor virap monastery. than hitched more to the south. ”&lt;br&gt;
+&lt;em&gt;―Pite, 10 Jan 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.595308301779,39.891957949738</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Մեղրի (Meghri)</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“On both sides of the border: just walk a bit away from the taxis and start hitching (on the Iranian side you might have to explain to the drivers who stop for you what you are doing though. And make sure to mention that you don&#39;t wanna pay for the ride!)”&lt;br&gt;
+&lt;em&gt;―Tomtom, 19 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Most people stopped, but departed after explaining I wasn&#39;t paying.  Eventually got a ride all the way to Tabriz.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 08 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.20178842544532,38.85289779497723</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spitak</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Needless to say, but from this spot it is very easy to get a ride - just as in any other place in Armenia :) ”&lt;br&gt;
+&lt;em&gt;―Podz, 06 Jul 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.26050053143673,40.82878347175036</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Kapan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 23min&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Outside of the twon it&#39;s not a problem to catch a ride in your direction.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Quiet around 3/4pm, I still managed a ride south in 30 mins with a sign for Iran.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 08 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.42650604248093,39.20325533137421</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16814</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.29487991332918,39.83485962141331</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gavar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.316680908201185,40.145170680362</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16817</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.13926887512043,41.03752224917419</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 16987</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 18min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“many vehicles going to Yerevan after crossing border. Find a location where vehicle tends to slow down (such as after narrow road).”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 11 Dec 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“No problem to hitch from the border south. Just walk a bit away from the waiting taxis of course.”&lt;br&gt;
+&lt;em&gt;―Tomtom, 23 Jul 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.906227827075334,41.200489922603325</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vanadzor</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“along the road we can hike, even at 5pm in winter (it was getting dark) we got a lift to Dilijan”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 13 Dec 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.49897193908712,40.800154369209125</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sevan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“it is half hour walk from center, get a lift to Yerevan”&lt;br&gt;
+&lt;em&gt;―Adleymaria, 15 Dec 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.962843894961246,40.538546067914254</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17542</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Gas station, direction Nagorno-Karabakh, Yerevan or Tatev monastery.”&lt;br&gt;
+&lt;em&gt;―Prochy, 20 Feb 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“We went to Yerevan and a taxi stopped after 5 minutes - asked only for a bus fare (2500 AMD each).”&lt;br&gt;
+&lt;em&gt;―Prochy, 20 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“got dropped off here with a friend, coming from Goris, wanted to go to Tatev, even before we stopped an armenian-russian group stopped and took us to Tatev”&lt;br&gt;
+&lt;em&gt;―Oeth, 18 Sep 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>46.27892875671527,39.48182303933254</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gyumri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction Georgia. A lot of space to pull over.”&lt;br&gt;
+&lt;em&gt;―Prochy, 20 Feb 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“5 minutes and a car stopped. The driver wanted 2500 AMD each to Akhalkalaki (he went there) and 5000 AMD more (total) to Vardzia.”&lt;br&gt;
+&lt;em&gt;―Prochy, 20 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.846143722537214,40.789043012655924</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sevan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Right after the intersection, towards the north, lots of place to stop for cars and traffic goes slow. ”&lt;br&gt;
+&lt;em&gt;―Podz, 06 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.94613373279464,40.53511332218107</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Sevan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction to Dilijan. Perfect place.”&lt;br&gt;
+&lt;em&gt;―H2o, 06 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.96991419792347,40.54210704997174</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Alaverdi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just few meters from cab station.  Direction to Georgia.”&lt;br&gt;
+&lt;em&gt;―H2o, 06 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.658091306689684,41.099188865972735</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Alaverdi</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Just after the bridge, I waited just few minutes. Direction - georgian border”&lt;br&gt;
+&lt;em&gt;―FF, 08 May 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I waited just few minutes. Direction - georgian border.”&lt;br&gt;
+&lt;em&gt;―FF, 08 May 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.64551025937878,41.09098446721042</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 19365</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“As usual: walk to the edge of town and start hitchhing. Maybe you get invited to some vodkas on the way :-)”&lt;br&gt;
+&lt;em&gt;―Tomtom, 25 Jul 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Maybe it was because it was lunchtime, but I struggled here for longer than I should have.  Decent spot though if you get lucky.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 08 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>46.34845161437952,39.4922063851336</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Իջևան</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.14710092544341,40.883332920776326</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Masis</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 15min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Dont take this road around Yerevan. Almost everyone will stop, but there are almost no cars and the lifts are short.”&lt;br&gt;
+&lt;em&gt;―Niklavs, 06 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>44.429384708403816,40.060045694301756</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Masis</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 14min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction: south. This is the place where a real highway out of the city finally starts. In October 2014 construction of the road was still happening and it made hitchhiking a bit harder. When the road is finished it should be easy to hitchhike here.”&lt;br&gt;
+&lt;em&gt;―Niklavs, 28 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.47026252745605,40.10791316940559</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Gyumri</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>43.83316183090167,40.82276121100727</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23801</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.95464706420838,40.61050350090191</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Vayk</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Not a bad spot, but lots of local traffic.  Occasional drivers going longer distances.  A sign for Iran an I was picked up in half an hour.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 08 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>45.47323608398518,39.68808891712658</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Yerevan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Perfect place to hitchike to south, Karabakh. People are amazingly friendly ”&lt;br&gt;
+&lt;em&gt;―Hitchiketothemoon, 27 Jun 2016&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.505151748665774,40.125033589892716</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Yerevan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Place is near a small gas station, right after an intersection, and before a left turn on the main road to Ashtarak, Talin and Gyumri. Great place to hitchhike! Waiting time &amp;lt; 10 min.”&lt;br&gt;
+&lt;em&gt;―Podz, 10 Jan 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.466025829315,40.21617668648</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Արմավիր (Armavir)</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Very good spot for hitchhiking. Just walk out of Ashtarak and start hitching. I had a ride after 2 minutes from some guys that were going in the opposite direction and brought me a long way! ”&lt;br&gt;
+&lt;em&gt;―Podz, 29 Jan 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.346485137942,40.306629028867</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17541</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 13min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Leaving the customs towards Armenia.”&lt;br&gt;
+&lt;em&gt;―Prochy, 20 Feb 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a lot of taxi drivers that will tell you hitchhiking will not be successful but the people here are great.”&lt;br&gt;
+&lt;em&gt;―Prochy, 20 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.83323955535911,41.22838245243723</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21902</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“The Khor Virap (Armenian: Խոր Վիրապ, meaning &amp;quot;deep pit&amp;quot; or &amp;quot;deep well&amp;quot;) is an Armenian Apostolic Church monastery located in the Ararat plain in Armenia, near the border with Turkey, about 8 kilometres (5.0 mi) south of Artashat, Ararat Province. The monastery was host to a theological seminary and was the residence of Armenian Catholicos.&lt;br&gt;Khor Virap&#39;s notability as a monastery and pilgrimage site is attributed to the fact that Grigor Lusavorich, who later became Saint Gregory the Illuminator, was initially imprisoned here for 14 years by King Tiridates III of Armenia. Saint Gregory subsequently became the king&#39;s religious mentor, and they led the proselytizing activity in the country. In the year 301, Armenia was the first country in the world to be declared a Christian nation. A chapel was initially built in 642 AD at the site of Kirat Virap by Nerses III the Builder as a mark of veneration to Saint Gregory. Over the centuries, it was repeatedly rebuilt. In 1662, the larger chapel known as the &amp;quot;St. Astvatsatsin&amp;quot; (Holy Mother of God) was built around the ruins of the old chapel, the monastery, the refectory and the cells of the monks. Now, regular Church services are held in this church. It is probably the most visited pilgrimage site in Armenia.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 30 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.57880520820834,39.878069876634214</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Masis</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Good spot for hitching South.  A sign for Iran had me picked up in 20 mins, but there&#39;s a lot of local traffic.  I always just try to hitch with higher end vehicles.  Lada&#39;s and such cars are almost always local, and will almost always ask you for money.”&lt;br&gt;
+&lt;em&gt;―Looking for Stu, 08 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:09:25Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>44.45425415039064,40.0718528560973</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

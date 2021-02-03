@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Colombia</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Spot 7797</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Caucasia, hacer dedo frente a la estacion de policia, al frente hay un hotel y restaurantes.&lt;br&gt;&lt;br&gt;Caucasia, hitchhiking front the police station, in front of a hotel and restaurants”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.200415011908,7.9905313890222</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7798</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Estación de Servicio (EDS) Plaza Bonita.&lt;br&gt;&lt;br&gt;Service Station (EDS) Plaza Bonita”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.526464339737,8.2964907087403</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Clemencia</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Salida de Cartagena, muy cerca al terminal de buses, pasan muchos camiones, furgonetas y buses rumbo a Barranquilla y Santa Marta.&lt;br&gt;&lt;br&gt;Out of Cartagena, close to the bus terminal, passing many trucks, vans and buses bound for Barranquilla and Santa Marta.”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Although I didn&#39;t try to get a ride from here, it didn&#39;t seem to me a good spot to get a ride. If you walk 2 kmts ahead there is a checkpoint, that was pretty good for me.”&lt;br&gt;
+&lt;em&gt;―Darioviajando, 24 May 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.457821246634,10.403388196802</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Barranquilla</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje Ponedera camino a Medellin, muy buen sitio.&lt;br&gt;&lt;br&gt;Ponedera toll road to Medellin, very good site”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-74.752708729792,10.717412267212</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 7804</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje Las Palmas camino a Bogota.&lt;br&gt;&lt;br&gt;Toll Las Palmas, route to Bogota”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.518401619232,6.1588572479934</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Santa Rosa de Osos</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Buen sitio para hacer dedo, muchos camiones y en el cruce hay tiendas de comida barata. Rumbo a Cartagena&lt;br&gt;&lt;br&gt;Good place to hitchhike, many trucks and the crossing of cheap food shops. Sailing to Cartagena”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.450606104325,6.6424369496415</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 11232</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“a lot of local traffic, but after about 40min i got a ride. no probs with police/army.”&lt;br&gt;
+&lt;em&gt;―Beule7, 25 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-77.6636494187167,0.8140221223236503</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cali</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Salida al sur de Cali. En la vía pasando la Universidad Autonoma, buen punto. También hay una estación de gasolina en la que paran muchos carros.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 05 May 2013&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“got a car to Popayan in 10 min”&lt;br&gt;
+&lt;em&gt;―, 18 Feb 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I hitchiked underneath the pedestrian bridge to stand in some shade [Blog Post](http://www.hobospirit.com/hitchhiking-from-cali-to-ipiales/)”&lt;br&gt;
+&lt;em&gt;―HoboSpirit, 27 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-76.52444458007747,3.358631018346204</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cali</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-76.49329876899554,3.489546154702177</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13876</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-76.50754666328268,3.497320815815125</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cali</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-76.55020451545593,3.454013209110839</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17222</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“This is actually the same as the spot a few kilometres down west at the toll collect station. Someone brought us here in order to only have the vehicles passing by which are definitely going north at the Panamericana Road. It took us (two guys) almost two hours until we almost gave up before someone took us for a two hour ride. Hitchhiking here is feasable but it takes its time.”&lt;br&gt;
+&lt;em&gt;―Travelrebel, 10 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-75.39011693000607,6.419473028619927</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17267</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“just ask for it. / sólo basta levantar la mano..”&lt;br&gt;
+&lt;em&gt;―Anonymous, 05 Feb 2017&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-75.48898315429712,6.206202885106999</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Popayán</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A perfect place to go to Cali.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 31 Jan 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Do not try hitchhiking south from this side of the city, had to walk it in the end”&lt;br&gt;
+&lt;em&gt;―HoboSpirit, 27 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-76.55871283380867,2.492930564943983</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17358</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A big shoulder on the road, makes  this spot usefull”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 31 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-76.4772595104441,3.4933668907598467</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17359</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Direction to Bogota. Jus walk a bit away from crossroad. ”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 31 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-76.0578049358601,4.337674371901227</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Calarcá</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Low speed and big shoulder.”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 31 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.63299667208084,4.529477370865313</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Pasto</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Here is a gas station before the hill, but you can tray about 1-2 km further if you like more quiet spots”&lt;br&gt;
+&lt;em&gt;―Dzeikobas, 31 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-77.28968913635607,1.2344127806923775</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bogotá</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-77.50618002662979,0.7954726496275152</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17572</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 5min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Mobil gas station”&lt;br&gt;
+&lt;em&gt;―Anonymous, 22 Feb 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-74.24456691741874,4.545030556741379</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18526</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“From here you can ask to the police in the checkpoint for a ride, they call it &amp;quot;una cola&amp;quot;. I did it and told him that I didn&#39;t have money and inmediatly he asked to a van that was passing by. He said yes ans that&#39;s it. Local poeple do that. I wasn&#39;t asked for money at all.&lt;br&gt;Another way is to take a moto-taxi to the regional bus station and from there take a bus to Maracaibo. It all cost aorund 200 bolivares instead of 500 bs, that costs the bus form the border.”&lt;br&gt;
+&lt;em&gt;―Darioviajando, 23 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.12854003906166,11.359659218967812</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18534</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a toll where is pretty easy to get a ride toward Venezuela. It took me less than one hour to get one. If you can get a ride to Riohacha, from there there are buses that charge you 2 or 3 dollars to get to Maicao.”&lt;br&gt;
+&lt;em&gt;―Darioviajando, 24 May 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Depending on the season there could be very few cars or a lot. Very east to get a ride to all the good spots near th tayrona park, Guajira and Venezuela. ”&lt;br&gt;
+&lt;em&gt;―Marcoavila, 25 Mar 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-74.10935139655682,11.253190580304434</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Cartagena</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There is a checkpoint, where is easy and safe to get a ride to Barranquilla, at least for me it took me less than half an hour. Cars have place to park.”&lt;br&gt;
+&lt;em&gt;―Darioviajando, 24 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.44781661033181,10.408010139255289</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Turbo</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“I took a bus to Necocli (2.5 dollars) and from there I got a ride to Monteria. I think I was lucky because there were very few cars passing by over there. I waited for 2 hours.”&lt;br&gt;
+&lt;em&gt;―Darioviajando, 24 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-76.72907567023375,8.097741415486396</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Soacha</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Unknown&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Terpel gas station”&lt;br&gt;
+&lt;em&gt;―Dr.Keith, 02 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>-74.22610890864917,4.571875644648886</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 20458</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 40min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Terpel gas station with rides to Manizales, Medellín.  ”&lt;br&gt;
+&lt;em&gt;―Dr.Keith, 02 Oct 2014&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Staff were very friendly in 2014”&lt;br&gt;
+&lt;em&gt;―Dr.Keith, 02 Oct 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;“thank you for your comment, i want to ask you, what kind of vehicle hitch you?”&lt;br&gt;
+&lt;em&gt;―Allopezto, 17 Jan 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-74.13801443576322,4.741804691960236</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21454</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“heard from locals you could hitch boats from this island. stayed for a week, swimming out to boats (cargo, yachts, launches, fish, etc) and didn&#39;t get any rides. had to hitch a small launch back to the coast to get to turbo. also sketchy island - before us last 2 people there had been journalists who were murdered (i was told). creepy place, there was a lady locked in her house, and we were told not to walk around too much. stayed with one very nice family in a little hut though. but still creepy… good experience”&lt;br&gt;
+&lt;em&gt;―Panamaqj, 02 Feb 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-76.1820874214189,9.38756266646697</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21954</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-76.44342041015466,3.5006084286053514</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21955</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-76.62190616781018,2.4267378849859558</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>La Estrella</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Best location for South towards Cali, three petrol stations and room for cars to pull in. Get off the metro at La Estrella continue south and walk up the hill.&lt;br&gt;&lt;br&gt;La mejor ubicación para el sur hacia Cali, tres estaciones de servicio Consiga del metro en La Estrella continúan sur y pie de la colina .”&lt;br&gt;
+&lt;em&gt;―Anonymous, 04 Jul 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I began hitchhiking to Cali from here in 2015. It tooke a further two days to reach Cali, read about it on my [blog here](http://www.hobospirit.com/hitchhiking-from-medellin-to-cali/)”&lt;br&gt;
+&lt;em&gt;―HoboSpirit, 04 Jul 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-75.63204145431477,6.147728873355429</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 23533</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 30min</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-77.60616874693773,0.8292085518213874</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Fusagasugá</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“After the intersection. Cars go slowly and there is a lot of space to pull off. I stood there just thumbing and it took me less than 20 minutes to get a hitch close to Ibagué. Traffic comes from Bogotá, but there is also a lot of local traffic. Maybe I was just really lucky that day.&lt;br&gt;&lt;br&gt;Detrás del crucero. Traffico desde Bogotá. Consigué un paseo hasta cerca de Ibagué en menos de veinte minutos sin letrero. Sin embargo hay también mucho traffico local. Tal vez sólo tuviese mucha suerte este día.”&lt;br&gt;
+&lt;em&gt;―Marcmanchugüerito, 27 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-74.38204622268839,4.35087271522877</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Copacabana</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 33min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Peaje al norte de Medellin, para llegar hay que tomar el Metro de Medellin y bajarse en la ultima estacion llamada NIQUIA. luego tomar un bus hasta el peaje, lo hice en el 2008 con buenos resultados, no me llevaron a mi destino final que era Cartagena pero avance bastante y me dejaron en otro sitio bueno para hacer dedo.&lt;br&gt;&lt;br&gt;Toll north of Medellin, to get there take the Metro de Medellin and get off at the last station called Niquuia, then take a bus to the toll, I did it in 2008 with good results, did not reach my final destination was Cartagena but forward enough and I left another good place to hitchhike.”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.527124163163,6.3449592466358</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Yarumal</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Yarumal, pequeño pueblo en las alturas de Medellin 2300 msnm, buen sitio para descansar, muchos estacionamientos de camiones.&lt;br&gt;&lt;br&gt;Yarumal, a small village on the heights of 2300 meters Medellin, good place to rest, many truck parking.”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.42253946919,6.968319258163</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Montería</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Salida norte a Cartagena, no tuve suerte y tomé un bus a Cartagena :(&lt;br&gt;&lt;br&gt;North exit towards Cartagena, no luck and took a bus to Cartagena :(”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-75.878649112175,8.7511632659305</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Barranquilla</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Muchos estacionamientos de camiones, carretera principal hacia Santa Marta&lt;br&gt;&lt;br&gt;Many truck parking, main road to Santa Marta”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-74.76876979732,10.950093122561</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Barranquilla</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Centro comercial Exito-Panorama, al frente hay estacionamiento de camiones y un hotel muy economico, aqui tambie se puede tomar el bus hacia el peaje Ponedera al sur de Barranquilla.&lt;br&gt;&lt;br&gt;Exito-Panorama supermarket, parking is in front of trucks and a very economic hotel, here you can also take the bus to the toll south of Barranquilla Ponedera”&lt;br&gt;
+&lt;em&gt;―Heyner, 20 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-74.784390982602,10.945532083615</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17221</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Setting: We were two guys going to Cartagena. One guy looked Latin like, another one obvious foreigner.&lt;br&gt;&lt;br&gt;Now: This is the place where the 2nd peaje (toll collect station) is where all the cars and trucks are passing. Don&#39;t try to walk there as it is mentioned in the description of Medellin, it would take you hours! Take a bus from the final metro stop Niquia to there and tell them to drop you off at this place. There is also a Esso gas station just after that. We found it general pretty hard to get a ride and we only found someone by talking to him while filling up. Hitchhiking in Colombia is not really fun I think. We didn&#39;t make very far and had to take a bus later. This is always a good option when you get stuck somewhere as they stop wherever you stand. So you need definitely time and patience.”&lt;br&gt;
+&lt;em&gt;―Travelrebel, 10 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>-75.47301864623853,6.381948267240232</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 17223</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Setting: two guys, one Latin looking, the other one obvious foreigner&lt;br&gt;&lt;br&gt;On our way to Cartagena we had a really lucky shot here. After standing here for about an hour, seeing ourselves already stepping back to the centre of the village where buses are leaving towards north there was suddenly one of this big container trucks stopping for us. The driver assinged us to sit behind the container in the very back. One of the most amazing rides I ever had! The driver told us that in case that the police would stop us he had claimed that we would have jumped illegally on the back and he wouldn&#39;t know about us. So we feared every time when the police was standing at the verge of the road but seriously, they&#39;ve seen us more than three times, a police car overtook us, military motorbikes passed by and no one was interesed in the fact that we sat there enjoying the panorama and the feeling of freedom. Thanks to the unknown driver for this great adventure!”&lt;br&gt;
+&lt;em&gt;―Travelrebel, 10 Jan 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-75.57384288311098,8.41965253624551</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Montería</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Road toward Cartagena.There is a toll, we waited one hour. If you are offered for a ride to Sincelejo, be carefull, we got stuck for many hours there. We ended up taking a bus to Toluviejo (2 dollars) and from there we got a ride to Cartagena.”&lt;br&gt;
+&lt;em&gt;―Darioviajando, 24 May 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-75.82553601264237,8.84363925908242</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 18866</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Take a minibus to Los Patio. Be careful to ask for the end of the town, if not you&#39;re ready for 5km walk or to take another bus.&lt;br&gt;It was easy because I ask a guy stopped who was going there.&lt;br&gt;I guess asking is the best option !”&lt;br&gt;
+&lt;em&gt;―Zyrgul, 12 Jun 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-72.51838302612339,7.805673718496246</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21307</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 20min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Caminar desde el puente peatonal por la calle, se va encontrando agencias de buses y mas adelante un parqueadero de camiones donde con suerte se puede conseguir fácilmente.&lt;br&gt;Salimos directo a Tunja. ”&lt;br&gt;
+&lt;em&gt;―Allopezto, 17 Jan 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-73.95952320098867,4.942903478910063</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 21870</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Walk a little bit away from the Tayrona park entrance and cars will go slow and could take you on your way to the Guajira ask locals where to go as there are many great places around. Hitchhiked here like 5 times never took me more than 15min.”&lt;br&gt;
+&lt;em&gt;―Marcoavila, 25 Mar 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-73.91351795196518,11.281431766497617</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Bello</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Buen lugar para esperar camiones en la ruta a Bogota, hay una estacion de servicio antes de un puente peatonal donde esperar.”&lt;br&gt;
+&lt;em&gt;―Davlop01, 29 May 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:11:16Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-75.5527492631178,6.311196408021311</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Egypt</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Spot 11178</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“slow, but very low traffic.”&lt;br&gt;
+&lt;em&gt;―LordOfTheCheese, 20 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:11Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>34.50261090448345,28.838375589333623</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Aswan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Walk out of the ferry and get a ride here to Aswan. Be careful, many drivers may ask you for money. Also, you can get stuck in Aswan easily.”&lt;br&gt;
+&lt;em&gt;―Kipan, 31 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:11Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>32.89836788177327,23.97823753010213</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Aswan</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Near the train station, you can start here towards the north, but there&#39;s a lot of local traffic and taxis. If possible, get out of the city at all!”&lt;br&gt;
+&lt;em&gt;―Kipan, 31 Aug 2012&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:11Z</when></TimeStamp>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>32.89959096908393,24.10069629110124</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Suez</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h</description>
+    <TimeStamp><when>2021-02-03T10:12:11Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>32.45932960510378,29.88741154654017</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 13968</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“to Farafra. there was no traffic at all but i was lucky and got a truck with 30km/h. at the end he asked me money but i rejected it.”&lt;br&gt;
+&lt;em&gt;―Sipmester, 09 May 2013&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:11Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>28.04457520963807,27.18238152813672</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>15th of May City</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“To get here, take the metro to Helwan (1 EGP) and walk South for 15 minutes on Mansour until the traffic thins out. Then take any microbus (1 EGP) going further South until you reach the highway. There will probably be other people waiting for a bus or shared transport. Just walk a bit further and try to wave down cars. Best to take the highway El-Karimat El-Zafrana. This road is in  a very good condition and is being extended further and further towards Luxor.”&lt;br&gt;
+&lt;em&gt;―Aron285, 19 Mar 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:11Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>31.351856231688835,29.818515997034947</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nueiba</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitchhiked with a local man heading north to Taba on his pick up truck with his two sons in the back. We couldn&#39;t communicate in language and the two boys wanted to give me all sorts of possessions of theirs for me to take. I gave them little funky wire men in return. I wanted to give their father some spare cash in return when he fuelled the car and he graciously refused over and over. Extremely kind and generous people. Simple human to human connection.”&lt;br&gt;
+&lt;em&gt;―Jools, 20 Oct 2014&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:12:11Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>34.7239723205565,29.190931245346494</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

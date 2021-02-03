@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Mauritania</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Nouakchott</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“ask the drivers for Dakhla or Nouakshoot, they will help you mostly, but dont pay more then 200 dirams to Dakhla or 60 dirams to Nouakshoot.&lt;br&gt;Dont drive with the people from Marocco group, they are really criminals, they want more for the way back as for the way to Nouakshoot.look for european plates.”&lt;br&gt;
+&lt;em&gt;―Anonymous, 05 Sep 2007&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s no need to pay for rides, it&#39;s definitely possible to find someone who will take you for free. (I&#39;ve been there in 2011 and 2012)”&lt;br&gt;
+&lt;em&gt;―Kundrt, 07 Jun 2014&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:59Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-17.0567142963409,20.8875025352986</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nouakchott</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“DIRECTION NOUADIBOU - MOROCCO&lt;br&gt;Position : find the police stop at the end of the city, become friend or bring something and next ask for a ride, they will find for you&lt;br&gt;Waiting : 5 min&lt;br&gt;Speed : Police stop every car&lt;br&gt;Traffic : 4 Cars / 1min”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:59Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-16.0214996337891,18.3382319290801</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 9944</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“ONLY for jumping the train to Choum. Make sure you bring some goggles and wear something around your mouth, for the intense dust...&lt;br&gt;&lt;br&gt;It was a free-for-all last time I was there in &#39;06.”&lt;br&gt;
+&lt;em&gt;―Angrybanana, 01 May 2012&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“I hitched the train all the way to Zouerat in January 2015. The night was very cold. Better go in the wagon with other people, especially if you want to stop before Zouerat, to know when is it. I missed my stop in Choum and finished in Zouerat.”&lt;br&gt;
+&lt;em&gt;―Garept, 15 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:59Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-17.059248447416,20.897852082254</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nouakchott</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 45min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“FRONTIERE AND NO MAN&#39;S LAND BETWEEN MAURITANIA AND MOROCCO&lt;br&gt;You will wait a long time with your driver to pass this frontiere, so this is the place to change your plan&lt;br&gt;Sign : ask for everywhere, I found a ride for more than 2000 km&lt;br&gt;Waiting : 2/3 hours for all the process and the crossing of the no man&#39;s land&lt;br&gt;Speed : very low”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“The Border at Mauritania side close at 18:00 so please try to arrive there earlier. I got there at 17:00 and there is no place to sleep on the Mauritania side only in the Morocco side (at least when i was there Summer 2013)”&lt;br&gt;
+&lt;em&gt;―Juaum, 27 Apr 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;“I changed my driver by crossing the border because my past Malian driver was about to be escort directly to Mali border. So I found a french camping-van who was going to Nouadhibou.”&lt;br&gt;
+&lt;em&gt;―Garept, 15 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:59Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>-16.9752502441406,21.2983311127934</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Nouakchott</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 10h 30min&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“There&#39;s a police check point around here, as of March 2011, the folks here are very friendly and will do all the hitching for you. The latter will take some time, though.”&lt;br&gt;
+&lt;em&gt;―Zenit, 16 May 2011&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:59Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-16.006870323193,18.143359886565</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Atar</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Medium&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“At the end of the town, at the police control.”&lt;br&gt;
+&lt;em&gt;―Garept, 15 Jun 2015&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Go to the police control and ask them to find you a lift. Even with them, it took me half day to find one. They usually wait for a mini bus with some spare seat. There is also lot of army guys doing this, you may wait them to leave before you go.”&lt;br&gt;
+&lt;em&gt;―Garept, 15 Jun 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:59Z</when></TimeStamp>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>-13.057113647462517,20.506365416062376</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>

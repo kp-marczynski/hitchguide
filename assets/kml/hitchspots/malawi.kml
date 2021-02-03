@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="line-black">
+    <LineStyle>
+        <color>ff000000</color>
+    </LineStyle>
+  </Style>
+  <name>Hitchspots: Malawi</name>
+  <visibility>1</visibility>
+      <Placemark>
+    <name>Mwanza</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 3h&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“Hitching is a little different in Malawi.  You are expected to pay a little bit towards gas, but other then that, hitching is a very culturally exceptable way to get around.”&lt;br&gt;
+&lt;em&gt;―Anonymous&lt;/em&gt;&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“That&#39;s good to know. Thanks&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Mike mike, 21 Dec 2010&lt;/em&gt;&lt;br&gt;&lt;br&gt;“a paid lift is not it&#39;s not an hitch hitchhiking lift by definition: it&#39;s a business. ”&lt;br&gt;
+&lt;em&gt;―Lulea, 07 Oct 2015&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:45Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>34.453125,-15.4536802243458</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 12837</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Good&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; 1h&lt;hr&gt;
+&lt;strong&gt;Comments:&lt;/strong&gt;&lt;br&gt;
+“Very good spot for going south into Malawi. Alot of Malawians import their cars from Tanzania and will be happy to take you.&lt;br&gt;They will expect some kind of payment though, DO NOT tell this to the police/army checkpoints, it is not allowed to take someone and have them pay since it will be seen as a taxi service, and the car doesnt have a taxi permit.&lt;br&gt;Just wait outside on the left side of the immigration building, coming from Tanzania. All cars have to pass through there eventually. If you&#39;re getting bored go out where all the cars are parked and ask around for destinations. &lt;br&gt;That way when someone finally gets their temporary import permit, you already know where they are going and will take you more easily because you asked them when they were waiting, and not when they&#39;re anxious to finally get going.&lt;br&gt;They wait might be long, but it will be way faster and cheaper than public transport in the end.&lt;br&gt;&lt;br&gt;”&lt;br&gt;
+&lt;em&gt;―Anonymous, 10 Jan 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;“Oh and the fine for my drivers was about 10.000 MWK. Which tripled my total price for going to Lilongwe. Agreed to pay 5.000 at first. ”&lt;br&gt;
+&lt;em&gt;―Anonymous, 10 Jan 2013&lt;/em&gt;&lt;br&gt;&lt;br&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:45Z</when></TimeStamp>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>33.772260189058414,-9.597856291234038</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+    <Placemark>
+    <name>Spot 24329</name>
+    <description>&lt;strong&gt;Hitchability:&lt;/strong&gt; Very Bad&lt;br&gt;
+&lt;strong&gt;Average Waiting time:&lt;/strong&gt; Unknown&lt;hr&gt;
+&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+“A good spot but the worst place ever to hitchhicke on the 65 cultures I went, from asia to america. Only expats (whites, Pakistani, Indians). Most Malawite will try to take advantage of your situation to make you pay (even if they are richer than you), begging is the national sport. Be aware that they can agree to take you for free but will change their mind one you will have make a couple of km with them, and they sometime become quite violent (on guy threatened me with iron rod). It&#39;s sad, but you can&#39;t really trust people there, try you will see. It&#39;s still possible, I hitchhike several hundert km (from Mzuzu Malawi to Zambia Lundazi and back,  to solve a visa issue) that was the most horrible trip I ever did, a more than a 20 years of international hitchhicke. You need to Waite for at least few hours, people making fun at you, I even got stoned and insulted while crossing small villages on foot (to get a better spot). I have been helped by few malawite (2 on 24 people, the 22 where foreigner). several hundert Malawit stopped, but ask money. 6 of them promise me a free ride but change their mind after few minutes.&lt;br&gt;&lt;br&gt;Just to say: Mozambic, some part of Tanzania, South Sudan where very easy compare to Malawi. ”&lt;br&gt;
+&lt;em&gt;―Lulea, 07 Oct 2015&lt;/em&gt;</description>
+    <TimeStamp><when>2021-02-03T10:14:45Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>33.98926162719761,-11.47093459083493</coordinates></Point>
+    <ExtendedData xmlns:mwm="http://mapswith.me">
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  </Document>
+</kml>
