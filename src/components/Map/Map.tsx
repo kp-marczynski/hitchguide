@@ -4,6 +4,7 @@ import MapContext from "./MapContext";
 import * as ol from "ol";
 import {DoubleClickZoom, DragPan, MouseWheelZoom, PinchZoom, Select} from 'ol/interaction';
 import {IonAlert} from "@ionic/react";
+import {Kinetic} from "ol";
 
 type MapProps = {
     children: any;
@@ -34,6 +35,7 @@ const Map = ({children, view}: MapProps) => {
                 new DoubleClickZoom(),
                 select
             ],
+            tilePixelRatio: 1
         };
 
         let mapObject: any = new ol.Map(options);

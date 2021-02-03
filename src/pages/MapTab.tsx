@@ -35,6 +35,7 @@ const MapTab: React.FC = () => {
     }, [])
 
     const viewFromLonLat = new View({
+        projection: 'EPSG:3857',
         center: fromLonLat([17, 51]),
         zoom: zoom,
         maxZoom: 14,
@@ -134,6 +135,7 @@ const MapTab: React.FC = () => {
                         {/*</Controls>*/}
                     </Map>
                     <div className={"attribution"} id="attribution">© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors</div>
+                    {/*<div className={"versionNumber"}>v{process.env.REACT_APP_VERSION}</div>*/}
                     <IonFab vertical="bottom" horizontal="end" slot="fixed">
                         <IonFabButton onClick={navigateToCurrentPosition}>
                             <IonIcon icon={locate}/>
