@@ -30,7 +30,7 @@ const zoom = 12;
 const MapTab: React.FC = () => {
     const [loadMap, setLoadMap] = useState(false)
     const [country, setCountry] = useState<string | null>("Poland")
-    const [userPositionInitialized, setUserPositionInitialized] = useState(false)
+
     useEffect(() => {
         setTimeout(() => setLoadMap(true), 1000)
     }, [])

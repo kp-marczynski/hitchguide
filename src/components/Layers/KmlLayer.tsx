@@ -10,6 +10,7 @@ const KmlLayer = ({url}:any) => {
                 url: url,
                 format: new KML({showPointNames: false})
             })}
+            minZoom={8}
         />
     );
 };

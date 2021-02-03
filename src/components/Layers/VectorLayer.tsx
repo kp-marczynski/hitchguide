@@ -2,7 +2,7 @@ import {useContext, useEffect} from "react";
 import MapContext from "../Map/MapContext";
 import OLVectorLayer from "ol/layer/Vector";
 
-const VectorLayer = ({source, style = undefined, zIndex = 0}: any) => {
+const VectorLayer = ({source, style = undefined, zIndex = 0, minZoom = 0}: any) => {
     const {map} = useContext(MapContext);
 
     useEffect(() => {
@@ -11,7 +11,7 @@ const VectorLayer = ({source, style = undefined, zIndex = 0}: any) => {
         let vectorLayer = new OLVectorLayer({
             source,
             style,
-            minZoom: 8
+            minZoom
         });
 
         vectorLayer.on("featureclick",evt=>console.log(evt))
