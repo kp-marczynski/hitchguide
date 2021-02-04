@@ -27,6 +27,53 @@ import {locate} from "ionicons/icons";
 import KmlLayer from "../components/Layers/KmlLayer";
 
 const zoom = 12;
+
+const positionFeature = new Feature();
+positionFeature.setStyle(new Style({
+    image: new CircleStyle({
+        radius: 6,
+        fill: new Fill({
+            color: '#3399CC'
+        }),
+        stroke: new Stroke({
+            color: '#fff',
+            width: 2
+        })
+    })
+}));
+
+const viewFromLonLat = new View({
+    projection: 'EPSG:3857',
+    center: fromLonLat([17, 51]),
+    zoom: 4,
+    maxZoom: 14,
+    // minZoom: 8
+})
+
+
+const geolocation = new Geolocation({
+    // enableHighAccuracy must be set to true to have the heading value.
+    trackingOptions: {
+        enableHighAccuracy: true
+    },
+    projection: viewFromLonLat.getProjection()
+})
+
+const accuracyFeature = new Feature();
+geolocation.on('change:accuracyGeometry', () => {
+    accuracyFeature.setGeometry(geolocation.getAccuracyGeometry());
+});
+
+geolocation.setTracking(true)
+geolocation.on('change:position', () => {
+    const coordinates = geolocation.getPosition();
+    positionFeature.setGeometry(coordinates ?
+        new Point(coordinates) : undefined);
+});
+document.addEventListener('visibilitychange', () => {
+    geolocation.setTracking(document.visibilityState !== 'hidden')
+})
+
 const MapTab: React.FC = () => {
     const [loadMap, setLoadMap] = useState(false)
     const [country, setCountry] = useState<string | null>("Poland")
@@ -35,70 +82,14 @@ const MapTab: React.FC = () => {
         setTimeout(() => setLoadMap(true), 1000)
     }, [])
 
-    const viewFromLonLat = new View({
-        projection: 'EPSG:3857',
-        center: fromLonLat([17, 51]),
-        zoom: 4,
-        maxZoom: 14,
-        // minZoom: 8
-    });
-
-    const [geolocation] = useState(new Geolocation({
-        // enableHighAccuracy must be set to true to have the heading value.
-        trackingOptions: {
-            enableHighAccuracy: true
-        },
-        projection: viewFromLonLat.getProjection()
-    }))
-
-    const accuracyFeature = new Feature();
-    geolocation.on('change:accuracyGeometry', () => {
-        accuracyFeature.setGeometry(geolocation.getAccuracyGeometry());
-    });
-
-    const positionFeature = new Feature();
-    positionFeature.setStyle(new Style({
-        image: new CircleStyle({
-            radius: 6,
-            fill: new Fill({
-                color: '#3399CC'
-            }),
-            stroke: new Stroke({
-                color: '#fff',
-                width: 2
-            })
-        })
-    }));
-
-    // geolocation.on('change:position', () => {
-    //     if (!userPositionInitialized && geolocation.getPosition() && loadMap) {
-    //         // setUserPositionInitialized(true)
-    //         navigateToCurrentPosition()
-    //     }
-    // });
-
-    geolocation.setTracking(true);
-
-    useEffect(() => {
-        document.addEventListener('visibilitychange', () => {
-            geolocation.setTracking(document.visibilityState !== 'hidden')
-        })
-    }, [geolocation])
-
     const navigateToCurrentPosition = () => {
         const coordinates = geolocation.getPosition();
-        positionFeature.setGeometry(coordinates ?
-            new Point(coordinates) : undefined);
         if (coordinates) {
-            console.log(coordinates)
             viewFromLonLat.animate({
                 center: coordinates,
                 zoom: zoom,
                 rotation: 0
             })
-            // viewFromLonLat.setCenter(coordinates);
-            // viewFromLonLat.setZoom(zoom);
-            // viewFromLonLat.setRotation(0);
         }
     }
 
@@ -140,12 +131,17 @@ const MapTab: React.FC = () => {
                                 zIndex={0}
                             />
                             <TileLayer source={new TileDebug()}/>
+                            <VectorLayer
+                                source={new VectorSource({
+                                    features: [accuracyFeature]
+                                })}
+                            />
                             {country &&
                             <KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}
                                       key={country}/>}
                             <VectorLayer
                                 source={new VectorSource({
-                                    features: [accuracyFeature, positionFeature]
+                                    features: [positionFeature]
                                 })}
                             />
                         </Layers>

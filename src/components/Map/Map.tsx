@@ -4,7 +4,6 @@ import MapContext from "./MapContext";
 import * as ol from "ol";
 import {DoubleClickZoom, DragPan, MouseWheelZoom, PinchZoom, Select} from 'ol/interaction';
 import {IonAlert} from "@ionic/react";
-import {Kinetic} from "ol";
 
 type MapProps = {
     children: any;
@@ -18,8 +17,11 @@ const Map = ({children, view}: MapProps) => {
     // on component mount
     useEffect(() => {
         const select = new Select()
-        select.on("select", evt=>{
-            setAlert(evt.selected[0].getProperties());
+        select.on("select", evt => {
+            if (evt.selected[0].getProperties()?.name || evt.selected[0].getProperties()?.description) {
+                console.log(evt.selected[0].getProperties())
+                setAlert(evt.selected[0].getProperties());
+            }
             select.getFeatures().clear()
         })
 
