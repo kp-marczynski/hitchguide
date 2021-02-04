@@ -6,8 +6,7 @@ import {DoubleClickZoom, DragPan, MouseWheelZoom, PinchZoom, Select} from 'ol/in
 import {createGesture, IonButton, IonCard, IonCardContent, IonCardHeader, IonCardTitle} from "@ionic/react";
 import classNames from "classnames";
 import Feature from "ol/Feature";
-import {Circle as CircleStyle, Fill, Stroke, Style} from "ol/style";
-import Point from "ol/geom/Point";
+import {Circle as CircleStyle, Fill, Style} from "ol/style";
 import {Vector as VectorSource} from "ol/source";
 import {Layers, VectorLayer} from "../Layers";
 
@@ -29,6 +28,13 @@ const Map = ({children, view}: MapProps) => {
     const mapRef: any = useRef();
     const [map, setMap] = useState<any>(null);
     const [alert, setAlert] = useState<any>(null)
+
+    useEffect(() => {
+        document.addEventListener('visibilitychange', () => {
+            map?.updateSize()
+        })
+
+    }, [map])
 
     useEffect(() => {
         const select = new Select()

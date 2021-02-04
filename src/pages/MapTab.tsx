@@ -16,7 +16,7 @@ import Map from "../components/Map/Map";
 import {Layers, TileLayer, VectorLayer} from "../components/Layers";
 
 import {fromLonLat} from 'ol/proj';
-import {TileDebug, TileWMS, Vector as VectorSource} from 'ol/source';
+import {TileWMS, Vector as VectorSource} from 'ol/source';
 import Feature from 'ol/Feature';
 import Point from 'ol/geom/Point';
 import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
@@ -72,6 +72,7 @@ geolocation.on('change:position', () => {
         new Point(coordinates) : undefined);
 });
 document.addEventListener('visibilitychange', () => {
+    console.log("change1")
     geolocation.setTracking(document.visibilityState !== 'hidden')
 })
 
@@ -101,6 +102,11 @@ const MapTab: React.FC = () => {
     useEffect(() => {
         setTimeout(() => setLoadMap(true), 1000)
     }, [])
+
+    document.addEventListener('visibilitychange', () => {
+        setLoadMap(false)
+        setTimeout(() => setLoadMap(true), 1000)
+    })
 
     const navigateToCurrentPosition = () => {
         const coordinates = geolocation.getPosition();
