@@ -9,6 +9,7 @@ import Feature from "ol/Feature";
 import {Circle as CircleStyle, Fill, Style} from "ol/style";
 import {Vector as VectorSource} from "ol/source";
 import {Layers, VectorLayer} from "../Layers";
+import useWindowDimensions from "../../utils/useWindowDimension";
 
 type MapProps = {
     children: any;
@@ -25,6 +26,7 @@ selectedFeature.setStyle(new Style({
     })
 }));
 const Map = ({children, view}: MapProps) => {
+    const { width, height } = useWindowDimensions();
     const mapRef: any = useRef();
     const [map, setMap] = useState<any>(null);
     const [alert, setAlert] = useState<any>(null)
@@ -123,8 +125,9 @@ const Map = ({children, view}: MapProps) => {
     const openDrawer = () => {
         let c: any = drawerRef.current;
         if (c) {
+            const newHeight = c.dataset.open ? height * 0.55 : height * 0.75
             c.style.transition = ".5s ease-in";
-            c.style.transform = `translateY(${-350}px) `;
+            c.style.transform = `translateY(${-newHeight}px) `;
             c.dataset.open = "true";
         }
     }
@@ -166,7 +169,7 @@ const Map = ({children, view}: MapProps) => {
                 </IonCardHeader>
                 <IonCardContent ref={drawerContentRef}>
                     <div dangerouslySetInnerHTML={{__html: alert?.description ?? "No description"}}
-                         style={{overflowY: "scroll", height: 275}}/>
+                         style={{overflowY: "scroll", height: 0.75 * height}}/>
                 </IonCardContent>
             </IonCard>
         </MapContext.Provider>
