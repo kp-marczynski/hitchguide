@@ -15,7 +15,6 @@ const Map = ({children, view}: MapProps) => {
     const [map, setMap] = useState<any>(null);
     const [alert, setAlert] = useState<any>(null)
 
-    // on component mount
     useEffect(() => {
         const select = new Select()
         select.on("select", evt => {
@@ -48,68 +47,46 @@ const Map = ({children, view}: MapProps) => {
         return () => mapObject.setTarget(undefined);
     }, []);
 
-    // zoom change handler
-    // useEffect(() => {
-    // 	if (!map) return;
-    //
-    // 	map.getView().setZoom(zoom);
-    // }, [zoom]);
-
-    // center change handler
-    // useEffect(() => {
-    // 	if (!map) return;
-    //
-    // 	map.getView().setCenter(center)
-    // }, [center])
-
     const drawerRef: any = useRef();
+    const drawerContentRef: any = useRef();
 
     useEffect(() => {
-        alert ? openDrawer() : closeDrawer()
+        if (alert) {
+            openDrawer()
+        } else {
+            drawerRef.current.style.transition = ".5s ease-out";
+            drawerRef.current.style.transform = `translateY(${25}px) `;
+        }
     }, [alert])
 
-    // when the page is loaded, we find the element that is the drawer
-    // and attach the gesture to it's reference using react `useRef` hook
     useEffect(() => {
-        let c = drawerRef.current;
-        const gesture = createGesture({
-            el: c,
+        let currentDrawer = drawerRef.current;
+        createGesture({
+            el: currentDrawer,
             gestureName: "my-swipe",
             direction: "y",
-            /**
-             * when moving, we start to show more of the drawer
-             */
-            onMove: event => {
-                if (event.deltaY < -300) return;
 
-                // closing with a downward swipe
-                if (event.deltaY > 20) {
-                    c.style.transform = "";
-                    c.dataset.open = "false";
-                    return;
-                }
-
-                c.style.transform = `translateY(${event.deltaY}px)`;
-            },
-            /**
-             * when the moving is done, based on a specific delta in the movement; in this
-             * case that value is -150, we determing the user wants to open the drawer.
-             *
-             * if not we just reset the drawer state to closed
-             */
             onEnd: event => {
-                c.style.transition = ".5s ease-out";
-
-                if (event.deltaY < -30 && c.dataset.open !== "true") {
-                    c.style.transform = `translateY(${-350}px) `;
-                    c.dataset.open = "true";
-                    console.log("in on end");
+                if (event.deltaY > 20) {
+                    if (currentDrawer.dataset.open === "false") {
+                        setAlert(false)
+                    } else {
+                        closeDrawer()
+                    }
+                } else if (event.deltaY < -20) {
+                    openDrawer()
                 }
-            }
-        });
+            },
+        }).enable(true);
 
-        // enable the gesture for the item
-        gesture.enable(true);
+        createGesture({
+            el: drawerContentRef.current,
+            gestureName: "my-swipe2",
+            direction: "y",
+            onMove: event => {
+                event.event.preventDefault()
+            }
+        }).enable(true);
     }, []);
     const toggleDrawer = () => {
         let c: any = drawerRef.current;
@@ -133,7 +110,7 @@ const Map = ({children, view}: MapProps) => {
         let c: any = drawerRef.current;
         if (c) {
             c.style.transition = ".5s ease-out";
-            c.style.transform = "";
+            c.style.transform = `translateY(${-70}px) `;
             c.dataset.open = "false";
         }
     }
@@ -142,13 +119,6 @@ const Map = ({children, view}: MapProps) => {
             <div ref={mapRef} className="ol-map">
                 {children}
             </div>
-            {/*<IonAlert*/}
-            {/*    isOpen={!!alert}*/}
-            {/*    onDidDismiss={() => setAlert(null)}*/}
-            {/*    cssClass='my-custom-class'*/}
-            {/*    header={alert?.name}*/}
-            {/*    message={alert?.description}*/}
-            {/*/>*/}
             <IonCard ref={drawerRef} className={classNames({
                 bottomDrawer: true,
                 hiddenCard: !alert
@@ -163,7 +133,7 @@ const Map = ({children, view}: MapProps) => {
                 <IonCardHeader>
                     <IonCardTitle>{alert?.name}</IonCardTitle>
                 </IonCardHeader>
-                <IonCardContent>
+                <IonCardContent ref={drawerContentRef}>
                     <div dangerouslySetInnerHTML={{__html: alert?.description}}
                          style={{overflowY: "scroll", height: 275}}/>
                 </IonCardContent>
