@@ -184,7 +184,7 @@ const MapTab: React.FC = () => {
                     <div className={"attribution"} id="attribution">© <a
                         href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors
                     </div>
-                    {/*<div className={"versionNumber"}>v{process.env.REACT_APP_VERSION}</div>*/}
+                    <div className={"versionNumber"}>{process.env.REACT_APP_NAME} v{process.env.REACT_APP_VERSION}</div>
                     <IonFab vertical="top" horizontal="end" slot="fixed">
                         <IonFabButton onClick={navigateToCurrentPosition}>
                             <IonIcon icon={locate}/>

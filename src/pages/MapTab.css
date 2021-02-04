@@ -1,13 +1,18 @@
 .attribution, .versionNumber {
     position: absolute;
-    bottom: 0;
     font-size: 0.75rem;
-    background-color: rgba(0,0,0,0.75);
+    background-color: rgba(0, 0, 0, 0.75);
     padding: 5px 10px;
 }
 
+.attribution {
+    bottom: 0;
+    left: 0;
+}
+
 .versionNumber {
-    margin: 0 auto;
+    bottom: 0;
+    right: 0;
 }
 
 .selected {
@@ -28,6 +33,7 @@
     z-index: 10;
     /*border-radius: 30px;*/
 }
+
 /*
 so the goal here is to have the drawer with only 10px displayed when
 closed, which leaves room for button or handle to start drag
