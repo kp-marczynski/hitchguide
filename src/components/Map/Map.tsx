@@ -5,11 +5,26 @@ import * as ol from "ol";
 import {DoubleClickZoom, DragPan, MouseWheelZoom, PinchZoom, Select} from 'ol/interaction';
 import {createGesture, IonButton, IonCard, IonCardContent, IonCardHeader, IonCardTitle} from "@ionic/react";
 import classNames from "classnames";
+import Feature from "ol/Feature";
+import {Circle as CircleStyle, Fill, Stroke, Style} from "ol/style";
+import Point from "ol/geom/Point";
+import {Vector as VectorSource} from "ol/source";
+import {Layers, VectorLayer} from "../Layers";
 
 type MapProps = {
     children: any;
     view: any;
 }
+
+const selectedFeature = new Feature();
+selectedFeature.setStyle(new Style({
+    image: new CircleStyle({
+        radius: 20,
+        fill: new Fill({
+            color: 'rgba(51,153,204,0.75)'
+        })
+    })
+}));
 const Map = ({children, view}: MapProps) => {
     const mapRef: any = useRef();
     const [map, setMap] = useState<any>(null);
@@ -20,6 +35,7 @@ const Map = ({children, view}: MapProps) => {
         select.on("select", evt => {
             if (evt.selected[0].getProperties()?.name || evt.selected[0].getProperties()?.description) {
                 console.log(evt.selected[0].getProperties())
+                selectedFeature.setGeometry(evt.selected[0].getProperties().geometry);
                 setAlert(evt.selected[0].getProperties());
             }
             select.getFeatures().clear()
@@ -70,6 +86,7 @@ const Map = ({children, view}: MapProps) => {
                 if (event.deltaY > 20) {
                     if (currentDrawer.dataset.open === "false") {
                         setAlert(false)
+                        selectedFeature.setGeometry(undefined)
                     } else {
                         closeDrawer()
                     }
@@ -110,7 +127,7 @@ const Map = ({children, view}: MapProps) => {
         let c: any = drawerRef.current;
         if (c) {
             c.style.transition = ".5s ease-out";
-            c.style.transform = `translateY(${-70}px) `;
+            c.style.transform = `translateY(${-60}px) `;
             c.dataset.open = "false";
         }
     }
@@ -118,6 +135,13 @@ const Map = ({children, view}: MapProps) => {
         <MapContext.Provider value={{map}}>
             <div ref={mapRef} className="ol-map">
                 {children}
+                <Layers>
+                    <VectorLayer
+                        source={new VectorSource({
+                            features: [selectedFeature]
+                        })}
+                    />
+                </Layers>
             </div>
             <IonCard ref={drawerRef} className={classNames({
                 bottomDrawer: true,
