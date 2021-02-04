@@ -158,7 +158,7 @@ const Map = ({children, view}: MapProps) => {
                     <IonCardTitle>{alert?.name}</IonCardTitle>
                 </IonCardHeader>
                 <IonCardContent ref={drawerContentRef}>
-                    <div dangerouslySetInnerHTML={{__html: alert?.description}}
+                    <div dangerouslySetInnerHTML={{__html: alert?.description ?? "No description"}}
                          style={{overflowY: "scroll", height: 275}}/>
                 </IonCardContent>
             </IonCard>

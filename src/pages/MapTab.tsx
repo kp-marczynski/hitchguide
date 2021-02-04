@@ -130,7 +130,7 @@ const MapTab: React.FC = () => {
                                 }
                                 zIndex={0}
                             />
-                            <TileLayer source={new TileDebug()}/>
+                            {/*<TileLayer source={new TileDebug()}/>*/}
                             <VectorLayer
                                 source={new VectorSource({
                                     features: [accuracyFeature]
@@ -153,7 +153,7 @@ const MapTab: React.FC = () => {
                         href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors
                     </div>
                     {/*<div className={"versionNumber"}>v{process.env.REACT_APP_VERSION}</div>*/}
-                    <IonFab vertical="bottom" horizontal="end" slot="fixed">
+                    <IonFab vertical="top" horizontal="end" slot="fixed">
                         <IonFabButton onClick={navigateToCurrentPosition}>
                             <IonIcon icon={locate}/>
                         </IonFabButton>
