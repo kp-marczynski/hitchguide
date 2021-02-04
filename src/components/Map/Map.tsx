@@ -156,6 +156,7 @@ const Map = ({children, view}: MapProps) => {
                 <div style={{textAlign: "center"}}>
                     <IonButton
                         size="large"
+                        color="dark"
                         style={{height: 10, width: 100}}
                         onClick={toggleDrawer}
                     />
