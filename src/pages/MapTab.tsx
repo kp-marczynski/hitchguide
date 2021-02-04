@@ -25,6 +25,7 @@ import View from 'ol/View';
 import './MapTab.css';
 import {locate} from "ionicons/icons";
 import KmlLayer from "../components/Layers/KmlLayer";
+import Text from "ol/style/Text";
 
 const zoom = 12;
 
@@ -73,6 +74,25 @@ geolocation.on('change:position', () => {
 document.addEventListener('visibilitychange', () => {
     geolocation.setTracking(document.visibilityState !== 'hidden')
 })
+
+const kmlCircleFeature = new Feature();
+kmlCircleFeature.setGeometry(new Point(fromLonLat([17, 51])))
+kmlCircleFeature.setStyle(new Style({
+    image: new CircleStyle({
+        radius: 50,
+        fill: new Fill({
+            color: '#3399CC'
+        }),
+        stroke: new Stroke({
+            color: '#fff',
+            width: 2
+        })
+    }),
+    text: new Text({
+        text: "42",
+        scale: 5
+    })
+}))
 
 const MapTab: React.FC = () => {
     const [loadMap, setLoadMap] = useState(false)
@@ -139,6 +159,12 @@ const MapTab: React.FC = () => {
                             {country &&
                             <KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}
                                       key={country}/>}
+                            {/*<VectorLayer*/}
+                            {/*    source={new VectorSource({*/}
+                            {/*        features: [kmlCircleFeature]*/}
+                            {/*    })}*/}
+                            {/*    maxZoom={8}*/}
+                            {/*/>*/}
                             <VectorLayer
                                 source={new VectorSource({
                                     features: [positionFeature]
