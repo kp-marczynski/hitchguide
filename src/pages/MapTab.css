@@ -9,3 +9,26 @@
 .versionNumber {
     margin: 0 auto;
 }
+
+.selected {
+    font-weight: 600;
+}
+
+#myModal div.modal-wrapper {
+    background: transparent !important;
+}
+
+.bottomDrawer {
+    position: absolute;
+    margin: 0;
+    right: 0;
+    left: 0;
+    bottom: -380px;
+    height: 400px;
+    z-index: 10;
+    /*border-radius: 30px;*/
+}
+/*
+so the goal here is to have the drawer with only 10px displayed when
+closed, which leaves room for button or handle to start drag
+*/

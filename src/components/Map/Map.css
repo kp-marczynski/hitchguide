@@ -17,3 +17,7 @@
     top: .5em;
     right: .5em;
 }
+
+.hiddenCard {
+    visibility: hidden;
+}

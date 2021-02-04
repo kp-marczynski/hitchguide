@@ -109,7 +109,7 @@ const MapTab: React.FC = () => {
                     </IonItem>
                 </IonToolbar>
             </IonHeader>
-            <IonContent>
+            <IonContent scrollY={false}>
                 {loadMap &&
                 <div style={{width: "100%", height: "100%", position: "static"}} id="map-container">
                     <Map view={viewFromLonLat}>
