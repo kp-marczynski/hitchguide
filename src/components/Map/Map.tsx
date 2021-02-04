@@ -3,8 +3,9 @@ import "./Map.css";
 import MapContext from "./MapContext";
 import * as ol from "ol";
 import {DoubleClickZoom, DragPan, MouseWheelZoom, PinchZoom, Select} from 'ol/interaction';
-import {IonAlert, IonButton, IonCard, IonCardHeader, createGesture, IonCardTitle, IonCardContent, IonicSafeString} from "@ionic/react";
+import {createGesture, IonButton, IonCard, IonCardContent, IonCardHeader, IonCardTitle} from "@ionic/react";
 import classNames from "classnames";
+
 type MapProps = {
     children: any;
     view: any;
@@ -148,10 +149,10 @@ const Map = ({children, view}: MapProps) => {
             {/*    header={alert?.name}*/}
             {/*    message={alert?.description}*/}
             {/*/>*/}
-             <IonCard ref={drawerRef} className={classNames({
-                 bottomDrawer: true,
-                 hiddenCard: !alert
-             })}>
+            <IonCard ref={drawerRef} className={classNames({
+                bottomDrawer: true,
+                hiddenCard: !alert
+            })}>
                 <div style={{textAlign: "center"}}>
                     <IonButton
                         size="large"
@@ -162,7 +163,10 @@ const Map = ({children, view}: MapProps) => {
                 <IonCardHeader>
                     <IonCardTitle>{alert?.name}</IonCardTitle>
                 </IonCardHeader>
-                 <IonCardContent><div dangerouslySetInnerHTML={{ __html: alert?.description }} style={{overflowY: "scroll"}}/></IonCardContent>
+                <IonCardContent>
+                    <div dangerouslySetInnerHTML={{__html: alert?.description}}
+                         style={{overflowY: "scroll", height: 275}}/>
+                </IonCardContent>
             </IonCard>
         </MapContext.Provider>
     )
