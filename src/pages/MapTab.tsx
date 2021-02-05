@@ -133,20 +133,20 @@ const MapTab: React.FC = () => {
 
     return (
         <IonPage>
-            <IonHeader>
-                <IonToolbar>
-                    {/*<IonItem>*/}
-                    {/*    <IonLabel>Country</IonLabel>*/}
-                    {/*    <IonSelect value={country} onIonChange={e => setCountry(e.detail.value)}*/}
-                    {/*               placeholder="Select Country">*/}
-                    {/*        <IonSelectOption value={null}/>*/}
-                    {/*        <IonSelectOption value="Poland">Poland</IonSelectOption>*/}
-                    {/*        <IonSelectOption value="Poland2">Poland2</IonSelectOption>*/}
-                    {/*        <IonSelectOption value="Germany">Germany</IonSelectOption>*/}
-                    {/*    </IonSelect>*/}
-                    {/*</IonItem>*/}
-                </IonToolbar>
-            </IonHeader>
+            {/*<IonHeader>*/}
+            {/*    <IonToolbar>*/}
+            {/*        <IonItem>*/}
+            {/*            <IonLabel>Country</IonLabel>*/}
+            {/*            <IonSelect value={country} onIonChange={e => setCountry(e.detail.value)}*/}
+            {/*                       placeholder="Select Country">*/}
+            {/*                <IonSelectOption value={null}/>*/}
+            {/*                <IonSelectOption value="Poland">Poland</IonSelectOption>*/}
+            {/*                <IonSelectOption value="Poland2">Poland2</IonSelectOption>*/}
+            {/*                <IonSelectOption value="Germany">Germany</IonSelectOption>*/}
+            {/*            </IonSelect>*/}
+            {/*        </IonItem>*/}
+            {/*    </IonToolbar>*/}
+            {/*</IonHeader>*/}
             <IonContent scrollY={false}>
                 {loadMap &&
                 <div style={{width: "100%", height: "100%", position: "static"}} id="map-container">
