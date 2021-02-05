@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddaa4f66e1f52e50bc733fcd855b47aa",
+    "revision": "49585c2fdf2483dfce82ce8cf092883f",
     "url": "/hitchguide/index.html"
   },
   {
-    "revision": "9d6fc64a35b02fb1e2cf",
+    "revision": "28ab091e08d88d54bac0",
     "url": "/hitchguide/static/css/4.21302a68.chunk.css"
   },
   {
-    "revision": "62abf5325b183b91872b",
+    "revision": "42a77015318a12eba32e",
     "url": "/hitchguide/static/css/main.3eca26af.chunk.css"
   },
   {
@@ -136,12 +136,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hitchguide/static/js/39.55aac2e6.chunk.js"
   },
   {
-    "revision": "9d6fc64a35b02fb1e2cf",
-    "url": "/hitchguide/static/js/4.85a92806.chunk.js"
+    "revision": "28ab091e08d88d54bac0",
+    "url": "/hitchguide/static/js/4.a2115b23.chunk.js"
   },
   {
     "revision": "269152bc2b7cb8732af3900656022938",
-    "url": "/hitchguide/static/js/4.85a92806.chunk.js.LICENSE.txt"
+    "url": "/hitchguide/static/js/4.a2115b23.chunk.js.LICENSE.txt"
   },
   {
     "revision": "4b0739f39f8168e384ef",
@@ -248,8 +248,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hitchguide/static/js/9.a40e9bf1.chunk.js"
   },
   {
-    "revision": "62abf5325b183b91872b",
-    "url": "/hitchguide/static/js/main.7c6bceb3.chunk.js"
+    "revision": "42a77015318a12eba32e",
+    "url": "/hitchguide/static/js/main.7b5b7d09.chunk.js"
   },
   {
     "revision": "c14dcf8577fa5d362bf1",
