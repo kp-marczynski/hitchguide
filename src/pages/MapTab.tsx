@@ -108,7 +108,7 @@ const MapTab: React.FC = () => {
                 'Accept': 'application/json'
             }
         }).then((r) => r.json()).then(r => {
-            const kml = createKmlString(r);
+            const kml = createKmlString(r.filter((elem: any)=>elem.c === "PL"));
             // console.log(kml)
             setKmlString(kml)
         })
