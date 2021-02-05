@@ -209,10 +209,12 @@ const MapTab: React.FC = () => {
                         <IonFabButton onClick={navigateToCurrentPosition}>
                             <IonIcon icon={locate}/>
                         </IonFabButton>
-                        {kmlString && <IonFabButton onClick={() => saveKmlToFile("world", kmlString)}>
-                            <IonIcon icon={cloudDownload}/>
-                        </IonFabButton>}
                     </IonFab>
+                    {kmlString && <IonFab vertical="top" horizontal="start" slot="fixed">
+                        <IonFabButton onClick={() => saveKmlToFile("world", kmlString)}>
+                            <IonIcon icon={cloudDownload}/>
+                        </IonFabButton>
+                    </IonFab> }
                 </div>}
             </IonContent>
         </IonPage>
