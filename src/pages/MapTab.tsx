@@ -24,8 +24,9 @@ import Geolocation from 'ol/Geolocation';
 import View from 'ol/View';
 import './MapTab.css';
 import {locate} from "ionicons/icons";
-import KmlLayer from "../components/Layers/KmlLayer";
 import Text from "ol/style/Text";
+import {KML} from "ol/format";
+import createKmlString from "../utils/kmlTemplate";
 
 const zoom = 12;
 
@@ -99,8 +100,19 @@ const MapTab: React.FC = () => {
     const [loadMap, setLoadMap] = useState(false)
     const [country, setCountry] = useState<string | null>("Poland")
 
+    const [countryKml, setCountryKml] = useState<string | undefined>()
     useEffect(() => {
         setTimeout(() => setLoadMap(true), 1000)
+        fetch('assets/json/world.json', {
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json'
+            }
+        }).then((r) => r.json()).then(r => {
+            const kml = createKmlString(r);
+            // console.log(kml)
+            setCountryKml(kml)
+        })
     }, [])
 
     document.addEventListener('visibilitychange', () => {
@@ -123,16 +135,16 @@ const MapTab: React.FC = () => {
         <IonPage>
             <IonHeader>
                 <IonToolbar>
-                    <IonItem>
-                        <IonLabel>Country</IonLabel>
-                        <IonSelect value={country} onIonChange={e => setCountry(e.detail.value)}
-                                   placeholder="Select Country">
-                            <IonSelectOption value={null}/>
-                            <IonSelectOption value="Poland">Poland</IonSelectOption>
-                            <IonSelectOption value="Poland2">Poland2</IonSelectOption>
-                            <IonSelectOption value="Germany">Germany</IonSelectOption>
-                        </IonSelect>
-                    </IonItem>
+                    {/*<IonItem>*/}
+                    {/*    <IonLabel>Country</IonLabel>*/}
+                    {/*    <IonSelect value={country} onIonChange={e => setCountry(e.detail.value)}*/}
+                    {/*               placeholder="Select Country">*/}
+                    {/*        <IonSelectOption value={null}/>*/}
+                    {/*        <IonSelectOption value="Poland">Poland</IonSelectOption>*/}
+                    {/*        <IonSelectOption value="Poland2">Poland2</IonSelectOption>*/}
+                    {/*        <IonSelectOption value="Germany">Germany</IonSelectOption>*/}
+                    {/*    </IonSelect>*/}
+                    {/*</IonItem>*/}
                 </IonToolbar>
             </IonHeader>
             <IonContent scrollY={false}>
@@ -162,9 +174,18 @@ const MapTab: React.FC = () => {
                                     features: [accuracyFeature]
                                 })}
                             />
-                            {country &&
-                            <KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}
-                                      key={country}/>}
+                            {/*{country &&*/}
+                            {/*<KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}*/}
+                            {/*          key={country}/>}*/}
+                            {countryKml && <VectorLayer
+                                source={new VectorSource({
+                                    features: new KML({showPointNames: false}).readFeatures(countryKml, {
+                                        dataProjection: 'EPSG:4326',
+                                        featureProjection: 'EPSG:3857'
+                                    })
+                                })}
+                                minZoom={8}
+                            />}
                             {/*<VectorLayer*/}
                             {/*    source={new VectorSource({*/}
                             {/*        features: [kmlCircleFeature]*/}

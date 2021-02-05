@@ -28,8 +28,8 @@
     margin: 0;
     right: 0;
     left: 0;
-    /*bottom: -380px;*/
-    /*height: 400px;*/
+    bottom: -380px;
+    height: 400px;
     z-index: 10;
     /*border-radius: 30px;*/
 }
