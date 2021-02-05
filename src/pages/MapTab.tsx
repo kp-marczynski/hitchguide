@@ -23,10 +23,10 @@ import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
 import Geolocation from 'ol/Geolocation';
 import View from 'ol/View';
 import './MapTab.css';
-import {locate} from "ionicons/icons";
+import {cloudDownload, locate} from "ionicons/icons";
 import Text from "ol/style/Text";
 import {KML} from "ol/format";
-import createKmlString from "../utils/kmlTemplate";
+import createKmlString, {saveKmlToFile} from "../utils/kmlUtil";
 
 const zoom = 12;
 
@@ -98,9 +98,8 @@ kmlCircleFeature.setStyle(new Style({
 
 const MapTab: React.FC = () => {
     const [loadMap, setLoadMap] = useState(false)
-    const [country, setCountry] = useState<string | null>("Poland")
 
-    const [countryKml, setCountryKml] = useState<string | undefined>()
+    const [kmlString, setKmlString] = useState<string | undefined>()
     useEffect(() => {
         setTimeout(() => setLoadMap(true), 1000)
         fetch(process.env.PUBLIC_URL + '/assets/json/world.json', {
@@ -111,7 +110,7 @@ const MapTab: React.FC = () => {
         }).then((r) => r.json()).then(r => {
             const kml = createKmlString(r);
             // console.log(kml)
-            setCountryKml(kml)
+            setKmlString(kml)
         })
     }, [])
 
@@ -177,9 +176,9 @@ const MapTab: React.FC = () => {
                             {/*{country &&*/}
                             {/*<KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}*/}
                             {/*          key={country}/>}*/}
-                            {countryKml && <VectorLayer
+                            {kmlString && <VectorLayer
                                 source={new VectorSource({
-                                    features: new KML({showPointNames: false}).readFeatures(countryKml, {
+                                    features: new KML({showPointNames: false}).readFeatures(kmlString, {
                                         dataProjection: 'EPSG:4326',
                                         featureProjection: 'EPSG:3857'
                                     })
@@ -210,6 +209,9 @@ const MapTab: React.FC = () => {
                         <IonFabButton onClick={navigateToCurrentPosition}>
                             <IonIcon icon={locate}/>
                         </IonFabButton>
+                        {kmlString && <IonFabButton onClick={() => saveKmlToFile("world", kmlString)}>
+                            <IonIcon icon={cloudDownload}/>
+                        </IonFabButton>}
                     </IonFab>
                 </div>}
             </IonContent>

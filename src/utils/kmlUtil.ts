@@ -1,3 +1,5 @@
+import {saveAs} from 'file-saver';
+
 type POI = {
     i: number,
     c: string,
@@ -55,13 +57,13 @@ export default function createKmlString(places: POI[]) {
             "<visibility>1</visibility>\n" +
             "<address>" + poi.c + (poi.p ? ", " + poi.p : "") + "</address>\n" +
             "<description><![CDATA[" +
-            "<b>Description:</b><hr/>" + (poi.d ?? "") +
-            "<br/><b>Comments:</b><hr/>" + (poi.o ?? "") +
+            (poi.t ? "<b>Average waiting time: </b>" + poi.t + "min<br/><br/>" : "") +
+            "<b>Description:</b><hr/>" + (poi.d ?? "") + "<br/>" + (poi.o ?? "") +
             "]]></description>\n" +
             "<Point><coordinates>" + poi.l + "</coordinates></Point>\n" +
             "<styleUrl>#placemark-" + getStyle(poi.s) + "</styleUrl>\n" +
             "</Placemark>"
-        ).join("\n") +
+        ).join("\n\n") +
         "</Document>\n" +
         "</kml>\n"
 }
@@ -81,4 +83,10 @@ const getStyle = (score: number) => {
         default:
             return "purple"
     }
+}
+
+export const saveKmlToFile = (filename: string, kmlString: string) => {
+    // console.log('saving to file');
+    const kmlBlob = new Blob([kmlString], {type: 'application/vnd.google-earth.kml+xml'});
+    saveAs(kmlBlob, filename + '.kml');
 }
