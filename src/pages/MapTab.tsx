@@ -103,7 +103,7 @@ const MapTab: React.FC = () => {
     const [countryKml, setCountryKml] = useState<string | undefined>()
     useEffect(() => {
         setTimeout(() => setLoadMap(true), 1000)
-        fetch('assets/json/world.json', {
+        fetch(process.env.PUBLIC_URL + '/assets/json/world.json', {
             headers: {
                 'Content-Type': 'application/json',
                 'Accept': 'application/json'
