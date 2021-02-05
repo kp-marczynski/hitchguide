@@ -858,25 +858,29 @@ readHitchspots().then(hitchspots => {
                     poi.push({
                         id: getWithRegex(descText, /place=([0-9]+)/),
                         country: parsedFile.getElementsByTagName("name")[0].textContent,
-                        name: placemarks[i].getElementsByTagName("name")[0].textContent,
+                        town: getWithRegex(placemarks[i].getElementsByTagName("name")[0].textContent, /spot in (.+), /),
                         coords: coords,
                         style: placemarks[i].getElementsByTagName("styleUrl")[0].textContent,
                         hitchability: selectFirstNonEmpty(
                             getWithRegex(descText, /Hitchability:<\/b> ((.|\n)+) <b/, /Hitchability:<\/b> (Very good|Good|Average|Bad|Senseless)/).replace("Average", "Medium").replace("Senseless", "Very Bad"),
                             getWithRegex(descText2, /<strong>Hitchability:<\/strong> (Very Good|Good|Medium|Bad|Very Bad)/)),
+                        hitchabilityVotes: getWithRegex(descText, /\(([0-9]+) (votes|vote)\)/),
                         time: selectLonger(
                             getWithRegex(descText, /Waiting time:<\/b> ((.|\n)+) \([0-9]+ ex/),
                             getWithRegex(descText2, /Waiting time:<\/strong> ((.|\n)+(min|h))<hr>/, /Waiting time:<\/strong> ((.|\n)+(min|h))$/)),
+                        timeExp: getWithRegex(descText, /\(([0-9]+) (experience|experiences)\)/),
                         description: selectLonger(
                             getWithRegex(descText, /((.|\n)+<\/p>)/).replace(/<p>/, "“").replace(/<\/p>/, "”"),
                             getWithRegex(descText2, /Description:<\/strong><br>\n((.|\n)+)\n<strong>Comments:/, /Description:<\/strong><br>\n((.|\n)+)$/)),
-                        comments: getWithRegex(descText2, /Comments:<\/strong><br>\n((.|\n)+)$/)
+                        comments: getWithRegex(descText2, /Comments:<\/strong><br>\n((.|\n)+)$/),
+                        desc1: descText,
+                        desc2: descText2
                     })
                 }
             });
             let maxId = Math.max(...poi.filter(elem => elem.id.length > 0).map(elem => parseInt(elem.id)))
             const poiMinified = poi.map((elem, index) => {
-                if (poi.find((elem2, index2) => index2 < index && elem.coords === elem2.coords && elem.description === elem2.description && elem.comments === elem2.comments)){
+                if (poi.find((elem2, index2) => index2 < index && elem.coords === elem2.coords && elem.description === elem2.description && elem.comments === elem2.comments)) {
                     return null
                 } else {
                     const temp = {}
@@ -887,13 +891,36 @@ readHitchspots().then(hitchspots => {
                     }
                     temp['i'] = id //id
                     temp['c'] = countries[elem.country].iso //country
-                    temp['l'] = elem.coords //location
-                    if (elem.name) {
-                        temp['n'] = elem.name //name
+                    if (elem.town) {
+                        temp['p'] = elem.town //place
                     }
+                    temp['l'] = elem.coords //location
                     temp['s'] = getScore(elem.style) //score
+                    if (elem.hitchabilityVotes.length > 0) {
+                        temp['sc'] = parseInt(elem.hitchabilityVotes) //score count
+                    } else {
+                        temp['sc'] = 1
+                    }
                     if (elem.time.length > 0) {
-                        temp['t'] = elem.time //time
+                        const h = parseInt(getWithRegex(elem.time, /([0-9]+)h/))
+                        const m = parseInt(getWithRegex(elem.time, /([0-9]+)min/))
+
+                        let time = 0;
+                        if (!isNaN(h)) {
+                            time += 60 * h
+                        }
+                        if (!isNaN(m)) {
+                            time += m
+                        }
+                        if (time === 0) {
+                            console.error("invalid time", elem.time)
+                        }
+                        temp['t'] = time //time
+                        if (elem.timeExp.length > 0) {
+                            temp['tc'] = parseInt(elem.timeExp) //time count
+                        } else {
+                            temp['tc'] = 1
+                        }
                     }
                     if (elem.description.length > 0) {
                         temp['d'] = elem.description //description
@@ -901,15 +928,17 @@ readHitchspots().then(hitchspots => {
                     if (elem.comments.length > 0) {
                         temp['o'] = elem.comments // opinions
                     }
+                    // temp['desc1']= elem.desc1
+                    // temp['desc2']= elem.desc2
 
                     return temp
                 }
             }).filter(elem => elem)
-            poiMinified.filter((x, xi) => poiMinified.find((y, yi) => xi !== yi && x.l === y.l)).forEach(elem => {
-                console.error(elem)
-            })
+            // poiMinified.filter((x, xi) => poiMinified.find((y, yi) => xi !== yi && x.l === y.l)).forEach(elem => {
+            //     console.error(elem)
+            // })
 
-            fs.writeFileSync('./public/assets/json/world.json', JSON.stringify(poiMinified, null, 2))
+            fs.writeFileSync('./public/assets/json/world.json', JSON.stringify(poiMinified, null, 1))
         })
         .catch(error => {
             console.log(error);
