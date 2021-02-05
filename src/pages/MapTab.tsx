@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React, {useContext, useEffect, useState} from 'react';
 import {
     IonContent,
     IonFab,
@@ -15,7 +15,7 @@ import {
 import Map from "../components/Map/Map";
 import {Layers, TileLayer, VectorLayer} from "../components/Layers";
 
-import {fromLonLat} from 'ol/proj';
+import {fromLonLat, toLonLat} from 'ol/proj';
 import {TileWMS, Vector as VectorSource} from 'ol/source';
 import Feature from 'ol/Feature';
 import Point from 'ol/geom/Point';
@@ -27,6 +27,7 @@ import {cloudDownload, locate} from "ionicons/icons";
 import Text from "ol/style/Text";
 import {KML} from "ol/format";
 import createKmlString, {saveKmlToFile} from "../utils/kmlUtil";
+import MapContext from "../components/Map/MapContext";
 
 const zoom = 12;
 
@@ -97,9 +98,11 @@ kmlCircleFeature.setStyle(new Style({
 }))
 
 const MapTab: React.FC = () => {
+    const mapContext = useContext(MapContext);
     const [loadMap, setLoadMap] = useState(false)
 
     const [kmlString, setKmlString] = useState<string | undefined>()
+    const [poi, setPoi] = useState([])
     useEffect(() => {
         setTimeout(() => setLoadMap(true), 1000)
         fetch(process.env.PUBLIC_URL + '/assets/json/world.json', {
@@ -108,11 +111,24 @@ const MapTab: React.FC = () => {
                 'Accept': 'application/json'
             }
         }).then((r) => r.json()).then(r => {
-            const kml = createKmlString(r.filter((elem: any)=>elem.c === "PL"));
+            setPoi(r)
+            const kml = createKmlString(r.filter((elem: any) => elem.c === "PL"));
             // console.log(kml)
             setKmlString(kml)
         })
     }, [])
+
+    const moveEndCallback = (e: any) => {
+        const center = viewFromLonLat.getCenter()
+        if (center) {
+            const lonLat = toLonLat(center)
+            setKmlString(createKmlString(poi.filter((elem: any) => {
+                const poiLonLat = elem.l.split(",").map((l: string) => parseFloat(l))
+                return lonLat[0] - 4 < poiLonLat[0] && lonLat[0] + 4 > poiLonLat[0] && lonLat[1] - 2 < poiLonLat[1] && lonLat[1] + 2 > poiLonLat[1]
+            })))
+        }
+
+    }
 
     document.addEventListener('visibilitychange', () => {
         setLoadMap(false)
@@ -149,7 +165,7 @@ const MapTab: React.FC = () => {
             <IonContent scrollY={false}>
                 {loadMap &&
                 <div style={{width: "100%", height: "100%", position: "static"}} id="map-container">
-                    <Map view={viewFromLonLat}>
+                    <Map view={viewFromLonLat} moveEndCallback={moveEndCallback}>
                         <Layers>
                             <TileLayer
                                 source={
@@ -176,7 +192,7 @@ const MapTab: React.FC = () => {
                             {/*{country &&*/}
                             {/*<KmlLayer url={process.env.PUBLIC_URL + '/assets/kml/countries/' + country + '.kml'}*/}
                             {/*          key={country}/>}*/}
-                            {kmlString && <VectorLayer
+                            {kmlString && <VectorLayer key={kmlString}
                                 source={new VectorSource({
                                     features: new KML({showPointNames: false}).readFeatures(kmlString, {
                                         dataProjection: 'EPSG:4326',
@@ -214,7 +230,7 @@ const MapTab: React.FC = () => {
                         <IonFabButton onClick={() => saveKmlToFile("world", kmlString)}>
                             <IonIcon icon={cloudDownload}/>
                         </IonFabButton>
-                    </IonFab> }
+                    </IonFab>}
                 </div>}
             </IonContent>
         </IonPage>

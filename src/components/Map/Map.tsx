@@ -10,10 +10,6 @@ import {Circle as CircleStyle, Fill, Style} from "ol/style";
 import {Vector as VectorSource} from "ol/source";
 import {Layers, VectorLayer} from "../Layers";
 
-type MapProps = {
-    children: any;
-    view: any;
-}
 
 const selectedFeature = new Feature();
 selectedFeature.setStyle(new Style({
@@ -24,7 +20,7 @@ selectedFeature.setStyle(new Style({
         })
     })
 }));
-const Map = ({children, view}: MapProps) => {
+const Map = ({children, view, moveEndCallback}: any) => {
     const mapRef: any = useRef();
     const [map, setMap] = useState<any>(null);
     const [alert, setAlert] = useState<any>(null)
@@ -65,6 +61,7 @@ const Map = ({children, view}: MapProps) => {
         let mapObject: any = new ol.Map(options);
         mapObject.setTarget(mapRef.current);
         setMap(mapObject);
+        mapObject.on("moveend", moveEndCallback)
 
         return () => mapObject.setTarget(undefined);
     }, []);
