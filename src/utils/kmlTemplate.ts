@@ -53,8 +53,11 @@ export default function createKmlString(places: POI[]) {
             "<Placemark xmlns=\"http://www.opengis.net/kml/2.2\" id=\"" + poi.i + "\">\n" +
             "<name>Spot " + poi.i + "</name>\n" +
             "<visibility>1</visibility>\n" +
-            "<address>" + poi.c + (poi.p ? ", " + poi.p : "")+ "</address>\n" +
-            "<description><![CDATA[" + (poi.d ?? "") + "]]></description>\n" +
+            "<address>" + poi.c + (poi.p ? ", " + poi.p : "") + "</address>\n" +
+            "<description><![CDATA[" +
+            "<b>Description:</b><hr/>" + (poi.d ?? "") +
+            "<br/><b>Comments:</b><hr/>" + (poi.o ?? "") +
+            "]]></description>\n" +
             "<Point><coordinates>" + poi.l + "</coordinates></Point>\n" +
             "<styleUrl>#placemark-" + getStyle(poi.s) + "</styleUrl>\n" +
             "</Placemark>"
